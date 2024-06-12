@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+    <script>
+
+        function login() {
+            let name = document.getElementById("name");
+            let pwd = document.getElementById("pwd");
+
+            let obj = { username: name.value, password: pwd.value };
+            let xhr = new XMLHttpRequest();
+
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState == 4 && xhr.status == 200) {
+                    // alert(xhr.responseText);
+                    localStorage.setItem("jwt", "Bearer " + xhr.responseText);
+                }
+            };
+
+            xhr.open("POST", "http://localhost:5240/api/Login", true);
+            xhr.setRequestHeader("Content-Type", "application/json");
+            xhr.send(JSON.stringify(obj));
+        }
+
+        function getData() {
+            let xhr = new XMLHttpRequest();
+
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState == 4 && xhr.status == 200) {
+                    alert(xhr.responseText);
+                }
+            };
+
+            xhr.open("GET", "http://localhost:5240/api/Filmlers", true);
+            xhr.setRequestHeader("Content-Type", "application/json");
+
+            xhr.setRequestHeader("Authorization", localStorage.getItem("jwt"));
+            xhr.send();
+        }
+
+    </script>
+</head>
+<body>
+    <form>
+        <input type="text" id="name"/>
+        <input type="password" id="pwd"/>
+    </form>
+    <button onclick="login()">Login</button>
+    <button onclick="getData()">Veri Getir</button>
+</body>
+</html>

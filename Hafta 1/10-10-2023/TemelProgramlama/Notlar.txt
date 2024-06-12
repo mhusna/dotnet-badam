@@ -1,0 +1,51 @@
+﻿Değişkenler
+-> Ram üzerinde verileri tutmak(saklamak) amacıyla; belirli tipte belirlenen alanlardır..
+-> C# Programlama Dilinde ### ön tanımlı ### 15 tip vardır.
+
+Value Type (Değer Tipli)
+------------------------------------------
+    Tip     Bellek Maliyeti    Isaret
+-------- | --------------- | --------
+    byte:   1 byte         |    +
+   sbyte:   1 byte         |    +, -
+    short:  2 byte         |    +, -
+   ushort:  2 byte         |    +
+    int:    4 byte         |    +, -    *** Tam sayılarda varsayılan tip integer'dir.
+   uint:    4 byte         |    +
+    long:   8 byte         |    +, -
+   ulong:   8 byte         |    +
+
+   float:   32 bit
+   double:  64 bit  *** Ondalıklı sayılarda varsayılan tip double'dir.
+   decimal: 128 bit
+
+   char     2 byte
+   bool     1 bit
+
+Referance Type (Referans Tipli)
+------------------------------------------
+   string   "Merhaba" => String ifadeler; karakter katarıdır... buradaki ifade 7x2 = 14 byte
+   object   
+
+1 byte = 8 bit
+1 bit => [0, 1]
+
+11111111 (max): 255: (2^8 - 1): 256 - 1: -1 programlamada sayma sayısı 0'dan başladığı için gelir.
+00000000 (min): 0
+Örneğin: 2 byte 16 bittir. (2^16 - 1)
+
++, - tutan değerlerde, sınır yarı yarıya düşer ama hem -'li hem +'lı versiyonu bulunur.
+Örneğin: sbyte => -128, +128.
+
+-> Değer tipli değişkenlerin boyutları bellidir bu yüzden stackte tutulur, referans tipliler belli
+değildir.
+
+-> Stack bölgesi çok hızlı bu yüzden limitlidir. Stack'in yapısını bozmamak için referans tipli
+değişkenler heap'te tutulur.
+
+-> Stack düzenlidir, heap dağınıktır.
+
+-> Bilgisayarın en iyi çalıştığı değişkenler tam sayı tipleridir ve hafızada daha az yer tutması 
+için 8 çeşit tam sayı tipi var. 
+
+-> Var ve Dynamic tiplerin ramde bir karşılığı yoktur. Sadece design time'da karşılığı olan şeylerdir.

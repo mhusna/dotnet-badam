@@ -1,0 +1,15 @@
+C:\Users\halkbank2\Desktop\.net\Hafta 5\07-11-2023\EntityFramework\EF-III\bin\Debug\net6.0\EF-III.exe
+C:\Users\halkbank2\Desktop\.net\Hafta 5\07-11-2023\EntityFramework\EF-III\bin\Debug\net6.0\EF-III.deps.json
+C:\Users\halkbank2\Desktop\.net\Hafta 5\07-11-2023\EntityFramework\EF-III\bin\Debug\net6.0\EF-III.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\Hafta 5\07-11-2023\EntityFramework\EF-III\bin\Debug\net6.0\EF-III.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\07-11-2023\EntityFramework\EF-III\bin\Debug\net6.0\EF-III.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 5\07-11-2023\EntityFramework\EF-III\obj\Debug\net6.0\EF-III.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 5\07-11-2023\EntityFramework\EF-III\obj\Debug\net6.0\EF-III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\Hafta 5\07-11-2023\EntityFramework\EF-III\obj\Debug\net6.0\EF-III.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 5\07-11-2023\EntityFramework\EF-III\obj\Debug\net6.0\EF-III.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\Hafta 5\07-11-2023\EntityFramework\EF-III\obj\Debug\net6.0\EF-III.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 5\07-11-2023\EntityFramework\EF-III\obj\Debug\net6.0\EF-III.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\07-11-2023\EntityFramework\EF-III\obj\Debug\net6.0\refint\EF-III.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\07-11-2023\EntityFramework\EF-III\obj\Debug\net6.0\EF-III.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 5\07-11-2023\EntityFramework\EF-III\obj\Debug\net6.0\EF-III.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 5\07-11-2023\EntityFramework\EF-III\obj\Debug\net6.0\ref\EF-III.dll

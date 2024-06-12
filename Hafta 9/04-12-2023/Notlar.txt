@@ -1,0 +1,75 @@
+        [HttpGet("test")]
+        [AllowAnonymous]
+        public IActionResult Test()
+        {
+            return Ok("Allow Anonymous Users..");
+        }
+
+Authorize bir controller'da kullanılırsa authorize olmaya gerek kalmadan kullanılır.
+
+
+
+Geçen hafta bu kodu bir controller'a bağlı olmayan html dosyasıyla apiden veri çekmek için eklemiştik.
+
+app.UseCors(x => x.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
+
+secretKey => 20 küsur karakterden fazla olması gerekir.
+
+------------------------------------------------------------------------------------------------------------
+
+var jwtSettings = builder.Configuration.GetSection("JwtSettings");
+var secretKey = jwtSettings["secretKey"];
+
+ 
+
+builder.Services.AddAuthentication(opt =>
+{
+    opt.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    opt.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+    opt.DefaultScheme = JwtBearerDefaults.AuthenticationScheme;
+}).AddJwtBearer(options =>
+{
+    options.SaveToken = true;
+    options.RequireHttpsMetadata = false;
+    options.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidateIssuer = false,
+        ValidateAudience = false,
+        
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(secretKey))
+    };
+});
+
+app.UseAuthentication();
+eklemeyi unutma..
+
+--------------------------
+private string GetToken(string email)
+        {
+            var authClaims = new List<Claim> {
+                    new Claim(ClaimTypes.Email, email)
+                };
+
+ 
+
+            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["JwtSettings:secretKey"]));
+            var signIn = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
+            var token = new JwtSecurityToken(
+               
+                authClaims.ToString(),
+                expires: DateTime.UtcNow.AddMinutes(10),
+                signingCredentials: signIn);
+
+ 
+
+            return new JwtSecurityTokenHandler().WriteToken(token);
+        }
+------------------
+"JwtSettings": {
+    "secretKey": "",
+       "validSubject": "JWTServiceAccessToken"
+  
+  },
+
+------------------------------------------------------------------------------------------------------------
+

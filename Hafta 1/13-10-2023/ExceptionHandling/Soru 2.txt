@@ -1,0 +1,63 @@
+﻿Soru 2: 1 adet tombala kartı için değerleri oluşturan metodu yazınız. 15 adet sayı, 1-90 arası
+
+------------
+BENİM ÇÖZÜM
+------------
+
+int[] SayiOlustur()
+{
+    int[] sayilar = new int[15];
+    Random random = new Random();
+    for (int i = 0; i < 15; i++)
+    {
+        int sayi = random.Next(1, 16);
+        if (!sayilar.Contains(sayi))
+            sayilar[i] = sayi;
+        else
+            i--;
+    }
+
+    return sayilar;
+}
+
+foreach (var item in SayiOlustur())
+{
+    Console.Write(item + " ");
+}
+
+------------
+HOCANIN ÇÖZÜM
+------------
+
+int[] TombalaKartiOlustur(out int KacKezCalisti)
+{
+    int[] sayilar = new int[15];
+    int sayac = 0;
+    KacKezCalisti = 0;
+    while(sayac < sayilar.Length)
+    {
+        int sayi = new Random().Next(1, 91);
+        if(!sayilar.Contains(sayi))
+        {
+            sayilar[sayac] = sayi;
+            sayac++;
+        }
+        KacKezCalisti++;
+    }
+
+    return sayilar;
+}
+
+void EkranaYaz(int[] sayilar)
+{
+    foreach(int sayi in sayilar)
+        Console.Write(sayi+ " ")
+    Console.WriteLine();
+}
+
+
+for(int i = 0; i < 3; i++)
+{
+    EkranaYaz(TombalaKartiOlustur(out int KacKez));
+    Console.WriteLine($"Döngü: {KacKez} defa çalıştı..");
+}

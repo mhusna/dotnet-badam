@@ -1,0 +1,50 @@
+1- Oracle Db Kullanıcı Aç
+
+CREATE USER OkulDB IDENTIFIED BY OkulDB DEFAULT TABLESPACE
+USERS TEMPORARY TABLESPACE temp;
+
+GRANT CONNECT, RESOURCE, DBA to OkulDB;
+
+2- Modelleri oluştur.
+3- Modeller için configuration dosyalarını ayarla.
+4- Context sınıfını düzenle.
+
+"User Id = KisiDB; Password = KisiDB; Data Source = (DESCRIPTION = (ADDRESS_LIST = (ADDRESS = (PROTOCOL = TCP)(HOST = 127.0.0.1)(PORT = 1521)))(CONNECT_DATA = (SERVER = DEDICATED)(SID = orcl)))"
+
+5- Özel Manager sınıflarını oluştur.
+6- Özel manager sınıflarını ManagerBLL sınıfına özellik olarak ekle. 
+
+## Genel Utility Sınıfında
+
+    => Şifreleme metodunu koy.
+
+
+## Özel Utility Sınıflarında
+
+	=> Bilgilerini alma metodu yaz. [Ekleme ve Güncelleme için] [Ekleme işleminde admin'i new'leyerek gönder.]
+        
+        public static Admin GetInformation(Admin admin)
+        {
+            Console.Write("Admin Adı: ");
+            admin.FirstName = Console.ReadLine();
+
+            Console.Write("Admin Soyadı: ");
+            admin.LastName = Console.ReadLine();
+
+            Console.Write("Admin Şifresi: ");
+            admin.Password = Console.ReadLine();
+
+            return admin;
+        }
+
+
+	=> Bilgilerini yazdırma metodu olsun [Listeleme İçin]
+
+	    public static void AdminDisplay(string title, params Admin[]? list)
+        {
+            Console.Clear();
+            Console.WriteLine($"## {title} ##");
+            foreach (Admin admin in list)
+                Console.WriteLine($"ID: {admin.AdminID} First Name: {admin.FirstName} Last Name: {admin.LastName} Password: {admin.Password}");
+        }
+

@@ -1,0 +1,49 @@
+﻿Proje: Onion Katmanlı Mimari İle Haber Sitesi Oluşturma
+
+Konu Detayı:
+------------
+	>> Haber Girişi Olacak (Admin)
+	>> Uyeler haberlere yorum yapabilecek.
+	>> Uyeler istedikleri haberleri takip listesine atabilecek.
+	>> Kayıt ekleme, silme ve güncelleme tarihleri.
+
+Kullanılacak Teknolojiler
+-------------------------
+	>> Onion n-Layer
+	>> MVC Core 6 (UI)
+	>> Generic Repository Pattern
+	>> AutoMapper
+	>> DTO, ViewModel
+	>> Func<> => Expression<Func<>> ??
+	>> User işlemleri (Admin / Uye)
+	>> Identity (On yüz MVC'de gerekli sınıflar kullanılarak yazılacak.)
+	>> Area Kullanımı (Admin Panel)
+	>> Entity Framework Core 6
+	>> Veriler veritabanından kalıcı olarak silinmeyecek. (Aktif / Pasif / Guncellendi)
+
+İşlem Sırası
+------------
+1- Domain Layer
+	>> Entities: Veritabanındaki tablolara karşılık gelen sınıflar.
+	>> Enums
+	>> Repository (Abstract => Interface)
+
+2- Infrastructure Layer
+	>> IdentityDbContext sınıfından türetilen sınıf (HaberContext)
+	>> Configuration sınıfları => IEntityTypeConfigurations
+	>> Repository'nin Concrete sınıfları.
+
+3- Application Layer
+	>> Servisler (BLL), Repository'leri kullanarak DIP (Dependency Inversion Principle) ile gerekli altyapıyı oluşturucaz.
+	>> Models => DTO, ViewModels(Bütün hepsi burda olmayabilir, ortama özel varsa pl'e aktarmak gerekir.)
+	>> AutoMapper: Mapping tanımlamaları ve eşleştirmeler.
+
+4- Presentation Layer (UI)
+	>> Önyüz'de gerekli olan ekran tasarımları.
+	>> Login, Register için Identity kullanarak ekranların oluşturulması.
+	>> Gerekli olan ViewModel'lerin oluşturulması.
+
+Haberleri göster (Admin, normal üye için)
+Her haber gösterildiğinde (user için) => görüntülenmeSayisi++
+Yorum ekle.. Uye olanlar yorum ekleyebilmeli
+Silme ile alakalı herhangi bir örnek..

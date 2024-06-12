@@ -1,0 +1,15 @@
+C:\Users\halkbank2\Desktop\.net\10-10-2023\TemelProgramlama\Sart-Ifadeleri\bin\Debug\net6.0\Sart-Ifadeleri.exe
+C:\Users\halkbank2\Desktop\.net\10-10-2023\TemelProgramlama\Sart-Ifadeleri\bin\Debug\net6.0\Sart-Ifadeleri.deps.json
+C:\Users\halkbank2\Desktop\.net\10-10-2023\TemelProgramlama\Sart-Ifadeleri\bin\Debug\net6.0\Sart-Ifadeleri.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\10-10-2023\TemelProgramlama\Sart-Ifadeleri\bin\Debug\net6.0\Sart-Ifadeleri.dll
+C:\Users\halkbank2\Desktop\.net\10-10-2023\TemelProgramlama\Sart-Ifadeleri\bin\Debug\net6.0\Sart-Ifadeleri.pdb
+C:\Users\halkbank2\Desktop\.net\10-10-2023\TemelProgramlama\Sart-Ifadeleri\obj\Debug\net6.0\Sart-Ifadeleri.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\10-10-2023\TemelProgramlama\Sart-Ifadeleri\obj\Debug\net6.0\Sart-Ifadeleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\10-10-2023\TemelProgramlama\Sart-Ifadeleri\obj\Debug\net6.0\Sart-Ifadeleri.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\10-10-2023\TemelProgramlama\Sart-Ifadeleri\obj\Debug\net6.0\Sart-Ifadeleri.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\10-10-2023\TemelProgramlama\Sart-Ifadeleri\obj\Debug\net6.0\Sart-Ifadeleri.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\10-10-2023\TemelProgramlama\Sart-Ifadeleri\obj\Debug\net6.0\Sart-Ifadeleri.dll
+C:\Users\halkbank2\Desktop\.net\10-10-2023\TemelProgramlama\Sart-Ifadeleri\obj\Debug\net6.0\refint\Sart-Ifadeleri.dll
+C:\Users\halkbank2\Desktop\.net\10-10-2023\TemelProgramlama\Sart-Ifadeleri\obj\Debug\net6.0\Sart-Ifadeleri.pdb
+C:\Users\halkbank2\Desktop\.net\10-10-2023\TemelProgramlama\Sart-Ifadeleri\obj\Debug\net6.0\Sart-Ifadeleri.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\10-10-2023\TemelProgramlama\Sart-Ifadeleri\obj\Debug\net6.0\ref\Sart-Ifadeleri.dll

@@ -1,0 +1,15 @@
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV_Hoca\bin\Debug\net6.0\Delegates_IV_Hoca.exe
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV_Hoca\bin\Debug\net6.0\Delegates_IV_Hoca.deps.json
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV_Hoca\bin\Debug\net6.0\Delegates_IV_Hoca.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV_Hoca\bin\Debug\net6.0\Delegates_IV_Hoca.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV_Hoca\bin\Debug\net6.0\Delegates_IV_Hoca.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV_Hoca\obj\Debug\net6.0\Delegates_IV_Hoca.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV_Hoca\obj\Debug\net6.0\Delegates_IV_Hoca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV_Hoca\obj\Debug\net6.0\Delegates_IV_Hoca.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV_Hoca\obj\Debug\net6.0\Delegates_IV_Hoca.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV_Hoca\obj\Debug\net6.0\Delegates_IV_Hoca.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV_Hoca\obj\Debug\net6.0\Delegates_IV_Hoca.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV_Hoca\obj\Debug\net6.0\refint\Delegates_IV_Hoca.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV_Hoca\obj\Debug\net6.0\Delegates_IV_Hoca.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV_Hoca\obj\Debug\net6.0\Delegates_IV_Hoca.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV_Hoca\obj\Debug\net6.0\ref\Delegates_IV_Hoca.dll

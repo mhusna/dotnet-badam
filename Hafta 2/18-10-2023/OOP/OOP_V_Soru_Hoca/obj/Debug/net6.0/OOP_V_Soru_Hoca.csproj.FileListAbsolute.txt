@@ -1,0 +1,15 @@
+C:\Users\halkbank2\Desktop\.net\Hafta 2\18-10-2023\OOP\OOP_V_Soru_Hoca\bin\Debug\net6.0\OOP_V_Soru_Hoca.exe
+C:\Users\halkbank2\Desktop\.net\Hafta 2\18-10-2023\OOP\OOP_V_Soru_Hoca\bin\Debug\net6.0\OOP_V_Soru_Hoca.deps.json
+C:\Users\halkbank2\Desktop\.net\Hafta 2\18-10-2023\OOP\OOP_V_Soru_Hoca\bin\Debug\net6.0\OOP_V_Soru_Hoca.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\Hafta 2\18-10-2023\OOP\OOP_V_Soru_Hoca\bin\Debug\net6.0\OOP_V_Soru_Hoca.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 2\18-10-2023\OOP\OOP_V_Soru_Hoca\bin\Debug\net6.0\OOP_V_Soru_Hoca.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 2\18-10-2023\OOP\OOP_V_Soru_Hoca\obj\Debug\net6.0\OOP_V_Soru_Hoca.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 2\18-10-2023\OOP\OOP_V_Soru_Hoca\obj\Debug\net6.0\OOP_V_Soru_Hoca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\Hafta 2\18-10-2023\OOP\OOP_V_Soru_Hoca\obj\Debug\net6.0\OOP_V_Soru_Hoca.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 2\18-10-2023\OOP\OOP_V_Soru_Hoca\obj\Debug\net6.0\OOP_V_Soru_Hoca.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\Hafta 2\18-10-2023\OOP\OOP_V_Soru_Hoca\obj\Debug\net6.0\OOP_V_Soru_Hoca.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 2\18-10-2023\OOP\OOP_V_Soru_Hoca\obj\Debug\net6.0\OOP_V_Soru_Hoca.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 2\18-10-2023\OOP\OOP_V_Soru_Hoca\obj\Debug\net6.0\refint\OOP_V_Soru_Hoca.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 2\18-10-2023\OOP\OOP_V_Soru_Hoca\obj\Debug\net6.0\OOP_V_Soru_Hoca.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 2\18-10-2023\OOP\OOP_V_Soru_Hoca\obj\Debug\net6.0\OOP_V_Soru_Hoca.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 2\18-10-2023\OOP\OOP_V_Soru_Hoca\obj\Debug\net6.0\ref\OOP_V_Soru_Hoca.dll

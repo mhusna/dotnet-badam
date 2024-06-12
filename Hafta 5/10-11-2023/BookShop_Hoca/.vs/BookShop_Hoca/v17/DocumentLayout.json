@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 5\\10-11-2023\\BookShop_Hoca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9017E1B3-E95A-45C6-91F4-1A8DED1E01A1}|BookShop_Hoca\\BookShop_Hoca.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 5\\10-11-2023\\bookshop_hoca\\bookshop_hoca\\models\\yayinevi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9017E1B3-E95A-45C6-91F4-1A8DED1E01A1}|BookShop_Hoca\\BookShop_Hoca.csproj|solutionrelative:bookshop_hoca\\models\\yayinevi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9017E1B3-E95A-45C6-91F4-1A8DED1E01A1}|BookShop_Hoca\\BookShop_Hoca.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 5\\10-11-2023\\bookshop_hoca\\bookshop_hoca\\models\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9017E1B3-E95A-45C6-91F4-1A8DED1E01A1}|BookShop_Hoca\\BookShop_Hoca.csproj|solutionrelative:bookshop_hoca\\models\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Yayinevi.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 5\\10-11-2023\\BookShop_Hoca\\BookShop_Hoca\\Models\\Yayinevi.cs",
+              "RelativeDocumentMoniker": "BookShop_Hoca\\Models\\Yayinevi.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 5\\10-11-2023\\BookShop_Hoca\\BookShop_Hoca\\Models\\Yayinevi.cs",
+              "RelativeToolTip": "BookShop_Hoca\\Models\\Yayinevi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:19:27.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kitap.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 5\\10-11-2023\\BookShop_Hoca\\BookShop_Hoca\\Models\\Kitap.cs",
+              "RelativeDocumentMoniker": "BookShop_Hoca\\Models\\Kitap.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 5\\10-11-2023\\BookShop_Hoca\\BookShop_Hoca\\Models\\Kitap.cs",
+              "RelativeToolTip": "BookShop_Hoca\\Models\\Kitap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:19:21.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\24-11-2023\\OnionHaber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6BBA4E-E350-4E4F-9754-6164E8A5301C}|Haber.Domain\\Haber.Domain.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 7\\24-11-2023\\onionhaber\\haber.domain\\enums\\kayitdurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6BBA4E-E350-4E4F-9754-6164E8A5301C}|Haber.Domain\\Haber.Domain.csproj|solutionrelative:haber.domain\\enums\\kayitdurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6BBA4E-E350-4E4F-9754-6164E8A5301C}|Haber.Domain\\Haber.Domain.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 7\\24-11-2023\\onionhaber\\haber.domain\\entities\\yorum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6BBA4E-E350-4E4F-9754-6164E8A5301C}|Haber.Domain\\Haber.Domain.csproj|solutionrelative:haber.domain\\entities\\yorum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6BBA4E-E350-4E4F-9754-6164E8A5301C}|Haber.Domain\\Haber.Domain.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 7\\24-11-2023\\onionhaber\\haber.domain\\entities\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6BBA4E-E350-4E4F-9754-6164E8A5301C}|Haber.Domain\\Haber.Domain.csproj|solutionrelative:haber.domain\\entities\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6BBA4E-E350-4E4F-9754-6164E8A5301C}|Haber.Domain\\Haber.Domain.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 7\\24-11-2023\\onionhaber\\haber.domain\\entities\\haber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6BBA4E-E350-4E4F-9754-6164E8A5301C}|Haber.Domain\\Haber.Domain.csproj|solutionrelative:haber.domain\\entities\\haber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6BBA4E-E350-4E4F-9754-6164E8A5301C}|Haber.Domain\\Haber.Domain.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 7\\24-11-2023\\onionhaber\\haber.domain\\entities\\favori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6BBA4E-E350-4E4F-9754-6164E8A5301C}|Haber.Domain\\Haber.Domain.csproj|solutionrelative:haber.domain\\entities\\favori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6BBA4E-E350-4E4F-9754-6164E8A5301C}|Haber.Domain\\Haber.Domain.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 7\\24-11-2023\\onionhaber\\haber.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6BBA4E-E350-4E4F-9754-6164E8A5301C}|Haber.Domain\\Haber.Domain.csproj|solutionrelative:haber.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6BBA4E-E350-4E4F-9754-6164E8A5301C}|Haber.Domain\\Haber.Domain.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 7\\24-11-2023\\onionhaber\\haber.domain\\entities\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6BBA4E-E350-4E4F-9754-6164E8A5301C}|Haber.Domain\\Haber.Domain.csproj|solutionrelative:haber.domain\\entities\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD1CC3B-7B37-4141-87E0-DECB15B0F8FF}|Haber.Infrastructure\\Haber.Infrastructure.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 7\\24-11-2023\\onionhaber\\haber.infrastructure\\habercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD1CC3B-7B37-4141-87E0-DECB15B0F8FF}|Haber.Infrastructure\\Haber.Infrastructure.csproj|solutionrelative:haber.infrastructure\\habercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD1CC3B-7B37-4141-87E0-DECB15B0F8FF}|Haber.Infrastructure\\Haber.Infrastructure.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 7\\24-11-2023\\onionhaber\\haber.infrastructure\\entitytypeconfigurations\\appuser_cfg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD1CC3B-7B37-4141-87E0-DECB15B0F8FF}|Haber.Infrastructure\\Haber.Infrastructure.csproj|solutionrelative:haber.infrastructure\\entitytypeconfigurations\\appuser_cfg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KayitDurumu.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\24-11-2023\\OnionHaber\\Haber.Domain\\Enums\\KayitDurumu.cs",
+              "RelativeDocumentMoniker": "Haber.Domain\\Enums\\KayitDurumu.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\24-11-2023\\OnionHaber\\Haber.Domain\\Enums\\KayitDurumu.cs",
+              "RelativeToolTip": "Haber.Domain\\Enums\\KayitDurumu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:24:11.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Yorum.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\24-11-2023\\OnionHaber\\Haber.Domain\\Entities\\Yorum.cs",
+              "RelativeDocumentMoniker": "Haber.Domain\\Entities\\Yorum.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\24-11-2023\\OnionHaber\\Haber.Domain\\Entities\\Yorum.cs",
+              "RelativeToolTip": "Haber.Domain\\Entities\\Yorum.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:24:07.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kategori.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\24-11-2023\\OnionHaber\\Haber.Domain\\Entities\\Kategori.cs",
+              "RelativeDocumentMoniker": "Haber.Domain\\Entities\\Kategori.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\24-11-2023\\OnionHaber\\Haber.Domain\\Entities\\Kategori.cs",
+              "RelativeToolTip": "Haber.Domain\\Entities\\Kategori.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:24:03.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Haber.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\24-11-2023\\OnionHaber\\Haber.Domain\\Entities\\Haber.cs",
+              "RelativeDocumentMoniker": "Haber.Domain\\Entities\\Haber.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\24-11-2023\\OnionHaber\\Haber.Domain\\Entities\\Haber.cs",
+              "RelativeToolTip": "Haber.Domain\\Entities\\Haber.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:23:56.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Favori.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\24-11-2023\\OnionHaber\\Haber.Domain\\Entities\\Favori.cs",
+              "RelativeDocumentMoniker": "Haber.Domain\\Entities\\Favori.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\24-11-2023\\OnionHaber\\Haber.Domain\\Entities\\Favori.cs",
+              "RelativeToolTip": "Haber.Domain\\Entities\\Favori.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:23:52.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\24-11-2023\\OnionHaber\\Haber.Domain\\Entities\\AppRole.cs",
+              "RelativeDocumentMoniker": "Haber.Domain\\Entities\\AppRole.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\24-11-2023\\OnionHaber\\Haber.Domain\\Entities\\AppRole.cs",
+              "RelativeToolTip": "Haber.Domain\\Entities\\AppRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:23:50.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\24-11-2023\\OnionHaber\\Haber.Domain\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Haber.Domain\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\24-11-2023\\OnionHaber\\Haber.Domain\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Haber.Domain\\Entities\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:33:46.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppUser_CFG.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\24-11-2023\\OnionHaber\\Haber.Infrastructure\\EntityTypeConfigurations\\AppUser_CFG.cs",
+              "RelativeDocumentMoniker": "Haber.Infrastructure\\EntityTypeConfigurations\\AppUser_CFG.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\24-11-2023\\OnionHaber\\Haber.Infrastructure\\EntityTypeConfigurations\\AppUser_CFG.cs",
+              "RelativeToolTip": "Haber.Infrastructure\\EntityTypeConfigurations\\AppUser_CFG.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:33:03.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HaberContext.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\24-11-2023\\OnionHaber\\Haber.Infrastructure\\HaberContext.cs",
+              "RelativeDocumentMoniker": "Haber.Infrastructure\\HaberContext.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\24-11-2023\\OnionHaber\\Haber.Infrastructure\\HaberContext.cs",
+              "RelativeToolTip": "Haber.Infrastructure\\HaberContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:33:03.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

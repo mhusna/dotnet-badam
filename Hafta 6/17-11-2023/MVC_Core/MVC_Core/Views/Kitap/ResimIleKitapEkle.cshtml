@@ -1,0 +1,37 @@
+﻿@model KitapEkleVM
+
+
+<form method="post" asp-action="ResimIleKitapEkle" enctype="multipart/form-data">
+    <table>
+        <tr>
+            <td> <label asp-for="Kitap.KitapAdi"></label> </td>
+            <td> <input asp-for="Kitap.KitapAdi" class="form-control" /> </td>
+        </tr>
+
+        <tr>
+            <td> <label asp-for="Kitap.Fiyat"></label> </td>
+            <td> <input asp-for="Kitap.Fiyat" class="form-control" /> </td>
+        </tr>
+
+        <!-- Resim Dosyası -->
+        <tr>
+            <td> <label asp-for="Kitap.File"></label> </td>
+            <td> <input asp-for="Kitap.File" type="file" class="form-control" /> </td>
+        </tr>
+
+        <tr>
+            <td> <label asp-for="Kitap.KategoriID"></label> </td>
+            <td> <select asp-for="Kitap.KategoriID" asp-items="@Model.Kategoriler" class="form-control"></select> </td>
+        </tr>
+
+        <tr>
+            <td> <label asp-for="Kitap.KategoriID"></label> </td>
+            <td> <select asp-for="@Model.Kitap.YazarID" asp-items="@Model.Yazarlar" class="form-control"></select> </td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center">
+                <input type="submit" value="Ekle" class="btn btn-outline-secondary" />
+            </td>
+        </tr>
+    </table>
+</form>

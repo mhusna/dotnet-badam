@@ -1,0 +1,14 @@
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 1\13-10-2023\SayiCevirme\bin\Debug\net6.0\SayiCevirme.exe
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 1\13-10-2023\SayiCevirme\bin\Debug\net6.0\SayiCevirme.deps.json
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 1\13-10-2023\SayiCevirme\bin\Debug\net6.0\SayiCevirme.runtimeconfig.json
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 1\13-10-2023\SayiCevirme\bin\Debug\net6.0\SayiCevirme.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 1\13-10-2023\SayiCevirme\bin\Debug\net6.0\SayiCevirme.pdb
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 1\13-10-2023\SayiCevirme\obj\Debug\net6.0\SayiCevirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 1\13-10-2023\SayiCevirme\obj\Debug\net6.0\SayiCevirme.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 1\13-10-2023\SayiCevirme\obj\Debug\net6.0\SayiCevirme.AssemblyInfo.cs
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 1\13-10-2023\SayiCevirme\obj\Debug\net6.0\SayiCevirme.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 1\13-10-2023\SayiCevirme\obj\Debug\net6.0\SayiCevirme.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 1\13-10-2023\SayiCevirme\obj\Debug\net6.0\refint\SayiCevirme.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 1\13-10-2023\SayiCevirme\obj\Debug\net6.0\SayiCevirme.pdb
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 1\13-10-2023\SayiCevirme\obj\Debug\net6.0\SayiCevirme.genruntimeconfig.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 1\13-10-2023\SayiCevirme\obj\Debug\net6.0\ref\SayiCevirme.dll

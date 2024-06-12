@@ -1,0 +1,17 @@
+﻿Bolum - Many to One - Personel: Personel içerisinde BolumID tutuyoruz.
+Proje - Many to One - Personel:
+
+## Model First ##
+=> Data Annotations => [] => AOP: Attributed Oriented Programming
+
+	Data Annotations kullanmak iyi ama model sınıfı çok kalabalıklaşıyor. Kodun okunabilirliği azalıyor.
+
+## Unit of Work Pattern ##
+Normalde her işlemden sonra context.savechanges yapmak gerekiyor.
+Ama ef, unit of work patterni desteklediği için en sonda yaparsak olur.
+
+
+CREATE USER OkulDB IDENTIFIED BY OkulDB DEFAULT TABLESPACE
+USERS TEMPORARY TABLESPACE temp;
+
+GRANT CONNECT, RESOURCE, DBA to OkulDB;

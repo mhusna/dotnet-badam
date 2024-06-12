@@ -1,0 +1,69 @@
+﻿ Tablo ve sütunlar ile ilgili Oracle üzerindeki tip ad vb ayarlar 3 şekilde yapılabilir.
+
+    1- Data Annotations: Çok büyük projelerde model sınıfı karışır.
+    
+    2- Fluent API kullanımı: Tüm ayarlar OnModelCreating metodunda yapılır. Bunun sonucunda bu
+       metodu okumak zorlaşır.
+
+    3- Fluent API kullanımı (IEntityTypeConfiguration) arayüzünü uygulayarak: Her model için ayrı
+       bir configuration sınıfı oluşturulur.
+
+## 07-11-2023 [EF-II] ##
+------------------------
+
+## Database First Yaklaşımı
+
+               ConnectionStrings
+Scaffold-DbContext "" Oracle.EntityFrameworkCore -o Models
+                                                                    İstediğin tabloları yaz. Büyük harfle
+Scaffold-DbContext "" Oracle.EntityFrameworkCore -o Models -tables EMPLOYEES, DEPARTMENTS
+
+## EF Core Tracking Mechanizm
+=> EF'de aksi söylenmedikçe; veritabanından local(RAM)'e yüklenen tüm entity'ler için State verisi tutulur.
+=> Modified, Added, Deleted vb. gibi..
+=> Buna bağlı olarak; EF'ün çalışması yavaşlar. Özellikle SELECT sorgularında bu tür verileri tutmaya ihtiyaç yoktur.
+Bu nedenle sorguyu hızlandırmak için Tracking Mechanism devre dışı bırakılabilir.
+=> Context.SaveChanges() metodu uygulandığında localde bulunan entity'lerin State verileri üzerinden SQL cümleleri
+oluşturulur ve veritabanına yansıtılır.
+=> Bu işlemden sonra tüm entity'lerin State verileri tekrar UNCHANGED olarak değişir.
+
+** Tüm proje için Tracking mekanizmasını devre dışı bırakmak için kullanılır. Ve OnConfiguring içerisine yazılır.
+    
+    optionsBuilder.UseQueryTrackingBehavior(QueryTrackingBehavior.NoTracking);
+
+## EF-III [Partial] ##
+=> Mesela formda bir taraf microsoft'a ait bir taraf bize. Çünkü microsoft biz forma bişey ekleyince o tarafı yeniden
+generate ediyor.
+
+## [EF-IV] ##
+
+                entity.HasOne(d => d.Kategori)
+                    .WithMany(p => p.Urunlers)
+                    //.OnDelete(DeleteBehavior.NoAction) // Silme durumunu buradan kontrol ediyoruz.
+                    //.OnDelete(DeleteBehavior.SetNull) // Siler ve null atar.
+                    .OnDelete(DeleteBehavior.Cascade)
+                    .HasForeignKey(d => d.KategoriId);
+
+Yapılacak İş: Oyuncak kategorisini sil.
+ 
+## No-Action Yöntemi ##
+Sonuç: Hata verir. Child kayıtları var.
+NŞA: Bir kayıt foreign key olarak başka bir kaydı refere etmemesi gerekir.
+Çözüm: Önce tüm child'lar silinmeli, sonra kategori silinebilir.
+
+## SetNull Yöntemi ##
+Uyarı: Eğer FK olan alan nullable değilse hata verir.
+Sonuç: Kategori tablosundan istenilen kaydı siler. İlişkili olduğu tablodaki FK olan alandaki
+değeri NULL olarak değiştirir. Orphan Records (Dikkatli Olmak Gerekir !)
+
+## Cascade Yöntemi ##
+Yapılacak İş: Kitap kategorisini sil.
+Sonuç: Kategori tablosundan istenilen kayıdı siler, aynı zamanda ilişkili oldupu tablodaki tüm
+kayıtları da siler.
+
+=> Client ile başlayanlar (ClientCascade, ClientSetNull, ClientNoAction) veritabanı üzerinde değil,
+context nesnesi üzerinde uygular.
+
+## Include() Kullanımı ##
+=> Join işlemleri için kullanılır.
+=> Include olmasaydı: Expression Tree yada SQL sorgusu gibi yazmak zorunda kalacaktık.

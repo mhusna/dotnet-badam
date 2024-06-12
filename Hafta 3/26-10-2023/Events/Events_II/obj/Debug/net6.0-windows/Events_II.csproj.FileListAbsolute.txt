@@ -1,0 +1,17 @@
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_II\bin\Debug\net6.0-windows\Events_II.exe
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_II\bin\Debug\net6.0-windows\Events_II.deps.json
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_II\bin\Debug\net6.0-windows\Events_II.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_II\bin\Debug\net6.0-windows\Events_II.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_II\bin\Debug\net6.0-windows\Events_II.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_II\obj\Debug\net6.0-windows\Events_II.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_II\obj\Debug\net6.0-windows\Events_II.Form1.resources
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_II\obj\Debug\net6.0-windows\Events_II.csproj.GenerateResource.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_II\obj\Debug\net6.0-windows\Events_II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_II\obj\Debug\net6.0-windows\Events_II.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_II\obj\Debug\net6.0-windows\Events_II.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_II\obj\Debug\net6.0-windows\Events_II.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_II\obj\Debug\net6.0-windows\Events_II.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_II\obj\Debug\net6.0-windows\refint\Events_II.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_II\obj\Debug\net6.0-windows\Events_II.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_II\obj\Debug\net6.0-windows\Events_II.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_II\obj\Debug\net6.0-windows\ref\Events_II.dll

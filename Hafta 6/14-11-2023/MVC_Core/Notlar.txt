@@ -1,0 +1,30 @@
+﻿## Distributed Architecture (Dağıtık Mimari) => İnternet Programcılığı + Web Servisler buna dahildir.
+=> Client - Server mantığıyla çalışan uygulamalardır.
+
+Tcp/ip => Güvenli ama yavaş. E-ticaret siteleri, dosya paylaşımları.
+Udp => Hizli, güvensiz. Televizyon yayınları.
+Http => Hyper text transfer protocol.
+Https
+ftp
+MVVM (Model - View - ViewModel): Desktop uygulamaları için uygundur.
+## Web Programcılığı
+	=> Statik Web Siteleri
+		
+	=> Dinamik Web Siteleri: Sunucu üzerinde sayfa tekrardan generate edilir.
+	   İlk teknoloji cgi (common gateway interface)
+	           sonra asp, php, jsp, asp.net
+
+	ASP (Active Server Pages)
+
+	ASP.NET (.Net Framework üzerinde çalışır.)
+		=> Web Forms => *.aspx uzantıya sahiptirler.
+		=> MVC(Microsoft 2008~)(Model - View - Controller) Design Pattern(1980~): Dağıtık mimari için
+		   geliştirilmiştir. Client - Server mantığı için.
+
+		=> MVC Core(2016)
+			MVC
+			Razor Pages => Web Forms Yerine
+
+
+## HTML(Hyper Text Markup Language)
+=>> MDN: Mozilla developer network

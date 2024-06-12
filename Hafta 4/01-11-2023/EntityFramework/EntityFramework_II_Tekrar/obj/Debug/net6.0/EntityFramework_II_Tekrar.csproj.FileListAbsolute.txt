@@ -1,0 +1,14 @@
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 4\01-11-2023\EntityFramework\EntityFramework_II_Tekrar\bin\Debug\net6.0\EntityFramework_II_Tekrar.exe
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 4\01-11-2023\EntityFramework\EntityFramework_II_Tekrar\bin\Debug\net6.0\EntityFramework_II_Tekrar.deps.json
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 4\01-11-2023\EntityFramework\EntityFramework_II_Tekrar\bin\Debug\net6.0\EntityFramework_II_Tekrar.runtimeconfig.json
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 4\01-11-2023\EntityFramework\EntityFramework_II_Tekrar\bin\Debug\net6.0\EntityFramework_II_Tekrar.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 4\01-11-2023\EntityFramework\EntityFramework_II_Tekrar\bin\Debug\net6.0\EntityFramework_II_Tekrar.pdb
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 4\01-11-2023\EntityFramework\EntityFramework_II_Tekrar\obj\Debug\net6.0\EntityFramework_II_Tekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 4\01-11-2023\EntityFramework\EntityFramework_II_Tekrar\obj\Debug\net6.0\EntityFramework_II_Tekrar.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 4\01-11-2023\EntityFramework\EntityFramework_II_Tekrar\obj\Debug\net6.0\EntityFramework_II_Tekrar.AssemblyInfo.cs
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 4\01-11-2023\EntityFramework\EntityFramework_II_Tekrar\obj\Debug\net6.0\EntityFramework_II_Tekrar.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 4\01-11-2023\EntityFramework\EntityFramework_II_Tekrar\obj\Debug\net6.0\EntityFramework_II_Tekrar.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 4\01-11-2023\EntityFramework\EntityFramework_II_Tekrar\obj\Debug\net6.0\refint\EntityFramework_II_Tekrar.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 4\01-11-2023\EntityFramework\EntityFramework_II_Tekrar\obj\Debug\net6.0\EntityFramework_II_Tekrar.pdb
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 4\01-11-2023\EntityFramework\EntityFramework_II_Tekrar\obj\Debug\net6.0\EntityFramework_II_Tekrar.genruntimeconfig.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 4\01-11-2023\EntityFramework\EntityFramework_II_Tekrar\obj\Debug\net6.0\ref\EntityFramework_II_Tekrar.dll

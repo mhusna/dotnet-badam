@@ -1,0 +1,49 @@
+﻿MICROSOFT DEVELOPER NETWORK (msdn)
+
+--- OOP_I ---
+
+## Polymorphism (Çok şekillilik - Çok biçimlilik)
+=> Aynı isimli sınıf üyelerinin türeyen sınıflarda farklı şekilde çalışmasına denir.
+=> Özel bir durumun çözümüdür.
+=> Miras alarak oluşturulan sınıfları; miras alındıkları base class üzerinden referans olarak
+tutup kullanmak istediğimizde; aynı isimli sınıf üyelerinin base classtaki üyesi çalıştırılır.
+Polymorphism bu problemi çözer.
+
+=> Polymorphism'de zorunluluk yoktur, istersen yaparsın istersen yapmazsın. Ama abstract'ta 
+override etmek zorunludur.
+
+--- OOP_III ---
+
+## Interface ##
+
+=> Sınıfları framework uyumlu hale getirmek için kullanılır.
+=> Loosly coupling(Gevşek bağlı) yapılar kullanmak için kullanılır.
+	- Dependency injection'da olan olay.
+=> Plug-In türü uygulamalar geliştirme için kullanılır.
+	- DLC'ler mantığı, bir oyuna yeni özellik geliyor ve oyuna uyumlu çalışıyor.
+=> Sınıflara yetenek kazandırmak için kullanılır.
+=> Asenkron uygulama geliştirmek istenildiğinde.
+=> WCF(Contract) ile servis yazarken kullanılırdı.. (Artık yok.)
+=> Türetmede sınıflar arasında oluşan hiyerarşik yapıyı kırmak(yada esnetmek) amacıyla kullanılır.
+	- Gemi de yüzebilir, balık da, insan da. Yüzme özelliğini class'lardan vermiyoruz. Interface'ler
+	üzerinden özellikler aktarılıyor. Hiyerarşik bağımlılıktan kurtarıyor.
+=> C# programlama dilinde multiple inheritance olmamasından kaynaklanan dezavantajı
+kapatmak için kullanılır.
+=> Bir hiyerarşik düzen içerisindeki sınıfları, herhangi bir arayüzü uygulayıp uygulamadıklarına
+göre yakalayabiliriz. (OOP_VII)
+	- Interface olmadan da yapılır ama if şartları ile kontrol etmemiz gerekir. Gta araba boyama 
+	örneği..
+
+## Interface Yazım Kuralları ##
+
+=> NŞA: Arayüz içerisinde tanımlanmış olan üyelerin gövdeleri olmaz.
+=> Sonradan gelen yenilikle arayüzlerdeki yapıların gövdeleri olabilir. Fakat bu tanımlama
+sadece arayüz için geçerlidir.
+
+=> NŞA: Arayüzlerde erişim belirleyicileri kullanılamaz.
+=> Sonradan gelen yenilikle kullanılabilir.
+
+=> Değişken tanımlanamaz ama property olabilir.
+
+*** As Operatoru: Tip dönüşümü yapar. Çeviremezse null atar.
+*** Is Operatoru: Tip kontrolü yapar.

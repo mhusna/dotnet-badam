@@ -1,0 +1,15 @@
+C:\Users\halkbank2\Desktop\.net\Hafta 2\18-10-2023\OOP\OOP_V_Soru\bin\Debug\net6.0\OOP_V_Soru.exe
+C:\Users\halkbank2\Desktop\.net\Hafta 2\18-10-2023\OOP\OOP_V_Soru\bin\Debug\net6.0\OOP_V_Soru.deps.json
+C:\Users\halkbank2\Desktop\.net\Hafta 2\18-10-2023\OOP\OOP_V_Soru\bin\Debug\net6.0\OOP_V_Soru.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\Hafta 2\18-10-2023\OOP\OOP_V_Soru\bin\Debug\net6.0\OOP_V_Soru.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 2\18-10-2023\OOP\OOP_V_Soru\bin\Debug\net6.0\OOP_V_Soru.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 2\18-10-2023\OOP\OOP_V_Soru\obj\Debug\net6.0\OOP_V_Soru.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 2\18-10-2023\OOP\OOP_V_Soru\obj\Debug\net6.0\OOP_V_Soru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\Hafta 2\18-10-2023\OOP\OOP_V_Soru\obj\Debug\net6.0\OOP_V_Soru.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 2\18-10-2023\OOP\OOP_V_Soru\obj\Debug\net6.0\OOP_V_Soru.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\Hafta 2\18-10-2023\OOP\OOP_V_Soru\obj\Debug\net6.0\OOP_V_Soru.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 2\18-10-2023\OOP\OOP_V_Soru\obj\Debug\net6.0\OOP_V_Soru.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 2\18-10-2023\OOP\OOP_V_Soru\obj\Debug\net6.0\refint\OOP_V_Soru.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 2\18-10-2023\OOP\OOP_V_Soru\obj\Debug\net6.0\OOP_V_Soru.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 2\18-10-2023\OOP\OOP_V_Soru\obj\Debug\net6.0\OOP_V_Soru.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 2\18-10-2023\OOP\OOP_V_Soru\obj\Debug\net6.0\ref\OOP_V_Soru.dll

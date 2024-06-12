@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SOLID_II_OCP/1.0.0": {
+        "runtime": {
+          "SOLID_II_OCP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SOLID_II_OCP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

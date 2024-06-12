@@ -1,0 +1,11 @@
+## Css Notları ##
+
+Submit Butonu => Postback işlemi yapar.
+Human Computer Interaction konusu UI/UX'in babasıdır. Bu konuyla alakalı makalelere bakarsan iyi olur.
+Box Modeling araştır.
+Grid kullanımını araştır.
+
+## Js Notları ##
+=> Javascript kodlarını iki yere yazabiliriz.
+=> Js'de 4 tane tip var; string, number, boolean, object.
+=> Js kodlarını her zaman en aşağıya yaz.

@@ -1,0 +1,30 @@
+﻿N-Layer Architecture: Katmanlar aynı bilgisayardaysa
+N-Tier: Katmanlar ayrı bilgisayarlardaysa
+
+=> Projeyi mantıksal ve fiziksel olarak ayırmayı söyler.
+
+=> Temelde (Standart olarak) 3 katman var:
+	1- DAL (Data Access Layer)
+	2- BLL / BL (Business Logic Layer / Business Layer)
+	3- PL / UI (Presentation Layer / User Interface)
+
+=> Onion'da; Core -> Infrastructure -> Application Layer -> UI
+
+=> Her katman birbirinden bağımsız olmalı.
+=> Klasik katmanlı mimaride, bir katman kendinden bir önceki ve bir sonrakiyle konuşabilir.
+Yani, PL direk DAL'a bağlanmamalı.
+=> Klasik katmanlı mimarinin bir problemi de Models'i her katmanda kullanma ihtiyacıdır.
+=> Katman sayısı arttıkça proje yavaşlar.
+
+** Repository bu işin neresinde ?
+=> DAL ve BLL arasındadır.
+
+## Sonuç
+=> Tüm katmanlar mümkün olduğunca birbirinden bağımsız olmalı.
+=> Katmanlı Mimariyi kullanmanın amacı; projeleri fiziksel ve mantıksal olarak ayırmaktır.
+
+## Katmanlar(Genelde)
+	DAL (Data Access Layer)
+	BLL (Bussiness Logic Layer)
+	PL (Presentation Layer)
+	Models (Entities)

@@ -1,0 +1,15 @@
+C:\Users\halkbank2\Desktop\.net\13-10-2023\ExceptionHandling\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling_I.exe
+C:\Users\halkbank2\Desktop\.net\13-10-2023\ExceptionHandling\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling_I.deps.json
+C:\Users\halkbank2\Desktop\.net\13-10-2023\ExceptionHandling\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling_I.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\13-10-2023\ExceptionHandling\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling_I.dll
+C:\Users\halkbank2\Desktop\.net\13-10-2023\ExceptionHandling\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling_I.pdb
+C:\Users\halkbank2\Desktop\.net\13-10-2023\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling_I.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\13-10-2023\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling_I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\13-10-2023\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling_I.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\13-10-2023\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling_I.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\13-10-2023\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling_I.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\13-10-2023\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling_I.dll
+C:\Users\halkbank2\Desktop\.net\13-10-2023\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\refint\ExceptionHandling_I.dll
+C:\Users\halkbank2\Desktop\.net\13-10-2023\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling_I.pdb
+C:\Users\halkbank2\Desktop\.net\13-10-2023\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling_I.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\13-10-2023\ExceptionHandling\ExceptionHandling\obj\Debug\net6.0\ref\ExceptionHandling_I.dll

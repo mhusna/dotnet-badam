@@ -1,0 +1,15 @@
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV\bin\Debug\net6.0\Delegates_IV.exe
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV\bin\Debug\net6.0\Delegates_IV.deps.json
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV\bin\Debug\net6.0\Delegates_IV.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV\bin\Debug\net6.0\Delegates_IV.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV\bin\Debug\net6.0\Delegates_IV.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV\obj\Debug\net6.0\Delegates_IV.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV\obj\Debug\net6.0\Delegates_IV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV\obj\Debug\net6.0\Delegates_IV.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV\obj\Debug\net6.0\Delegates_IV.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV\obj\Debug\net6.0\Delegates_IV.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV\obj\Debug\net6.0\Delegates_IV.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV\obj\Debug\net6.0\refint\Delegates_IV.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV\obj\Debug\net6.0\Delegates_IV.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV\obj\Debug\net6.0\Delegates_IV.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV\obj\Debug\net6.0\ref\Delegates_IV.dll

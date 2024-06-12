@@ -1,0 +1,15 @@
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_I_SoruCozum\obj\Debug\net6.0\Events_I_SoruCozum.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_I_SoruCozum\obj\Debug\net6.0\Events_I_SoruCozum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_I_SoruCozum\obj\Debug\net6.0\Events_I_SoruCozum.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_I_SoruCozum\obj\Debug\net6.0\Events_I_SoruCozum.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_I_SoruCozum\obj\Debug\net6.0\Events_I_SoruCozum.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_I_SoruCozum\bin\Debug\net6.0\Events_I_SoruCozum.exe
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_I_SoruCozum\bin\Debug\net6.0\Events_I_SoruCozum.deps.json
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_I_SoruCozum\bin\Debug\net6.0\Events_I_SoruCozum.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_I_SoruCozum\bin\Debug\net6.0\Events_I_SoruCozum.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_I_SoruCozum\bin\Debug\net6.0\Events_I_SoruCozum.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_I_SoruCozum\obj\Debug\net6.0\Events_I_SoruCozum.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_I_SoruCozum\obj\Debug\net6.0\refint\Events_I_SoruCozum.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_I_SoruCozum\obj\Debug\net6.0\Events_I_SoruCozum.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_I_SoruCozum\obj\Debug\net6.0\Events_I_SoruCozum.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_I_SoruCozum\obj\Debug\net6.0\ref\Events_I_SoruCozum.dll

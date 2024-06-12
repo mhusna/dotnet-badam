@@ -1,0 +1,35 @@
+Soru 1: Bir metoda parametre olarak gönderilen bir string ifade içerisindeki karakter say?s?n? ve 
+        kelime say?s?n? bulan ve bu verileri d??ar?ya aktaran metodu yaz?n?z.
+
+------------
+BEN?M ÇÖZÜM
+------------
+
+void KarakterSayisiBul(string metin, out int karakterSayisi, out int kelimeSayisi)
+{
+    karakterSayisi = metin.Length;
+    kelimeSayisi = metin.Trim(' ', '.').Split(' ').Length;
+}
+
+int karakterSayisi;
+int kelimeSayisi;
+KarakterSayisiBul("Lisan-? Osmanî’nin Edebiyat? Hakk?nda Mülâhazat? ?âmildir .", out karakterSayisi, out kelimeSayisi);
+
+Console.WriteLine("Karakter say?s?: "+karakterSayisi);
+Console.WriteLine("Kelime say?s?: "+kelimeSayisi);
+
+------------
+HOCANIN ÇÖZÜM
+------------
+
+int KelimeKarakterSayisiBul(string str, out int karakterSayisi)
+{
+    karakterSayisi = str.Length;
+    return str.Split(' ').Length;
+}
+
+Console.WriteLine("Mesaj giriniz: ");
+string mesaj = Console.ReadLine();
+
+int kelimeSayisi = KelimeKarakterSayisiBul(mesaj, out int karakterSayisi)
+Console.WriteLine($"Kelime sayisi: {kelimeSayisi} Karakter sayisi: {karakterSayisi}");

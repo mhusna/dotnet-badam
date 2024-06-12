@@ -1,0 +1,15 @@
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\Soru\bin\Debug\net6.0\Soru.exe
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\Soru\bin\Debug\net6.0\Soru.deps.json
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\Soru\bin\Debug\net6.0\Soru.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\Soru\bin\Debug\net6.0\Soru.dll
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\Soru\bin\Debug\net6.0\Soru.pdb
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\Soru\obj\Debug\net6.0\Soru.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\Soru\obj\Debug\net6.0\Soru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\Soru\obj\Debug\net6.0\Soru.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\Soru\obj\Debug\net6.0\Soru.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\Soru\obj\Debug\net6.0\Soru.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\Soru\obj\Debug\net6.0\Soru.dll
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\Soru\obj\Debug\net6.0\refint\Soru.dll
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\Soru\obj\Debug\net6.0\Soru.pdb
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\Soru\obj\Debug\net6.0\Soru.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\Soru\obj\Debug\net6.0\ref\Soru.dll

@@ -1,0 +1,15 @@
+C:\Users\halkbank2\Desktop\.net\13-10-2023\ExceptionHandling\Soru2\bin\Debug\net6.0\Soru2.exe
+C:\Users\halkbank2\Desktop\.net\13-10-2023\ExceptionHandling\Soru2\bin\Debug\net6.0\Soru2.deps.json
+C:\Users\halkbank2\Desktop\.net\13-10-2023\ExceptionHandling\Soru2\bin\Debug\net6.0\Soru2.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\13-10-2023\ExceptionHandling\Soru2\bin\Debug\net6.0\Soru2.dll
+C:\Users\halkbank2\Desktop\.net\13-10-2023\ExceptionHandling\Soru2\bin\Debug\net6.0\Soru2.pdb
+C:\Users\halkbank2\Desktop\.net\13-10-2023\ExceptionHandling\Soru2\obj\Debug\net6.0\Soru2.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\13-10-2023\ExceptionHandling\Soru2\obj\Debug\net6.0\Soru2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\13-10-2023\ExceptionHandling\Soru2\obj\Debug\net6.0\Soru2.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\13-10-2023\ExceptionHandling\Soru2\obj\Debug\net6.0\Soru2.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\13-10-2023\ExceptionHandling\Soru2\obj\Debug\net6.0\Soru2.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\13-10-2023\ExceptionHandling\Soru2\obj\Debug\net6.0\Soru2.dll
+C:\Users\halkbank2\Desktop\.net\13-10-2023\ExceptionHandling\Soru2\obj\Debug\net6.0\refint\Soru2.dll
+C:\Users\halkbank2\Desktop\.net\13-10-2023\ExceptionHandling\Soru2\obj\Debug\net6.0\Soru2.pdb
+C:\Users\halkbank2\Desktop\.net\13-10-2023\ExceptionHandling\Soru2\obj\Debug\net6.0\Soru2.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\13-10-2023\ExceptionHandling\Soru2\obj\Debug\net6.0\ref\Soru2.dll

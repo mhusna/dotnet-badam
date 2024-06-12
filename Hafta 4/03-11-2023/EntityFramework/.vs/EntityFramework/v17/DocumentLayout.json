@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 4\\03-11-2023\\EntityFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20F78602-E24C-41E4-9405-CFD5807A82D7}|EntityFramework_III\\EntityFramework_III.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 4\\03-11-2023\\entityframework\\entityframework_iii\\models\\ders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F78602-E24C-41E4-9405-CFD5807A82D7}|EntityFramework_III\\EntityFramework_III.csproj|solutionrelative:entityframework_iii\\models\\ders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB08C32-00AB-42FD-A5D7-1F98ECFD200B}|EntityFramework_II\\EntityFramework_II.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 4\\03-11-2023\\entityframework\\entityframework_ii\\models\\egitmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB08C32-00AB-42FD-A5D7-1F98ECFD200B}|EntityFramework_II\\EntityFramework_II.csproj|solutionrelative:entityframework_ii\\models\\egitmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB08C32-00AB-42FD-A5D7-1F98ECFD200B}|EntityFramework_II\\EntityFramework_II.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 4\\03-11-2023\\entityframework\\entityframework_ii\\models\\dersogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB08C32-00AB-42FD-A5D7-1F98ECFD200B}|EntityFramework_II\\EntityFramework_II.csproj|solutionrelative:entityframework_ii\\models\\dersogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB08C32-00AB-42FD-A5D7-1F98ECFD200B}|EntityFramework_II\\EntityFramework_II.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 4\\03-11-2023\\entityframework\\entityframework_ii\\models\\dersegitmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB08C32-00AB-42FD-A5D7-1F98ECFD200B}|EntityFramework_II\\EntityFramework_II.csproj|solutionrelative:entityframework_ii\\models\\dersegitmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB08C32-00AB-42FD-A5D7-1F98ECFD200B}|EntityFramework_II\\EntityFramework_II.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 4\\03-11-2023\\entityframework\\entityframework_ii\\models\\ders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB08C32-00AB-42FD-A5D7-1F98ECFD200B}|EntityFramework_II\\EntityFramework_II.csproj|solutionrelative:entityframework_ii\\models\\ders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F00B86F-65E9-42C4-B784-18D62D9CB836}|EntityFramework_I\\EntityFramework_I.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 4\\03-11-2023\\entityframework\\entityframework_i\\models\\proje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F00B86F-65E9-42C4-B784-18D62D9CB836}|EntityFramework_I\\EntityFramework_I.csproj|solutionrelative:entityframework_i\\models\\proje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F00B86F-65E9-42C4-B784-18D62D9CB836}|EntityFramework_I\\EntityFramework_I.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 4\\03-11-2023\\entityframework\\entityframework_i\\models\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F00B86F-65E9-42C4-B784-18D62D9CB836}|EntityFramework_I\\EntityFramework_I.csproj|solutionrelative:entityframework_i\\models\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F00B86F-65E9-42C4-B784-18D62D9CB836}|EntityFramework_I\\EntityFramework_I.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 4\\03-11-2023\\entityframework\\entityframework_i\\models\\bolum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F00B86F-65E9-42C4-B784-18D62D9CB836}|EntityFramework_I\\EntityFramework_I.csproj|solutionrelative:entityframework_i\\models\\bolum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ders.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 4\\03-11-2023\\EntityFramework\\EntityFramework_III\\Models\\Ders.cs",
+              "RelativeDocumentMoniker": "EntityFramework_III\\Models\\Ders.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 4\\03-11-2023\\EntityFramework\\EntityFramework_III\\Models\\Ders.cs",
+              "RelativeToolTip": "EntityFramework_III\\Models\\Ders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:14:37.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Egitmen.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 4\\03-11-2023\\EntityFramework\\EntityFramework_II\\Models\\Egitmen.cs",
+              "RelativeDocumentMoniker": "EntityFramework_II\\Models\\Egitmen.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 4\\03-11-2023\\EntityFramework\\EntityFramework_II\\Models\\Egitmen.cs",
+              "RelativeToolTip": "EntityFramework_II\\Models\\Egitmen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:14:30.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DersOgrenci.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 4\\03-11-2023\\EntityFramework\\EntityFramework_II\\Models\\DersOgrenci.cs",
+              "RelativeDocumentMoniker": "EntityFramework_II\\Models\\DersOgrenci.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 4\\03-11-2023\\EntityFramework\\EntityFramework_II\\Models\\DersOgrenci.cs",
+              "RelativeToolTip": "EntityFramework_II\\Models\\DersOgrenci.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:14:24.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DersEgitmen.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 4\\03-11-2023\\EntityFramework\\EntityFramework_II\\Models\\DersEgitmen.cs",
+              "RelativeDocumentMoniker": "EntityFramework_II\\Models\\DersEgitmen.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 4\\03-11-2023\\EntityFramework\\EntityFramework_II\\Models\\DersEgitmen.cs",
+              "RelativeToolTip": "EntityFramework_II\\Models\\DersEgitmen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:14:23.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ders.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 4\\03-11-2023\\EntityFramework\\EntityFramework_II\\Models\\Ders.cs",
+              "RelativeDocumentMoniker": "EntityFramework_II\\Models\\Ders.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 4\\03-11-2023\\EntityFramework\\EntityFramework_II\\Models\\Ders.cs",
+              "RelativeToolTip": "EntityFramework_II\\Models\\Ders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:14:20.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Proje.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 4\\03-11-2023\\EntityFramework\\EntityFramework_I\\Models\\Proje.cs",
+              "RelativeDocumentMoniker": "EntityFramework_I\\Models\\Proje.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 4\\03-11-2023\\EntityFramework\\EntityFramework_I\\Models\\Proje.cs",
+              "RelativeToolTip": "EntityFramework_I\\Models\\Proje.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:14:15.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Personel.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 4\\03-11-2023\\EntityFramework\\EntityFramework_I\\Models\\Personel.cs",
+              "RelativeDocumentMoniker": "EntityFramework_I\\Models\\Personel.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 4\\03-11-2023\\EntityFramework\\EntityFramework_I\\Models\\Personel.cs",
+              "RelativeToolTip": "EntityFramework_I\\Models\\Personel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:14:07.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bolum.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 4\\03-11-2023\\EntityFramework\\EntityFramework_I\\Models\\Bolum.cs",
+              "RelativeDocumentMoniker": "EntityFramework_I\\Models\\Bolum.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 4\\03-11-2023\\EntityFramework\\EntityFramework_I\\Models\\Bolum.cs",
+              "RelativeToolTip": "EntityFramework_I\\Models\\Bolum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:13:58.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

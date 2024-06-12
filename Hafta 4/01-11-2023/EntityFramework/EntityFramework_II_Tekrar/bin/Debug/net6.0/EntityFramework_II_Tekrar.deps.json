@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EntityFramework_II_Tekrar/1.0.0": {
+        "runtime": {
+          "EntityFramework_II_Tekrar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EntityFramework_II_Tekrar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

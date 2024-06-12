@@ -1,0 +1,68 @@
+## State Management
+
+=> Cookie'de güvenlik açığı oluşturacak hiçbir bilgi tutulmaz. Çünkü diğer siteler bu Cookie'leri okuyabiliyor. Cookie'de kişiselleştirme ile ilgili veriler tutulur.
+=> Cookie'de şöyle bir problem var; cookie'ler browser bağımlıdır. Bir bilgisayarda veya tarayıcıda sepete ürünleri atsak, diğer bilgisayarda
+veya tarayıcıda bu sepete attığımız ürünler gözükmeyecektir. Çünkü Cookie, Client üzerinde çalışır.
+=> Cookie yerine son zamanlarda Local Storage ve Session Storage kullanılıyor. Bu kavramlar modern browser'lar ile gelmiştir.
+=> Web Servislerde token tutmak için Local Storage veya Session Storage kullanılır.
+
+
+=> Session, Cookie'ye göre çok daha güvenlidir. Ama sunucuda tutulduğu için her bilgi tutulamaz, çünkü bir (ram) maliyeti var.
+=> Session, güvenlik ile ilgili tüm mekanizmaların içerisinde mutlaka vardır.
+=> Session, klavye ve mouse'de herhangi bir hareket olmazsa hem kullanıcı hem de sunucu tarafındaki session düşer ve login sayfasına tekrar
+yönlendirilir.
+
+
+=> Cookie ve Session kullanırken mutlaka süre verilmelidir. Bu süre yaşam süresidir.
+=> Cookie'leri bir sayfadan başka bir sayfaya veri aktarırken de kullanabiliriz ama viewbag kullanımına göre yavaş olucaktır. Çünkü kullanıcının
+diskine yazmak, ram'e yazıp okumaktan daha yavaş olucaktır.
+=> Bir site cookie'deki verileri okuyabilir ama veritabanındaki verileri okuyamaz.
+
+
+=> Session kullanmak için Program.cs içerisine komutlar eklenmeli; 
+
+	builder.Services.AddSession();	=> var app = builder.Build(); satırından önce eklenmeli.
+	app.UseSession();
+=> Session'u tarayıcı üzerinde göremeyiz çünkü sunucuda tutuluyor.
+
+
+## Areas
+=> Programı mantıksal ve fiziksel olarak bölmeye yarar.
+
+## Identity
+=> En az eforla işimizi halletmemizi sağlar.
+=> Program.cs içerisine bunları eklememiz lazım:
+	builder.Services.AddDbContext<ModelContext>();
+	builder.Services.AddDefaultIdentity<IdentityUser>();
+
+
+1- Gerekli kütüphaneleri yükle;
+
+	Microsoft.EntityFrameworkCore 6.0.23
+	Microsoft.EntityFrameworkCore.Tools 6.0.23
+	Oracle.EntityFrameworkCore 6.21.120
+	Microsoft.AspNetCore.Identity.EntityFrameworkCore 6.0.23
+	Microsoft.AspNetCore.Identity.UI 6.0.23
+
+2- Data klasörü oluştur ve içine ModelContext isimli bir context dosyası oluştur.
+3- Context'i IdentityDbContext'ten miras al.
+4- Kendi User ve Role sınıflarını oluştur.
+
+	*** Primary key değişmeyecekse sadece appuser'ı değiştirsen yeterli ama primary key tipi değişecekse approle de oluşturulmalı.
+
+5- Context sınıfındaki IdentityDbContext'in Generic kısmına <AppUser, AppRole, int> ver.
+ 
+Program.cs içerisine;
+
+6- Context'i ekle
+7- Sonra custom oluşturduğumuz AppUser ve AppRole sınıflarını ver.
+8- RazorPages ekle;
+
+	builder.Services.AddRazorPages();
+	app.MapRazorPages();
+
+9- Sonra migration yap.
+10- Sonra -> New Scaffold Item -> Sol menüden Identity -> Login - Logout - Register seç, alttan da model seç.
+11- Program.cs içerisine kendisi otomatik olarak AddDefaultIdentity ekliyor. Onu kaldır.
+12- 
+

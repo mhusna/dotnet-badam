@@ -1,0 +1,61 @@
+C:\Users\halkbank2\Desktop\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\halkbank2\Desktop\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\bin\Debug\net6.0\appsettings.json
+C:\Users\halkbank2\Desktop\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\bin\Debug\net6.0\MVC_Core.staticwebassets.runtime.json
+C:\Users\halkbank2\Desktop\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\bin\Debug\net6.0\MVC_Core.exe
+C:\Users\halkbank2\Desktop\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\bin\Debug\net6.0\MVC_Core.deps.json
+C:\Users\halkbank2\Desktop\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\bin\Debug\net6.0\MVC_Core.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\bin\Debug\net6.0\MVC_Core.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\bin\Debug\net6.0\MVC_Core.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\MVC_Core.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\MVC_Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\MVC_Core.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\MVC_Core.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\MVC_Core.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\MVC_Core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\MVC_Core.RazorAssemblyInfo.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\MVC_Core.RazorAssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\staticwebassets\msbuild.MVC_Core.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\halkbank2\Desktop\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\staticwebassets\msbuild.build.MVC_Core.props
+C:\Users\halkbank2\Desktop\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVC_Core.props
+C:\Users\halkbank2\Desktop\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVC_Core.props
+C:\Users\halkbank2\Desktop\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\halkbank2\Desktop\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\halkbank2\Desktop\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\halkbank2\Desktop\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\halkbank2\Desktop\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\scopedcss\bundle\MVC_Core.styles.css
+C:\Users\halkbank2\Desktop\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\scopedcss\projectbundle\MVC_Core.bundle.scp.css
+C:\Users\halkbank2\Desktop\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\MVC_Core.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\refint\MVC_Core.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\MVC_Core.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\MVC_Core.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\ref\MVC_Core.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\bin\Debug\net6.0\appsettings.json
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\bin\Debug\net6.0\MVC_Core.staticwebassets.runtime.json
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\bin\Debug\net6.0\MVC_Core.exe
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\bin\Debug\net6.0\MVC_Core.deps.json
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\bin\Debug\net6.0\MVC_Core.runtimeconfig.json
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\bin\Debug\net6.0\MVC_Core.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\bin\Debug\net6.0\MVC_Core.pdb
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\MVC_Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\MVC_Core.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\MVC_Core.AssemblyInfo.cs
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\MVC_Core.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\MVC_Core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\MVC_Core.RazorAssemblyInfo.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\MVC_Core.RazorAssemblyInfo.cs
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\staticwebassets\msbuild.MVC_Core.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\staticwebassets\msbuild.build.MVC_Core.props
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVC_Core.props
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVC_Core.props
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\scopedcss\bundle\MVC_Core.styles.css
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\scopedcss\projectbundle\MVC_Core.bundle.scp.css
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\MVC_Core.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\refint\MVC_Core.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\MVC_Core.pdb
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\MVC_Core.genruntimeconfig.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 6\16-10-2023\MVC_Core\MVC_Core\obj\Debug\net6.0\ref\MVC_Core.dll

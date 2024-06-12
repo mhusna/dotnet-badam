@@ -1,0 +1,16 @@
+﻿Bir programlama dilinin object oriented olabilmesi için;
+1) Encapsulation(İzole etmek, kapsüllemek)
+2) Inheritance(Miras, kalıtım, türetme)
+3) Abstraction(Soyutlama)
+4) Polymorphism(Çok biçimlilik, çok şekillilik): Aynı isimde bir metodun farklı sınıflarda farklı şekilde çalışmasına 
+												 denir.
+
+Class bir şablondur, obje ise heapte oluşmuş halidir.
+Şablon soyuttur, obje somuttur.
+
+C#'da milyon sınıf var, hepsini oluşturmuş olsa ram'in sınırlarını zorlar.
+
+Çalışma Sorusu: Kullanıcıdan alınan(hesaplanan) 5 haneli fiyat bilgisini; 
+				12567 => On İki bin Bes Yuz Altmıs Yedi seklinde yazan metodu yazın.
+
+20 satır iyi, 50 eh, 50'den üstü eyyvahh.

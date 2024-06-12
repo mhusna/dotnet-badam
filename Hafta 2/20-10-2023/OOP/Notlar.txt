@@ -1,0 +1,90 @@
+﻿--- OOP_II ---
+
+=> Explicitly implement örneği.
+
+## Interface - Abstract - Polymorphism ##
+
+=> Abstract hiyerarşi kurmak için kullanılır, interface hiyerarşiyi esnetmek - kırmak için var.
+
+=> Interface'ler kalıtım yoluyla aktarılmaz. Örn. Arac sınıfına IBoyanabilir verdik, Arac sınıfından
+türemiş olan Ferrari'nin boyanabilir özelliği olmaz.
+
+=> Interface ve abstract kullanımında mutlaka bir zorunluluk var, polymorphism'de böyle birşey yok.
+
+=> Base class ile derived class içinde aynı isimde metot varsa ve biz derived class'ın metodunu
+çağırırsak compiler kararsız kalır ve base'in metodunu çağırır. Örn. asker sınıfından türemiş okçu
+ve kılıçlı sınıflarımız olsun. Her iki türün de kendine göre yürü metodu var. İkisi de farklı yürür.
+
+=> Base class'a bakmadan abstract mı polymorphism mi anlayamayız. Çünkü abstract da virtual da override
+edilir.
+
+
+--- OOP_IV ---
+
+## Enum ##
+
+=> String ifadeler ile numerik(tamsayı olması zorunlu) değerleri eşleştirmek için kullanılır.
+=> Enum'lar kullanılırken numerik degerler tanımlanmaz ise; 0'dan baslayarak n'e dogru birer birer
+arttırılır.
+=> Arada herhangi bir enum elemanına tamsayı değer verilirse bir sonraki elemanın tamsayı değeri diğerinden
+bir fazla olacaktır.
+=> Ya da tüm enum elemanlarına tam sayı değerler verilebilir.
+=> Enum'ların alabileceği değerler sadece tamsayı değerleridir.
+=> Varsayılan tamsayı tipi int'dir.
+
+--- OOP_VI ---
+
+## Struct ##
+
+=> Struct kullanılarak oluşturulan veri tipleri; değer tiplidir.
+=> Ram'in stack bölgesinde tutulur.
+=> int, bool, char..
+
+## Struct ya da class oluşturacak isek neye göre karar vereceğiz ?
+=> 16 byte'dan küçük veri yapılarını struct, büyük olanları ise class oluşturmak gerekir.
+
+--- OOP_VII ---
+
+## Generic ##
+
+=> Generic ile; artık Type da bir değişken gibi davranır.
+
+--- OOP_IX ---
+
+## Generic List ##
+
+List<>	=>	ArrayList
+Stack<>	=>	Stack
+Queue<>	=>	Queue
+Dictionary<>	=>	HashTable
+
+### Hafta Sonu ###
+
+Calisma 1: Rastgele 3 farklı tipte yağış şekli oluşturup (Dolu Alt+167 º, kar * , yağmur `) console ekranında bunu
+simüle eden kodu OOP kurallarına uygun bir şekilde geliştiriniz.
+
+Rastgele olarak yağmur, kar, dolu seçilsin.
+Ekranda random olarak oluşucak yavaş yavaş aşağı indirtecek.
+Uygulama kapatılana kadar sürekli yukarıdan aşağıya düşecek.
+Console.SetCursorPosition(20, 20); mesela. Console 25 satır 80 sütun düşün.
+Yan yana değil random yerlerde oluşacak yağmur falan.
+Generic koleksiyon var onun içine nesneleri ata falan filan intermilan.
+x, y koordinatı oluştur.
+
+##############################################################################################################
+
+Calisma 2: Bir firma için personellerin crud işlemlerini ram üzerinde yapan uygulamayı oop kullanarak
+yazınız.
+
+Generic liste ile yap. Manager sınıfı olmalı (PersonelManager sınıfı üzerinden).
+
+Personel: ID, Ad, Soyad, Adres(Ilce)
+
+CRUD
+	=> Select: Yani raporlama seçenekleri. Tum personeller, Aynı İlçede Oturanlar, Id'ye göre personel
+	verilerini göster.
+	=> Ekleme
+	=> Silme: Emin misin ? ekle.
+	=> Güncelleme: Güncelleme için arama metodu gerekli.
+	=> Arama: Id'ye göre
+Tabii ki menü tasarımı yap ve onun üzerinden işlemleri gerçekleştir.

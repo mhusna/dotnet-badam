@@ -1,0 +1,45 @@
+﻿@ViewData["Mesaj"]
+@ViewBag.Message
+
+<h1>ViewBag İle Ürün</h1>
+@ViewBag.Urun.UrunID
+@ViewBag.Urun.UrunAdi
+<hr>
+
+<h1>ViewData İle Ürün</h1>
+@(((Urun)@ViewData["urun1"]).UrunID)
+<br />
+@{
+    Urun urun1 = ((Urun)ViewData["urun1"]);
+    <p>@urun1.UrunAdi</p>
+}
+<hr>
+
+<h2>ViewBag Liste</h2>
+@{
+    foreach (Urun urun in ViewBag.Liste)
+    {
+        <p>@urun.UrunID</p>
+        <p>@urun.UrunAdi</p>
+        <p>@urun.Fiyat</p>
+    }
+}
+
+<hr>
+<h2>ViewData Liste</h2>
+@foreach (Urun urun in (List<Urun>)ViewData["liste"])
+{
+    <p>@urun.UrunID</p>
+    <p>@urun.UrunAdi</p>
+    <p>@urun.Fiyat</p>
+    <hr />
+}
+
+<h2>Ozel Durum</h2>
+@foreach (Urun urun in ViewBag.test)
+{
+    <p>@urun.UrunID</p>
+    <p>@urun.UrunAdi</p>
+    <p>@urun.Fiyat</p>
+    <hr />
+}

@@ -1,0 +1,15 @@
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\StringFonksiyonlar2\bin\Debug\net6.0\StringFonksiyonlar2.exe
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\StringFonksiyonlar2\bin\Debug\net6.0\StringFonksiyonlar2.deps.json
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\StringFonksiyonlar2\bin\Debug\net6.0\StringFonksiyonlar2.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\StringFonksiyonlar2\bin\Debug\net6.0\StringFonksiyonlar2.dll
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\StringFonksiyonlar2\bin\Debug\net6.0\StringFonksiyonlar2.pdb
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\StringFonksiyonlar2\obj\Debug\net6.0\StringFonksiyonlar2.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\StringFonksiyonlar2\obj\Debug\net6.0\StringFonksiyonlar2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\StringFonksiyonlar2\obj\Debug\net6.0\StringFonksiyonlar2.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\StringFonksiyonlar2\obj\Debug\net6.0\StringFonksiyonlar2.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\StringFonksiyonlar2\obj\Debug\net6.0\StringFonksiyonlar2.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\StringFonksiyonlar2\obj\Debug\net6.0\StringFonksiyonlar2.dll
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\StringFonksiyonlar2\obj\Debug\net6.0\refint\StringFonksiyonlar2.dll
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\StringFonksiyonlar2\obj\Debug\net6.0\StringFonksiyonlar2.pdb
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\StringFonksiyonlar2\obj\Debug\net6.0\StringFonksiyonlar2.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\StringFonksiyonlar2\obj\Debug\net6.0\ref\StringFonksiyonlar2.dll

@@ -1,0 +1,52 @@
+﻿Hatalar
+1) Mantıksal Hatalar: En zor olanıdır.
+2) Run-Time Hataları
+3) Design-Time (Syntax) Hataları
+
+Debugging: Hataların yakalanması
+
+Exception Handling
+    => try-catch kullanmadan önce şart koşulları ile ne kadar kontrol edebilirsek o kadar iyi.
+
+a) Keywordler
+	=> Try: Exception riski olan kodu try bloğuna alırız.
+	=> Catch: Istisnalar olduğunda çalışır, birden fazla kullanımı vardır.
+	=> Finally: Her halükarda çalışır. Db sonlandırma gibi işleri yaparız.
+	=> Throw(Hata fırlatmak için kullanılır.)
+
+--------------------------------------------------------------------------------------
+Kötü Örnek: Sadece hata beklenen satırı koymalıyız. Bu örnekte sadece en alttaki satır.
+
+try
+{
+    Console.WriteLine("Diğer islemler");
+    int[] sayilar = { 43, 4566, 67, 33 };
+
+    Console.WriteLine("1. islem");
+    Console.WriteLine("2. islem");
+    Console.WriteLine("3. islem");
+
+    Console.WriteLine(sayilar[10]);
+}
+
+Doğrusu
+
+Console.WriteLine("Diğer islemler");
+int[] sayilar = { 43, 4566, 67, 33 };
+
+int a, b = 6, c = 2;
+
+Console.WriteLine("1. islem");
+Console.WriteLine("2. islem");
+Console.WriteLine("3. islem");
+try
+{
+    Console.WriteLine(sayilar[10]);
+}
+catch
+{
+    Console.WriteLine("Hata");
+}
+
+--------------------------------------------------------------------------------------
+=> Birden fazla exception varsa en genel hata yakalama en altta olmalı.

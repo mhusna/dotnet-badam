@@ -1,0 +1,19 @@
+﻿@using MehmetHusnaKisla.Application.Models.VMs;
+@model EssayDetailVM
+
+<div class="col-9 m-auto">
+
+    <p>
+        <small>Yazar: @Model.PublisherName >> </small>
+        <small> Konu: @Model.TopicName >> </small>
+        <small>Tarih: @Model.InsertDate.ToShortDateString()</small>
+    </p>
+    <hr />
+    <div class="text-center">
+        <h1>@Model.EssayName</h1>
+    </div>
+    <hr />
+    <p>
+        @Model.EssayContent
+    </p>
+</div>

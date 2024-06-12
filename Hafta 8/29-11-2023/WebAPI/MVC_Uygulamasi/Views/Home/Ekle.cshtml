@@ -1,0 +1,33 @@
+﻿@model Product
+
+<form asp-action="Ekle" method="post">
+    <table>
+        <tr>
+            <td>
+                <label asp-for="ProductName" class="form-label"></label>
+                <input asp-for="ProductName" class="form-control" />
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                <label asp-for="Price" class="form-label"></label>
+                <input asp-for="Price" class="form-control" />
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                <label asp-for="CategoryID" class="form-label"></label>
+                <input asp-for="CategoryID" class="form-control" />
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="2">
+                <input type="submit" value="Ekle" />
+            </td>
+        </tr>
+    </table>
+    
+</form>

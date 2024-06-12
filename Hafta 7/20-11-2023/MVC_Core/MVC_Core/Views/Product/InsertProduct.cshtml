@@ -1,0 +1,40 @@
+﻿@model ProductInsertVM
+
+<form method="post" asp-action="InsertProduct" enctype="multipart/form-data">
+
+    <table>
+        <tr>
+            <td><label>Ürün Adı:</label></td>
+            <td><input asp-for="Product.Name" /></td>
+        </tr>
+
+        <tr>
+            <td><label>Fiyat:</label></td>
+            <td><input asp-for="Product.Price" /></td>
+        </tr>
+
+        <tr>
+            <td><label>Açıklama:</label></td>
+            <td><input asp-for="Product.Description" /></td>
+        </tr>
+
+        <tr>
+            <td><label>Resim: </label></td>
+            <td><input asp-for="Product.Image" type="file" class="form-control" /></td>
+        </tr>
+
+        <tr>
+            <td><label>Marka:</label></td>
+            <td><select asp-for="Product.BrandID" asp-items="@Model.Brands" class="form-control"></select></td>
+        </tr>
+
+        <tr>
+            <td><label>Kategori:</label></td>
+            <td><select asp-for="Product.CategoryID" asp-items="@Model.Categories" class="form-control"></select></td>
+        </tr>
+
+        <tr>            
+            <td colspan="2"><input type="submit" value="Ekle" class="btn btn-outline-primary" /></td>
+        </tr>
+    </table>
+</form>

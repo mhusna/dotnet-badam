@@ -1,0 +1,38 @@
+== JWT ile ilgili son konu ==
+
+04-12-2023'te fetch'in get versiyonu var, bugün post versiyonunu işliyicez.
+
+=> Fetch async çalışır.
+
+---------------------------------------------------------------------------
+
+## Design Patterns ##
+
+	>> MVC (Model - View - Controller)
+	>> MVVM (Model - View - ViewModel)
+	>> Unit of Work
+	>> Repository Pattern
+	>> Singleton Pattern
+
+=> Problemler hep aynı, çözümleri bir şablon üzerinden çözmemizi sağlar.
+
+## Singleton Pattern
+	>> Bir sınıfın sadece bir tane instance'nın olmasını istediğimiz durumlarda kullanırız..
+	>> Aynı nesne tüm uygulama boyunca, istenildiğinde gönderilir..
+	>> Ram'de asla iki tane somut örneği olamaz..
+
+	Avantaj ve Dezavantajları
+		>> Sürekli olarak oluşturma ve silme işlemlerinden kurtuluruz.
+		>> Fakat sürekli olarak Ram'de kaldığından yer maliyetini düşünmek gerekir.
+
+=> GetHashCode(), bize objeler'in hash kodunu verir, ram'deki yerle bi alakası yok.
+
+## Factory Pattern
+	>> SOLID prensiplerine pek uymasa da çok kullanılır.
+	>> Özellikle yeni nesnelerin oluşturulması istenildiğinde kullanılır.
+	>> Nesne sayısı, tipi ve çeşidi arttıkça Abstract Factory Pattern'e geçilir.
+
+## Abstract Factory Pattern
+	>> Factory Pattern'deki if-else karmaşasını çözüyor.
+
+## Mediator Pattern

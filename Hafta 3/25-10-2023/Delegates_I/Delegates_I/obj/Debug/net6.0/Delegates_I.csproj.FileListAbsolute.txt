@@ -1,0 +1,29 @@
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_I\bin\Debug\net6.0\Delegates_I.exe
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_I\bin\Debug\net6.0\Delegates_I.deps.json
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_I\bin\Debug\net6.0\Delegates_I.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_I\bin\Debug\net6.0\Delegates_I.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_I\bin\Debug\net6.0\Delegates_I.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_I\obj\Debug\net6.0\Delegates_I.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_I\obj\Debug\net6.0\Delegates_I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_I\obj\Debug\net6.0\Delegates_I.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_I\obj\Debug\net6.0\Delegates_I.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_I\obj\Debug\net6.0\Delegates_I.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_I\obj\Debug\net6.0\Delegates_I.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_I\obj\Debug\net6.0\refint\Delegates_I.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_I\obj\Debug\net6.0\Delegates_I.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_I\obj\Debug\net6.0\Delegates_I.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_I\obj\Debug\net6.0\ref\Delegates_I.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_I\bin\Debug\net6.0\Delegates_I.exe
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_I\bin\Debug\net6.0\Delegates_I.deps.json
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_I\bin\Debug\net6.0\Delegates_I.runtimeconfig.json
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_I\bin\Debug\net6.0\Delegates_I.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_I\bin\Debug\net6.0\Delegates_I.pdb
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_I\obj\Debug\net6.0\Delegates_I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_I\obj\Debug\net6.0\Delegates_I.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_I\obj\Debug\net6.0\Delegates_I.AssemblyInfo.cs
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_I\obj\Debug\net6.0\Delegates_I.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_I\obj\Debug\net6.0\Delegates_I.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_I\obj\Debug\net6.0\refint\Delegates_I.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_I\obj\Debug\net6.0\Delegates_I.pdb
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_I\obj\Debug\net6.0\Delegates_I.genruntimeconfig.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_I\obj\Debug\net6.0\ref\Delegates_I.dll

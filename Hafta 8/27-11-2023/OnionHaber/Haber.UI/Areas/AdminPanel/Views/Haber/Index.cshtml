@@ -1,0 +1,23 @@
+﻿@using Haber.Application.Models.VMs;
+@using Haber.Domain.Enums;
+@model IEnumerable<AdminHaberVM>
+
+<a asp-area="AdminPanel" asp-action="HaberEkle" asp-controller="Haber">Yeni Haber Ekle</a>
+
+<table>
+    @foreach (var haber in Model)
+    {
+        <tr>
+            <td>@haber.Baslik</td>
+            <td>
+                @if (haber.KayitDurumu == KayitDurumu.Aktif)
+                {
+                    <form method="post" asp-action="HaberSil">
+                        <input name="ID" type="hidden" asp-for="@haber.HaberID">
+                        <input type="submit" value="Pasif Yap">
+                    </form>
+                }
+            </td>
+        </tr>
+    }
+</table>

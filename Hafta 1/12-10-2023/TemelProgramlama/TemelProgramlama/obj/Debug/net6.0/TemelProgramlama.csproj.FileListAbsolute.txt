@@ -1,0 +1,15 @@
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\TemelProgramlama\bin\Debug\net6.0\TemelProgramlama.exe
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\TemelProgramlama\bin\Debug\net6.0\TemelProgramlama.deps.json
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\TemelProgramlama\bin\Debug\net6.0\TemelProgramlama.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\TemelProgramlama\bin\Debug\net6.0\TemelProgramlama.dll
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\TemelProgramlama\bin\Debug\net6.0\TemelProgramlama.pdb
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\TemelProgramlama\obj\Debug\net6.0\TemelProgramlama.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\TemelProgramlama\obj\Debug\net6.0\TemelProgramlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\TemelProgramlama\obj\Debug\net6.0\TemelProgramlama.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\TemelProgramlama\obj\Debug\net6.0\TemelProgramlama.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\TemelProgramlama\obj\Debug\net6.0\TemelProgramlama.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\TemelProgramlama\obj\Debug\net6.0\TemelProgramlama.dll
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\TemelProgramlama\obj\Debug\net6.0\refint\TemelProgramlama.dll
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\TemelProgramlama\obj\Debug\net6.0\TemelProgramlama.pdb
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\TemelProgramlama\obj\Debug\net6.0\TemelProgramlama.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\TemelProgramlama\obj\Debug\net6.0\ref\TemelProgramlama.dll

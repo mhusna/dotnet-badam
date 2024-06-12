@@ -1,0 +1,12 @@
+C:\Users\halkbank2\Desktop\MehmetHusnaKisla\MehmetHusnaKisla.Domain\bin\Debug\net6.0\MehmetHusnaKisla.Domain.deps.json
+C:\Users\halkbank2\Desktop\MehmetHusnaKisla\MehmetHusnaKisla.Domain\bin\Debug\net6.0\MehmetHusnaKisla.Domain.dll
+C:\Users\halkbank2\Desktop\MehmetHusnaKisla\MehmetHusnaKisla.Domain\bin\Debug\net6.0\MehmetHusnaKisla.Domain.pdb
+C:\Users\halkbank2\Desktop\MehmetHusnaKisla\MehmetHusnaKisla.Domain\obj\Debug\net6.0\MehmetHusnaKisla.Domain.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\MehmetHusnaKisla\MehmetHusnaKisla.Domain\obj\Debug\net6.0\MehmetHusnaKisla.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\MehmetHusnaKisla\MehmetHusnaKisla.Domain\obj\Debug\net6.0\MehmetHusnaKisla.Domain.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\MehmetHusnaKisla\MehmetHusnaKisla.Domain\obj\Debug\net6.0\MehmetHusnaKisla.Domain.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\MehmetHusnaKisla\MehmetHusnaKisla.Domain\obj\Debug\net6.0\MehmetHusnaKisla.Domain.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\MehmetHusnaKisla\MehmetHusnaKisla.Domain\obj\Debug\net6.0\MehmetHusnaKisla.Domain.dll
+C:\Users\halkbank2\Desktop\MehmetHusnaKisla\MehmetHusnaKisla.Domain\obj\Debug\net6.0\refint\MehmetHusnaKisla.Domain.dll
+C:\Users\halkbank2\Desktop\MehmetHusnaKisla\MehmetHusnaKisla.Domain\obj\Debug\net6.0\MehmetHusnaKisla.Domain.pdb
+C:\Users\halkbank2\Desktop\MehmetHusnaKisla\MehmetHusnaKisla.Domain\obj\Debug\net6.0\ref\MehmetHusnaKisla.Domain.dll

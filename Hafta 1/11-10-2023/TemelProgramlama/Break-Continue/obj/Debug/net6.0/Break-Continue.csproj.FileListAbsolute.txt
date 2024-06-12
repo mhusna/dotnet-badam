@@ -1,0 +1,15 @@
+C:\Users\halkbank2\Desktop\.net\11-10-2023\TemelProgramlama\Break-Continue\bin\Debug\net6.0\Break-Continue.exe
+C:\Users\halkbank2\Desktop\.net\11-10-2023\TemelProgramlama\Break-Continue\bin\Debug\net6.0\Break-Continue.deps.json
+C:\Users\halkbank2\Desktop\.net\11-10-2023\TemelProgramlama\Break-Continue\bin\Debug\net6.0\Break-Continue.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\11-10-2023\TemelProgramlama\Break-Continue\bin\Debug\net6.0\Break-Continue.dll
+C:\Users\halkbank2\Desktop\.net\11-10-2023\TemelProgramlama\Break-Continue\bin\Debug\net6.0\Break-Continue.pdb
+C:\Users\halkbank2\Desktop\.net\11-10-2023\TemelProgramlama\Break-Continue\obj\Debug\net6.0\Break-Continue.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\11-10-2023\TemelProgramlama\Break-Continue\obj\Debug\net6.0\Break-Continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\11-10-2023\TemelProgramlama\Break-Continue\obj\Debug\net6.0\Break-Continue.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\11-10-2023\TemelProgramlama\Break-Continue\obj\Debug\net6.0\Break-Continue.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\11-10-2023\TemelProgramlama\Break-Continue\obj\Debug\net6.0\Break-Continue.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\11-10-2023\TemelProgramlama\Break-Continue\obj\Debug\net6.0\Break-Continue.dll
+C:\Users\halkbank2\Desktop\.net\11-10-2023\TemelProgramlama\Break-Continue\obj\Debug\net6.0\refint\Break-Continue.dll
+C:\Users\halkbank2\Desktop\.net\11-10-2023\TemelProgramlama\Break-Continue\obj\Debug\net6.0\Break-Continue.pdb
+C:\Users\halkbank2\Desktop\.net\11-10-2023\TemelProgramlama\Break-Continue\obj\Debug\net6.0\Break-Continue.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\11-10-2023\TemelProgramlama\Break-Continue\obj\Debug\net6.0\ref\Break-Continue.dll

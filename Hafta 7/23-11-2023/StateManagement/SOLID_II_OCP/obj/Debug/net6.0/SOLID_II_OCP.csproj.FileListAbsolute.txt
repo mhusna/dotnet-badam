@@ -1,0 +1,15 @@
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_II_OCP\bin\Debug\net6.0\SOLID_II_OCP.exe
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_II_OCP\bin\Debug\net6.0\SOLID_II_OCP.deps.json
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_II_OCP\bin\Debug\net6.0\SOLID_II_OCP.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_II_OCP\bin\Debug\net6.0\SOLID_II_OCP.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_II_OCP\bin\Debug\net6.0\SOLID_II_OCP.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_II_OCP\obj\Debug\net6.0\SOLID_II_OCP.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_II_OCP\obj\Debug\net6.0\SOLID_II_OCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_II_OCP\obj\Debug\net6.0\SOLID_II_OCP.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_II_OCP\obj\Debug\net6.0\SOLID_II_OCP.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_II_OCP\obj\Debug\net6.0\SOLID_II_OCP.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_II_OCP\obj\Debug\net6.0\SOLID_II_OCP.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_II_OCP\obj\Debug\net6.0\refint\SOLID_II_OCP.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_II_OCP\obj\Debug\net6.0\SOLID_II_OCP.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_II_OCP\obj\Debug\net6.0\SOLID_II_OCP.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_II_OCP\obj\Debug\net6.0\ref\SOLID_II_OCP.dll

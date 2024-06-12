@@ -1,0 +1,25 @@
+## Distributed Architecture (Dağıtık Mimari)
+	>> Server-Client mantığı
+
+Service??
+
+Hangi servis teknolojileri var ? 
+=> CORBA
+=> Remoting
+=> XML Web Services
+=> WCF
+=> SOAP => Xml tabanlı bir protokoldür. Simple Object Access Protocol
+=> RESTful Services *******
+
+	>> Http üzerinde çalışır.
+	>> Genelde json üzerinde çalışır ama xml, csv gibi formatları da destekler. Ama json daha avantajlı.
+
+=> WebAPI: Microsoft'un RESTful mimari ile yazılmış olan ürünü..
+
+=> Client:
+	>> HTML: AJAX(XmlHttpRequest, Jquery ajax metodu, fetch())
+	>> Console
+	>> Windows
+	>> WPF
+	>> MVC
+	Bunların hepsi (HttpClient) nesnesini kullanmalı.

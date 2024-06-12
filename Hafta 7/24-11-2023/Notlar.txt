@@ -1,0 +1,13 @@
+## Onion Architecture ##
+
+1- Domain / Core => Entities veya Models barındırır.
+2- Infrastructure => DbContext'i tutar.
+3- Application => DTO, VM, Services yani BLL'i içerir.
+4- Presentation Layer
+
+## AutoMapper Ne İçin Kullanılır ?
+
+	ViewModel veya DTO'ya orjinal Model'den gelen verileri aktarmak istiyorsak, eski yöntemle DTO veya VM instance alıyoruz ve modelle tek tek
+eşleştirme yapmamız gerek. AutoMapper bu problemi çözüyor. 2. katmandaki Contex'ten gelen verileri 3. katmana map'leyerek göndermeyi sağlar.
+
+22-11-2023 içerisinde proje

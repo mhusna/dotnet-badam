@@ -1,0 +1,57 @@
+﻿@model ProductInsertVM
+
+<form method="post" asp-action="InsertProduct" enctype="multipart/form-data">
+
+    <table>
+        <tr>
+            <td><label>Ürün Adı:</label></td>
+            @*Validations: Yöntem 1*@
+            @*<td><input asp-for="Product.Name" required/></td>*@
+
+            @*Validations: Yöntem 2*@
+            @*<td><input asp-for="Product.Name" class="required"/></td>*@
+
+            <td>
+                <input asp-for="Product.Name"/>
+                <span asp-validation-for="Product.Name"></span>
+            </td>
+        </tr>
+
+        <tr>
+            <td><label>Fiyat:</label></td>
+            <td><input asp-for="Product.Price"/></td>
+        </tr>
+
+        <tr>
+            <td><label>Açıklama:</label></td>
+            <td><input asp-for="Product.Description" /></td>
+        </tr>
+
+        <tr>
+            <td><label>Resim: </label></td>
+            <td><input asp-for="Product.Image" type="file" class="form-control" /></td>
+        </tr>
+
+        <tr>
+            <td><label>Marka:</label></td>
+            <td><select asp-for="Product.BrandID" asp-items="@Model.Brands" class="form-control"></select></td>
+        </tr>
+
+        <tr>
+            <td><label>Kategori:</label></td>
+            <td><select asp-for="Product.CategoryID" asp-items="@Model.Categories" class="form-control"></select></td>
+        </tr>
+
+        <tr>            
+            @*Validations: Yöntem 2*@
+            @*<td colspan="2"><input type="submit" value="Ekle" class="btn btn-outline-primary" onclick="return controllAllElements()"/></td>*@
+            
+            <td colspan="2"><input type="submit" value="Ekle" class="btn btn-outline-primary" onclick="return controllAllElements()" /></td>
+        </tr>
+    </table>
+</form>
+
+<div asp-validation-summary="All">
+</div>
+
+@*@Html.ValidationSummary()*@

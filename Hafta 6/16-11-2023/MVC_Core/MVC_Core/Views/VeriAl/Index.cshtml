@@ -1,0 +1,20 @@
+﻿<h2>Yöntem 1: QueryString</h2>
+<form method="get" action="~/VeriAl/QueryStringYakala">
+    <input type="text" id="id" name="id"/>
+    <input type="text" id="ad" name="ad" />
+    <input type="text" id="fiyat" name="fiyat" />
+    <input type="submit" value="Gönder"/>
+</form>
+@* action="QueryStringYakala" *@
+@*Üstteki action çalışmazsa bunu kullan*@
+@*action="~/VeriAl/QueryStringYakala"*@
+
+<br />
+<br />
+<h2>Yöntem 2: Request Form</h2>
+<form method="post" action="~/VeriAl/RequestFormYakala">
+    <input type="text" id="id" name="id" />
+    <input type="text" id="ad" name="ad" />
+    <input type="text" id="fiyat" name="fiyat" />
+    <input type="submit" value="Gönder" />
+</form>

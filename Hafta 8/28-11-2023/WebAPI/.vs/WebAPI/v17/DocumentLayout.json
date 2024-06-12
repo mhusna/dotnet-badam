@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 8\\28-11-2023\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3BD942-2B28-4EE2-9027-C0D36EEC4D7A}|MVC_Uygulamasi\\MVC_Uygulamasi.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 8\\28-11-2023\\webapi\\mvc_uygulamasi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3BD942-2B28-4EE2-9027-C0D36EEC4D7A}|MVC_Uygulamasi\\MVC_Uygulamasi.csproj|solutionrelative:mvc_uygulamasi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3BD942-2B28-4EE2-9027-C0D36EEC4D7A}|MVC_Uygulamasi\\MVC_Uygulamasi.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 8\\28-11-2023\\webapi\\mvc_uygulamasi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA3BD942-2B28-4EE2-9027-C0D36EEC4D7A}|MVC_Uygulamasi\\MVC_Uygulamasi.csproj|solutionrelative:mvc_uygulamasi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3BD942-2B28-4EE2-9027-C0D36EEC4D7A}|MVC_Uygulamasi\\MVC_Uygulamasi.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 8\\28-11-2023\\webapi\\mvc_uygulamasi\\datautility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3BD942-2B28-4EE2-9027-C0D36EEC4D7A}|MVC_Uygulamasi\\MVC_Uygulamasi.csproj|solutionrelative:mvc_uygulamasi\\datautility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 8\\28-11-2023\\WebAPI\\MVC_Uygulamasi\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_Uygulamasi\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 8\\28-11-2023\\WebAPI\\MVC_Uygulamasi\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC_Uygulamasi\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T18:25:10.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 8\\28-11-2023\\WebAPI\\MVC_Uygulamasi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC_Uygulamasi\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 8\\28-11-2023\\WebAPI\\MVC_Uygulamasi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC_Uygulamasi\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAIwCQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:25:10.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataUtility.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 8\\28-11-2023\\WebAPI\\MVC_Uygulamasi\\DataUtility.cs",
+              "RelativeDocumentMoniker": "MVC_Uygulamasi\\DataUtility.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 8\\28-11-2023\\WebAPI\\MVC_Uygulamasi\\DataUtility.cs",
+              "RelativeToolTip": "MVC_Uygulamasi\\DataUtility.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwB0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:25:10.432Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

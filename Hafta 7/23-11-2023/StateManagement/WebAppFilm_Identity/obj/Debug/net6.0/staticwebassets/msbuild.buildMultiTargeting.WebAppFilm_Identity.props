@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebAppFilm_Identity.props" />
+</Project>

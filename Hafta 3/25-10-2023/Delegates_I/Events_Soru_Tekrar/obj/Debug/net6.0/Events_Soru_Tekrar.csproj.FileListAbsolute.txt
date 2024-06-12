@@ -1,0 +1,14 @@
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Events_Soru_Tekrar\bin\Debug\net6.0\Events_Soru_Tekrar.exe
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Events_Soru_Tekrar\bin\Debug\net6.0\Events_Soru_Tekrar.deps.json
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Events_Soru_Tekrar\bin\Debug\net6.0\Events_Soru_Tekrar.runtimeconfig.json
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Events_Soru_Tekrar\bin\Debug\net6.0\Events_Soru_Tekrar.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Events_Soru_Tekrar\bin\Debug\net6.0\Events_Soru_Tekrar.pdb
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Events_Soru_Tekrar\obj\Debug\net6.0\Events_Soru_Tekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Events_Soru_Tekrar\obj\Debug\net6.0\Events_Soru_Tekrar.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Events_Soru_Tekrar\obj\Debug\net6.0\Events_Soru_Tekrar.AssemblyInfo.cs
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Events_Soru_Tekrar\obj\Debug\net6.0\Events_Soru_Tekrar.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Events_Soru_Tekrar\obj\Debug\net6.0\Events_Soru_Tekrar.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Events_Soru_Tekrar\obj\Debug\net6.0\refint\Events_Soru_Tekrar.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Events_Soru_Tekrar\obj\Debug\net6.0\Events_Soru_Tekrar.pdb
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Events_Soru_Tekrar\obj\Debug\net6.0\Events_Soru_Tekrar.genruntimeconfig.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Events_Soru_Tekrar\obj\Debug\net6.0\ref\Events_Soru_Tekrar.dll

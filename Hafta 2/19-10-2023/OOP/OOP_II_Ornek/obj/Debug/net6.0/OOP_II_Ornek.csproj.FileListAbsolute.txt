@@ -1,0 +1,15 @@
+C:\Users\halkbank2\Desktop\.net\Hafta 2\19-10-2023\OOP\OOP_II_Ornek\bin\Debug\net6.0\OOP_II_Ornek.exe
+C:\Users\halkbank2\Desktop\.net\Hafta 2\19-10-2023\OOP\OOP_II_Ornek\bin\Debug\net6.0\OOP_II_Ornek.deps.json
+C:\Users\halkbank2\Desktop\.net\Hafta 2\19-10-2023\OOP\OOP_II_Ornek\bin\Debug\net6.0\OOP_II_Ornek.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\Hafta 2\19-10-2023\OOP\OOP_II_Ornek\bin\Debug\net6.0\OOP_II_Ornek.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 2\19-10-2023\OOP\OOP_II_Ornek\bin\Debug\net6.0\OOP_II_Ornek.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 2\19-10-2023\OOP\OOP_II_Ornek\obj\Debug\net6.0\OOP_II_Ornek.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 2\19-10-2023\OOP\OOP_II_Ornek\obj\Debug\net6.0\OOP_II_Ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\Hafta 2\19-10-2023\OOP\OOP_II_Ornek\obj\Debug\net6.0\OOP_II_Ornek.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 2\19-10-2023\OOP\OOP_II_Ornek\obj\Debug\net6.0\OOP_II_Ornek.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\Hafta 2\19-10-2023\OOP\OOP_II_Ornek\obj\Debug\net6.0\OOP_II_Ornek.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 2\19-10-2023\OOP\OOP_II_Ornek\obj\Debug\net6.0\OOP_II_Ornek.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 2\19-10-2023\OOP\OOP_II_Ornek\obj\Debug\net6.0\refint\OOP_II_Ornek.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 2\19-10-2023\OOP\OOP_II_Ornek\obj\Debug\net6.0\OOP_II_Ornek.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 2\19-10-2023\OOP\OOP_II_Ornek\obj\Debug\net6.0\OOP_II_Ornek.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 2\19-10-2023\OOP\OOP_II_Ornek\obj\Debug\net6.0\ref\OOP_II_Ornek.dll

@@ -1,0 +1,36 @@
+﻿** ORM Tool'larının gelme sebebi, yazılım firmalarının maliyetini düşürmek.
+
+## Code First: Bütün herşey kullanıcıya ait, herşeyi kod üzerinden yapıyoruz.
+	=> Database First: Hazırda bir veritabanı varsa bu yöntemi kullanırız.
+	=> Model First: Ortada bir veritabanı yoksa kullanabiliriz. Veritabanı üzerindeki değişiklikleri daha
+					iyi yönetmek için bu yöntem kullanılır.
+
+=> PersonelContext sınıfına entityframework yetkisi vermek için DbContext'ten miras aldırdık.
+
+## Kurallar ##
+=> Tablo içerisinde ID diye property tanımlarsan ef otomatik olarak primary key yapar.
+=> ID önüne class ismi gelirse ef yine primary key yapar.
+=> Bunun haricinde Data Annotation veya fluent api ile söyleyebiliriz.
+
+Komutlar
+
+add-migration isim: Migration yapıyor.
+update-database: Migration'u veritabanına ekliyor.
+drop-database: Veri tabanındakileri siliyor.
+remove-migration: Migration'u siliyor.
+
+
+## One-to-Many Relationship ##
+
+Personel.cs
+
+		// Bu satır kod yükümüzü azaltır. Koymasak da ef yapıyı kurar.
+        public int BolumID { get; set; }
+
+        // Navigation Property
+        public Bolum Bolum { get; set; }
+
+Bolum.cs
+
+		// Navigation Property
+        public ICollection<Personel> Personeller { get; set; }

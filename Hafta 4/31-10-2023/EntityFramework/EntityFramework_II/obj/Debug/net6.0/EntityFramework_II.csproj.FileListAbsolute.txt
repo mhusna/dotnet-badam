@@ -1,0 +1,15 @@
+C:\Users\halkbank2\Desktop\.net\Hafta 4\31-10-2023\EntityFramework\EntityFramework_II\bin\Debug\net6.0\EntityFramework_II.exe
+C:\Users\halkbank2\Desktop\.net\Hafta 4\31-10-2023\EntityFramework\EntityFramework_II\bin\Debug\net6.0\EntityFramework_II.deps.json
+C:\Users\halkbank2\Desktop\.net\Hafta 4\31-10-2023\EntityFramework\EntityFramework_II\bin\Debug\net6.0\EntityFramework_II.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\Hafta 4\31-10-2023\EntityFramework\EntityFramework_II\bin\Debug\net6.0\EntityFramework_II.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 4\31-10-2023\EntityFramework\EntityFramework_II\bin\Debug\net6.0\EntityFramework_II.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 4\31-10-2023\EntityFramework\EntityFramework_II\obj\Debug\net6.0\EntityFramework_II.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 4\31-10-2023\EntityFramework\EntityFramework_II\obj\Debug\net6.0\EntityFramework_II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\Hafta 4\31-10-2023\EntityFramework\EntityFramework_II\obj\Debug\net6.0\EntityFramework_II.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 4\31-10-2023\EntityFramework\EntityFramework_II\obj\Debug\net6.0\EntityFramework_II.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\Hafta 4\31-10-2023\EntityFramework\EntityFramework_II\obj\Debug\net6.0\EntityFramework_II.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 4\31-10-2023\EntityFramework\EntityFramework_II\obj\Debug\net6.0\EntityFramework_II.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 4\31-10-2023\EntityFramework\EntityFramework_II\obj\Debug\net6.0\refint\EntityFramework_II.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 4\31-10-2023\EntityFramework\EntityFramework_II\obj\Debug\net6.0\EntityFramework_II.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 4\31-10-2023\EntityFramework\EntityFramework_II\obj\Debug\net6.0\EntityFramework_II.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 4\31-10-2023\EntityFramework\EntityFramework_II\obj\Debug\net6.0\ref\EntityFramework_II.dll

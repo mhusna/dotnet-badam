@@ -1,0 +1,29 @@
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\OOP\OOP_II\bin\Debug\net6.0\OOP_II.exe
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\OOP\OOP_II\bin\Debug\net6.0\OOP_II.deps.json
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\OOP\OOP_II\bin\Debug\net6.0\OOP_II.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\OOP\OOP_II\bin\Debug\net6.0\OOP_II.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\OOP\OOP_II\bin\Debug\net6.0\OOP_II.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\OOP\OOP_II\obj\Debug\net6.0\OOP_II.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\OOP\OOP_II\obj\Debug\net6.0\OOP_II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\OOP\OOP_II\obj\Debug\net6.0\OOP_II.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\OOP\OOP_II\obj\Debug\net6.0\OOP_II.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\OOP\OOP_II\obj\Debug\net6.0\OOP_II.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\OOP\OOP_II\obj\Debug\net6.0\OOP_II.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\OOP\OOP_II\obj\Debug\net6.0\refint\OOP_II.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\OOP\OOP_II\obj\Debug\net6.0\OOP_II.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\OOP\OOP_II\obj\Debug\net6.0\OOP_II.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\OOP\OOP_II\obj\Debug\net6.0\ref\OOP_II.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\OOP\OOP_II\bin\Debug\net6.0\OOP_II.exe
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\OOP\OOP_II\bin\Debug\net6.0\OOP_II.deps.json
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\OOP\OOP_II\bin\Debug\net6.0\OOP_II.runtimeconfig.json
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\OOP\OOP_II\bin\Debug\net6.0\OOP_II.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\OOP\OOP_II\bin\Debug\net6.0\OOP_II.pdb
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\OOP\OOP_II\obj\Debug\net6.0\OOP_II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\OOP\OOP_II\obj\Debug\net6.0\OOP_II.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\OOP\OOP_II\obj\Debug\net6.0\OOP_II.AssemblyInfo.cs
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\OOP\OOP_II\obj\Debug\net6.0\OOP_II.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\OOP\OOP_II\obj\Debug\net6.0\OOP_II.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\OOP\OOP_II\obj\Debug\net6.0\refint\OOP_II.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\OOP\OOP_II\obj\Debug\net6.0\OOP_II.pdb
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\OOP\OOP_II\obj\Debug\net6.0\OOP_II.genruntimeconfig.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\OOP\OOP_II\obj\Debug\net6.0\ref\OOP_II.dll

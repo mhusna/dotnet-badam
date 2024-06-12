@@ -1,0 +1,10 @@
+## AutoMapper Kullanımı
+	>> Gerekli kütüphaneyi yükle => NuGet
+	>> Application Katmanında
+		Klasör oluştur..
+		Bir sınıf oluştur Profile sınıfından türet.
+		Ctor içerisinde CreateMap() kullan.
+	>> Program.cs içerisinde ayarları yap.
+	>> İstenilen Serviste
+		IMapper Mapper ile DIP ile kullan.
+	>> Map() metodu ile sınıfları eşleştir.

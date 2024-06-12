@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Kitaplar>
+	<Kitap>
+		<ID>123</ID>
+		<Ad>Denemeler</Ad>
+		<Yazar>Montaigne</Yazar>
+		<Fiyat>120</Fiyat>
+	</Kitap>
+
+	<Kitap>
+		<ID>124</ID>
+		<Ad>Suç ve Ceza</Ad>
+		<Yazar>Dostoyevski</Yazar>
+		<Fiyat>100</Fiyat>
+	</Kitap>
+
+	<Kitap>
+		<ID>125</ID>
+		<Ad>Baslangıç</Ad>
+		<Yazar>Dan Brown</Yazar>
+		<Fiyat>124</Fiyat>
+	</Kitap>
+</Kitaplar>

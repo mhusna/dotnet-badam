@@ -1,0 +1,47 @@
+﻿@model ProductInsertVM
+
+<form asp-action="HocaUpdate" enctype="multipart/form-data">
+
+    <table>
+        <input type="hidden" asp-for="Product.ProductID"/>
+        <input type="hidden" asp-for="Product.ImagePath"/>
+        <tr>
+            <td><label>Ürün Adı:</label></td>
+            <td><input asp-for="Product.Name" value="@Model.Product.Name" /></td>
+        </tr>
+
+        <tr>
+            <td><label>Fiyat:</label></td>
+            <td><input asp-for="Product.Price" value="@Model.Product.Price" /></td>
+        </tr>
+
+        <tr>
+            <td><label>Açıklama:</label></td>
+            <td><input asp-for="Product.Description" value="@Model.Product.Description" /></td>
+        </tr>
+        
+        <tr>
+            <td><label><b>Önceki resim:</b></label></td>
+            <td> <label style="color: blue;"><b>@Model.Product.ImagePath.Split("_")[1]</b></label></td>
+        </tr>
+
+        <tr>
+            <td><label>Resim: </label></td>
+            <td><input asp-for="Product.Image" type="file" class="form-control" /></td>
+        </tr>
+
+        <tr>
+            <td><label>Marka:</label></td>
+            <td><select asp-for="Product.BrandID" asp-items="@Model.Brands" class="form-control"></select></td>
+        </tr>
+
+        <tr>
+            <td><label>Kategori:</label></td>
+            <td><select asp-for="Product.CategoryID" asp-items="@Model.Categories" class="form-control"></select></td>
+        </tr>
+
+        <tr>
+            <td colspan="2"><input type="submit" value="Güncelle" class="btn btn-outline-primary" /></td>
+        </tr>
+    </table>
+</form>

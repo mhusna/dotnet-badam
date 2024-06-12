@@ -1,0 +1,15 @@
+C:\Users\halkbank2\Desktop\.net\Teorik\Cozumler\Soru18\bin\Debug\net6.0\Soru18.exe
+C:\Users\halkbank2\Desktop\.net\Teorik\Cozumler\Soru18\bin\Debug\net6.0\Soru18.deps.json
+C:\Users\halkbank2\Desktop\.net\Teorik\Cozumler\Soru18\bin\Debug\net6.0\Soru18.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\Teorik\Cozumler\Soru18\bin\Debug\net6.0\Soru18.dll
+C:\Users\halkbank2\Desktop\.net\Teorik\Cozumler\Soru18\bin\Debug\net6.0\Soru18.pdb
+C:\Users\halkbank2\Desktop\.net\Teorik\Cozumler\Soru18\obj\Debug\net6.0\Soru18.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\Teorik\Cozumler\Soru18\obj\Debug\net6.0\Soru18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\Teorik\Cozumler\Soru18\obj\Debug\net6.0\Soru18.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\Teorik\Cozumler\Soru18\obj\Debug\net6.0\Soru18.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\Teorik\Cozumler\Soru18\obj\Debug\net6.0\Soru18.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\Teorik\Cozumler\Soru18\obj\Debug\net6.0\Soru18.dll
+C:\Users\halkbank2\Desktop\.net\Teorik\Cozumler\Soru18\obj\Debug\net6.0\refint\Soru18.dll
+C:\Users\halkbank2\Desktop\.net\Teorik\Cozumler\Soru18\obj\Debug\net6.0\Soru18.pdb
+C:\Users\halkbank2\Desktop\.net\Teorik\Cozumler\Soru18\obj\Debug\net6.0\Soru18.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\Teorik\Cozumler\Soru18\obj\Debug\net6.0\ref\Soru18.dll

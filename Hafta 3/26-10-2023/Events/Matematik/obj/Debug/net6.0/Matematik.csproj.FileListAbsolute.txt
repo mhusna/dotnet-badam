@@ -1,0 +1,12 @@
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Matematik\bin\Debug\net6.0\Matematik.deps.json
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Matematik\bin\Debug\net6.0\Matematik.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Matematik\bin\Debug\net6.0\Matematik.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Matematik\obj\Debug\net6.0\Matematik.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Matematik\obj\Debug\net6.0\Matematik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Matematik\obj\Debug\net6.0\Matematik.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Matematik\obj\Debug\net6.0\Matematik.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Matematik\obj\Debug\net6.0\Matematik.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Matematik\obj\Debug\net6.0\Matematik.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Matematik\obj\Debug\net6.0\refint\Matematik.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Matematik\obj\Debug\net6.0\Matematik.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Matematik\obj\Debug\net6.0\ref\Matematik.dll

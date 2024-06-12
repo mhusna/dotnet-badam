@@ -1,0 +1,4 @@
+﻿## DLL ##
+=> Açılımı Dynamic Link Library'dir.
+=> Main() metodu olmaz dolayısıyla doğrudan çalıştırılamazlar.
+=> Bir .exe dosyaya ihtiyaç duyarlar.

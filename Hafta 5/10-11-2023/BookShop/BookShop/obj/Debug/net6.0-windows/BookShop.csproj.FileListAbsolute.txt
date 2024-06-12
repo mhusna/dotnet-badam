@@ -1,0 +1,88 @@
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\BookShop.exe
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\BookShop.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\Oracle.EntityFrameworkCore.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\System.DirectoryServices.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.FrmGiris.resources
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.FrmMain.resources
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.csproj.GenerateResource.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.csproj.CopyComplete
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\obj\Debug\net6.0-windows\refint\BookShop.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\BookShop.deps.json
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\BookShop.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\BookShop.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 5\10-11-2023\BookShop\BookShop\obj\Debug\net6.0-windows\ref\BookShop.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\BookShop.exe
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\BookShop.deps.json
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\BookShop.runtimeconfig.json
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\BookShop.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\BookShop.pdb
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\Oracle.EntityFrameworkCore.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\System.DirectoryServices.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.FrmGiris.resources
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.FrmMain.resources
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.AssemblyInfo.cs
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.csproj.CopyComplete
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\obj\Debug\net6.0-windows\refint\BookShop.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.pdb
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.genruntimeconfig.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 5\10-11-2023\BookShop\BookShop\obj\Debug\net6.0-windows\ref\BookShop.dll

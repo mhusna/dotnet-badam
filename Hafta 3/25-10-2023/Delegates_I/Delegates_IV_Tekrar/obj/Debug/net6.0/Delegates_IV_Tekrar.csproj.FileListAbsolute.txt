@@ -1,0 +1,14 @@
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV_Tekrar\bin\Debug\net6.0\Delegates_IV_Tekrar.exe
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV_Tekrar\bin\Debug\net6.0\Delegates_IV_Tekrar.deps.json
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV_Tekrar\bin\Debug\net6.0\Delegates_IV_Tekrar.runtimeconfig.json
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV_Tekrar\bin\Debug\net6.0\Delegates_IV_Tekrar.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV_Tekrar\bin\Debug\net6.0\Delegates_IV_Tekrar.pdb
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV_Tekrar\obj\Debug\net6.0\Delegates_IV_Tekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV_Tekrar\obj\Debug\net6.0\Delegates_IV_Tekrar.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV_Tekrar\obj\Debug\net6.0\Delegates_IV_Tekrar.AssemblyInfo.cs
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV_Tekrar\obj\Debug\net6.0\Delegates_IV_Tekrar.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV_Tekrar\obj\Debug\net6.0\Delegates_IV_Tekrar.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV_Tekrar\obj\Debug\net6.0\refint\Delegates_IV_Tekrar.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV_Tekrar\obj\Debug\net6.0\Delegates_IV_Tekrar.pdb
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV_Tekrar\obj\Debug\net6.0\Delegates_IV_Tekrar.genruntimeconfig.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\Delegates_I\Delegates_IV_Tekrar\obj\Debug\net6.0\ref\Delegates_IV_Tekrar.dll

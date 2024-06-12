@@ -1,0 +1,15 @@
+C:\Users\halkbank2\Desktop\.net\Hafta 2\19-10-2023\OOP\OOP_III\bin\Debug\net6.0\OOP_III.exe
+C:\Users\halkbank2\Desktop\.net\Hafta 2\19-10-2023\OOP\OOP_III\bin\Debug\net6.0\OOP_III.deps.json
+C:\Users\halkbank2\Desktop\.net\Hafta 2\19-10-2023\OOP\OOP_III\bin\Debug\net6.0\OOP_III.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\Hafta 2\19-10-2023\OOP\OOP_III\bin\Debug\net6.0\OOP_III.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 2\19-10-2023\OOP\OOP_III\bin\Debug\net6.0\OOP_III.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 2\19-10-2023\OOP\OOP_III\obj\Debug\net6.0\OOP_III.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 2\19-10-2023\OOP\OOP_III\obj\Debug\net6.0\OOP_III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\Hafta 2\19-10-2023\OOP\OOP_III\obj\Debug\net6.0\OOP_III.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 2\19-10-2023\OOP\OOP_III\obj\Debug\net6.0\OOP_III.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\Hafta 2\19-10-2023\OOP\OOP_III\obj\Debug\net6.0\OOP_III.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 2\19-10-2023\OOP\OOP_III\obj\Debug\net6.0\OOP_III.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 2\19-10-2023\OOP\OOP_III\obj\Debug\net6.0\refint\OOP_III.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 2\19-10-2023\OOP\OOP_III\obj\Debug\net6.0\OOP_III.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 2\19-10-2023\OOP\OOP_III\obj\Debug\net6.0\OOP_III.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 2\19-10-2023\OOP\OOP_III\obj\Debug\net6.0\ref\OOP_III.dll

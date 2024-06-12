@@ -1,0 +1,15 @@
+C:\Eğitim\ZiraatTeknoloji\24_10_2023\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\OOP_I.exe
+C:\Eğitim\ZiraatTeknoloji\24_10_2023\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\OOP_I.deps.json
+C:\Eğitim\ZiraatTeknoloji\24_10_2023\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\OOP_I.runtimeconfig.json
+C:\Eğitim\ZiraatTeknoloji\24_10_2023\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\OOP_I.dll
+C:\Eğitim\ZiraatTeknoloji\24_10_2023\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\OOP_I.pdb
+C:\Eğitim\ZiraatTeknoloji\24_10_2023\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\OOP_I.csproj.AssemblyReference.cache
+C:\Eğitim\ZiraatTeknoloji\24_10_2023\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\OOP_I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eğitim\ZiraatTeknoloji\24_10_2023\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\OOP_I.AssemblyInfoInputs.cache
+C:\Eğitim\ZiraatTeknoloji\24_10_2023\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\OOP_I.AssemblyInfo.cs
+C:\Eğitim\ZiraatTeknoloji\24_10_2023\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\OOP_I.csproj.CoreCompileInputs.cache
+C:\Eğitim\ZiraatTeknoloji\24_10_2023\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\OOP_I.dll
+C:\Eğitim\ZiraatTeknoloji\24_10_2023\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\OOP_I.dll
+C:\Eğitim\ZiraatTeknoloji\24_10_2023\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\OOP_I.pdb
+C:\Eğitim\ZiraatTeknoloji\24_10_2023\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\OOP_I.genruntimeconfig.cache
+C:\Eğitim\ZiraatTeknoloji\24_10_2023\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\OOP_I.dll

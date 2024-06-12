@@ -1,0 +1,13 @@
+﻿CREATE USER OkulDB IDENTIFIED BY OkulDB DEFAULT TABLESPACE
+USERS TEMPORARY TABLESPACE temp;
+
+GRANT CONNECT, RESOURCE, DBA to OkulDB;
+
+## EF Core Veri Yükleme Mekanizmaları ##
+	1- Eager Loading: Include metodu ile kullanılır.
+	2- Lazy Loading
+	3- Explicitly Loading: Load metodu ile kullanılır.
+
+=> Düz EF'de varsayılan veri yükleme mekanizması Lazy Loading idi. Core'da önce yasaklandı, daha sonra
+geldi fakat hem extra yükleme yapmak gerekir hem de ayarlarını açmak gerekir. Çünkü lazy loading performans
+olarak kötü.

@@ -1,0 +1,72 @@
+## Controller ##
+=> Controller, gelen tüm istekleri karşılamakla görevlidir. (Request)
+=> Kullanıcıya sonuç dönmesini de sağlar. (Response)
+=> Controller hem view ile hem de model ile çalışır.
+=> Controller içerisindeki metotlara action denir.
+=> Varsayılan aksiyon Index'tir.
+
+## View ##
+=> Html, Css, Javascript gibi teknolojileri kullanırız. Yani Front-End kısmıdır.
+
+Controller -- veri transferi ---> View: 5 farklı yöntem
+View -- veri transferi ---> Controller: 5 farklı yöntem
+
+
+## Controller -> View | Veri Gönderme ##
+1- ViewData
+2- ViewBag (*)
+3- TempData
+4- Model: En prof yöntem (***)
+5- ViewModel (**)
+
+ViewData kullanırken tip dönüşümüne dikkat etmek gerekir.
+ViewBag, dynamic olarak çalıştığından böyle bir durum yok, zaten ViewData'nın bu sorununu görünce ViewBag gelmiştir.
+
+## TempData
+=> TempData, farklı controller'lar veya aksiyonlar arası geçici olarak veri transferi için kullanılır.
+=> İlk kullanılışından sonra silinir.
+=> Silinmesini istemiyorsak; Keep() metodu kullanılır.
+=> Keep() metodundan sonra ilk kullanımda tekrar silinecektir.
+=> Bunu engellemek için de tekrar TempData.Keep() kullanılmalı.
+
+## Model
+=> Model, tek bir nesne ise; return View() ifadesinde parantez içerisine model'i veririz.
+=> Cshtml dosyasında, tanımlama yaparken küçük model, sayfa içerisinde kullanırken büyük Model kullanılır.
+
+
+## View -> Controller | Veri Alma ##
+1- QueryString (Get) (*)
+2- Request.Form (Post)
+3- IFormCollection (Post)
+4- Parametre (Post) (**)
+5- Model (Post) (***)
+
+## Request Form
+=> Name özelliğini yazıyoruz parantez içerisine.
+=> Tüm form elemanlarının isimleri doğru yazılmalıdır.
+
+## IFormCollection
+=> Name özelliğini yazıyoruz parantez içerisine.
+=> Tüm form elemanlarının isimleri doğru yazılmalıdır.
+=> Uzun uzun request.form yazmaya gerek yok.
+
+## Parametre
+=> Bu kullanımın güzelliği, parametreler için tip dönüşümü yapmaya gerek olmamasıdır.
+=> Parametre olarak gelen değerler ile formda tanımlı olan name'ler aynı olmalı.
+=> Esnek değil, aynı zamanda çok fazla parametre olduğu durumlarda sıkıntılı.
+
+## Model
+=> NŞA; Model Binder => Urun sınıfının içerisindeki property isimleri ile aynı olan name
+değerlerini otomatik olarak eşleştirir ve gerekli tip dönüşümünü yapar.
+
+## Resim İşlemleri
+=> Duruma göre bu iki kullanımdan biri kullanılır.
+=> Model katmanında IFormFile kullanılmamalı.
+=> Form'a bu satırı eklememiz lazım 
+	enctype="multipart/form-data"
+eklemezsek dosyayı göndermez.
+
+Kullanım 1: public string FilePath { get; set; }
+Kullanım 2: public IFormFile File { get; set; }
+
+** Düz MVC'de genelde ActionResult döner, MVC Core'da ise IActionResult döner.

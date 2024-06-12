@@ -1,0 +1,73 @@
+﻿<h2>Yöntem 1: QueryString</h2>
+<form method="get" action="QueryStringYakala">
+    <input type="text" id="id" name="id"/>
+    <input type="text" id="ad" name="ad" />
+    <input type="text" id="fiyat" name="fiyat" />
+    <input type="submit" value="Gönder"/>
+</form>
+
+@*Üstteki action çalışmazsa bunu kullan*@
+@*action="~/VeriAl/QueryStringYakala"*@
+
+<br />
+<br />
+<h2>Yöntem 2: Request Form</h2>
+<form method="post" action="RequestFormYakala">
+    <input type="text" id="id" name="id" />
+    <input type="text" id="ad" name="ad" />
+    <input type="text" id="fiyat" name="fiyat" />
+    <input type="submit" value="Gönder" />
+</form>
+
+<br />
+<br />
+<h2>Yöntem 3: IFormCollection</h2>
+<form method="post" action="IFormCollectionYakala">
+    <input type="text" id="id" name="id" />
+    <input type="text" id="ad" name="ad" />
+    <input type="text" id="fiyat" name="fiyat" />
+    <input type="submit" value="Gönder" />
+</form>
+
+<br />
+<br />
+<h2>Yöntem 4: Parametre Kullanımı</h2>
+<form method="post" action="ParametreYakala">
+    <input type="text" id="id" name="id" />
+    <input type="text" id="ad" name="ad" />
+    <input type="text" id="fiyat" name="fiyat" />
+    <input type="submit" value="Gönder" />
+</form>
+
+<br />
+<br />
+@*Bu yöntem sıkıntılı, bu yöntemde name özelliklerini, sınıftakiyle aynı vermek gerekir.*@
+<h2>Yöntem 5: Model Kullanımı</h2>
+<form method="post" action="ModelYakala">
+    <input type="text" id="id" name="id" />
+    <input type="text" id="ad" name="ad" />
+    <input type="text" id="fiyat" name="fiyat" />
+    <input type="submit" value="Gönder" />
+</form>
+
+<!-- Model tanımı gerekli -->
+@model Urun
+<br />
+<br />
+<h2>Yöntem 5: Model Kullanımı (HTML Helper)</h2>
+<form method="post" action="ModelYakala">
+    @Html.TextBoxFor(x => x.UrunID)
+    @Html.TextBoxFor(x => x.UrunAdi, "", new {type = "password", style="border: 1px solid red;"})
+    @Html.TextBoxFor(x => x.Fiyat)
+    <input type="submit" value="Gönder" />
+</form>
+
+<br />
+<br />
+<h2>Yöntem 5: Model Kullanımı (Tag Helper)</h2>
+<form method="post" action="ModelYakala">
+    <input asp-for="UrunID"/>
+    <input asp-for="UrunAdi" type="password" style="border: 1px solid green;"/>
+    <input asp-for="Fiyat" type="text" />
+    <input type="submit" value="Gönder" />
+</form>

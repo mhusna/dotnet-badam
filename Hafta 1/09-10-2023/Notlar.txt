@@ -1,0 +1,26 @@
+1- Algoritma
+2- Akış Diyagramları
+3- Pseudo Code
+4- Compiler
+5- RAM
+6- ROM
+7- RAM'in bolgeleri(.NET): 1- Stack
+  			   2- Heap
+			   3- Static
+8- Programlama Dilleri (Yapısal Gelişime Göre)
+	1- Sıralı Programlama Dilleri: Basic, GW Basic.
+	2- Fonksiyonel / Prosedürel Programlama Dilleri: C, Pascal.
+	3- Object Oriented Programming: C++, Java, C#, Python..
+	4- Component Based Programming: Araştır..
+	
+Cpu içerisindeki cpu'ya özel komutlar çalıştırılarak program run edilir.
+Transistör hakkkında araştırma.
+Yarı iletken teknolojisi bi araştır.
+Exe ve com dosya farkı.
+Exe ile diğer dosyaların farkı, exe'de main bloğu olmasıdır.
+Rom örneği BIOS.
+Bir uygulama çalışacaksa önce harddiskten ram'e yüklenmeli. Çünkü ram daha hızlı.
+
+NŞA Bir prog. dili ile .NET, JAVA ve CORE ilişkileri.
+JAVA -> Jvm -> Assembly(machine code)
+C# -> assembly(Just in Time compiler) -> Assembly(machine code)

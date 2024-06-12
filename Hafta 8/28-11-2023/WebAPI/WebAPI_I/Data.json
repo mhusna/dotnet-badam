@@ -1,0 +1,5 @@
+[
+  { "ID": "123", "Ad": "Denemeler", "Yazar": "Montaigne", "Fiyat" :  "120" },
+  { "ID": "124", "Ad": "Suç ve Ceza", "Yazar": "Dostoyevski", "Fiyat" :  "100" },
+  { "ID": "125", "Ad": "Başlangıç", "Yazar": "Dan Brown", "Fiyat" :  "124" }
+]

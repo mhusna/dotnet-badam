@@ -1,0 +1,42 @@
+## WebAPI
+
+Web Servisleri Test Etme Araçları
+	1- Swagger: Web tabanlı (projeyi açarken seçili gelir..)
+	2- Postman: Ayrı yüklemek gerekir.
+	3- Fiddler
+
+
+HttpVerbs => GET, POST, PUT, DELETE
+
+	Get: Select işlemleri için
+	Post: Insert işlemleri için
+	Put: Update işlemleri için
+	Delete: Delete işlemleri için
+
+Aksiyonların geriye dönüş tipleri:
+	1- Void
+	2- Ön tanımlı tip ya da koleksiyon olabilir.
+	3- HttpResponseMessage (Core öncesi çok kullanılıyordu) yerine IActionResult kullanılır.
+	4- IActionResult
+	
+>> En çok kullanılan IActionResult'dır.
+
+>> Use controllers, controller kullanmak için seçiyoruz. Minimal api kullanmıyoruz.
+>> OpenAPI, swagger kullanmak için seçiliyor.
+	>> Swagger, postman'den sonra çıkmıştır. Swagger bir client'dır, bize uygulamayı test etme imkanı sunar.
+
+Biz ikisini de seçili bıraktık.
+
+
+>> Controller eklemek için Controller > Add Controller > Soldan API seçip Controller'ı seçiyorsun.
+
+=> WebAPI'de metot isminin bir önemi yok, state verb'ler önemli. Get, Post gibi. Varsayılan olarak GET kullanılır.
+>> Bir controller'da birden fazla get kullanacaksak isimini değiştirmemiz gerek. ===> [HttpGet("dene")]
+
+## Serileştirme ve De-Serileştirme neden önemli ?
+=> Nesneleri doğrudan gönderemediğimiz için json, csv, xml gibi STRING bir ifadeyle aktarmak zorundayız.
+   Bu işleme serileştirme denir.
+
+=> Karşı taraf da bu veriyi aldıktan sonra tekrar nesneye dönüştürmek zorunda, buna da de-serileştirme denir.
+=> Csv, json, xml, bin olabilir. Oyunlardaki save dosyaları da serileştirilmiş dosyalardır, içine girilip veriler
+değiştirilebilir.

@@ -1,0 +1,5 @@
+=> Context sınıfına varsayılan ctor yazmadık ve hata vermedi ama katmanlı mimaride yazmak zorundayız.
+
+=> Model içerisinde IFormFile kullanılmamalı, bağımlılık sağlıyor.
+=> Katman olmadığı için bu uygulamada Data'da yazdık, normalde yazılmamalı.
+=> [NotMapped] dediğimiz için veritabanına IFormFile Image için ekstra bir kolon oluşturmayacak.

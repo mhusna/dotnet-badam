@@ -1,0 +1,44 @@
+main{
+    width: 1000px;
+    height: 700px;
+    background-color: gray;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header{
+    width: 1000px;
+    height: 120px;
+    background-color: orange;
+}
+
+nav{
+    width: 1000px;
+    height: 50px;
+    background-color: #333333;
+}
+
+#content{
+    width: 1000px;
+    height: 500px;
+}
+
+aside{
+    float: left;
+    width: 200px;
+    height: 500px;
+    background-color: darkmagenta;
+}
+
+article{
+    float: left;
+    width: 600px;
+    height: 500px;
+    background-color: navy;
+}
+
+footer{
+    width: 1000px;
+    height: 30px;
+    background-color: green;
+}

@@ -1,0 +1,29 @@
+﻿## SOLID ##
+-----------
+	>> Uzun vadede daha yönetilebilir proje yazmayı amaçlar.
+	>> Her bir prensibi ayrı ayrı düşünmeden kod yazmak gerekir. Birinden birine uymuyorsak sıkıntı var demektir.
+
+	1- SRP (Single Responsibility Principles)
+	-----------------------------------------	
+		>> Bir metod veya bir class yazıyorsak sadece ve sadece tek bir sorumluluğu olması gerekir.
+
+	2- OCP (Open / Closed Principles)
+	---------------------------------
+		>> Open, extension; close, modification demektir. Yani geliştirmeye açık, değiştirmeye kapalı demektir.
+
+	3- LSP (Liskov's Substitution Principles)
+	-----------------------------------------
+		>> Bir class, atası ile yer değiştirdiğinde problemsiz çalışmaya devam etmelidir. (Polymorphism'in uygulanması..)
+
+	4- ISP (Interface Segregation Principles)
+	-----------------------------------------
+		>> Interface'ler ile birlikte yetenek verirken, yeteneklerin tek bir interface üzerinden değil de ayrıştırılarak verilmesi.
+
+	5- DIP (Dependency Inversion Principles)
+	----------------------------------------
+		>> Bağımlılıkların tersine çevirilmesidir. 
+		>> Bu işlemin yapılmasına "Dependency Injection" denir ve üç farklı şekilde yapılır:
+			1- Constructor Injection (*****)
+			2- Property Injection
+			3- Method Injection
+			

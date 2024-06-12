@@ -1,0 +1,15 @@
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Events_Soru\bin\Debug\net6.0\Events_Soru.exe
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Events_Soru\bin\Debug\net6.0\Events_Soru.deps.json
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Events_Soru\bin\Debug\net6.0\Events_Soru.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Events_Soru\bin\Debug\net6.0\Events_Soru.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Events_Soru\bin\Debug\net6.0\Events_Soru.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Events_Soru\obj\Debug\net6.0\Events_Soru.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Events_Soru\obj\Debug\net6.0\Events_Soru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Events_Soru\obj\Debug\net6.0\Events_Soru.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Events_Soru\obj\Debug\net6.0\Events_Soru.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Events_Soru\obj\Debug\net6.0\Events_Soru.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Events_Soru\obj\Debug\net6.0\Events_Soru.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Events_Soru\obj\Debug\net6.0\refint\Events_Soru.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Events_Soru\obj\Debug\net6.0\Events_Soru.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Events_Soru\obj\Debug\net6.0\Events_Soru.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\Delegates_I\Events_Soru\obj\Debug\net6.0\ref\Events_Soru.dll

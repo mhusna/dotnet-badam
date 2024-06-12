@@ -1,0 +1,15 @@
+C:\Users\halkbank2\Desktop\.net\Hafta 5\07-11-2023\EntityFramework\EF-V\obj\Debug\net6.0\EF-V.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 5\07-11-2023\EntityFramework\EF-V\obj\Debug\net6.0\EF-V.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\Hafta 5\07-11-2023\EntityFramework\EF-V\obj\Debug\net6.0\EF-V.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 5\07-11-2023\EntityFramework\EF-V\obj\Debug\net6.0\EF-V.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\Hafta 5\07-11-2023\EntityFramework\EF-V\obj\Debug\net6.0\EF-V.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 5\07-11-2023\EntityFramework\EF-V\bin\Debug\net6.0\EF-V.exe
+C:\Users\halkbank2\Desktop\.net\Hafta 5\07-11-2023\EntityFramework\EF-V\bin\Debug\net6.0\EF-V.deps.json
+C:\Users\halkbank2\Desktop\.net\Hafta 5\07-11-2023\EntityFramework\EF-V\bin\Debug\net6.0\EF-V.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\Hafta 5\07-11-2023\EntityFramework\EF-V\bin\Debug\net6.0\EF-V.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\07-11-2023\EntityFramework\EF-V\bin\Debug\net6.0\EF-V.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 5\07-11-2023\EntityFramework\EF-V\obj\Debug\net6.0\EF-V.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\07-11-2023\EntityFramework\EF-V\obj\Debug\net6.0\refint\EF-V.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 5\07-11-2023\EntityFramework\EF-V\obj\Debug\net6.0\EF-V.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 5\07-11-2023\EntityFramework\EF-V\obj\Debug\net6.0\EF-V.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 5\07-11-2023\EntityFramework\EF-V\obj\Debug\net6.0\ref\EF-V.dll

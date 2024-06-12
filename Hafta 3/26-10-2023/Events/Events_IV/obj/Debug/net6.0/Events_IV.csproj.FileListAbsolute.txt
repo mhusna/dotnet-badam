@@ -1,0 +1,15 @@
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_IV\bin\Debug\net6.0\Events_IV.exe
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_IV\bin\Debug\net6.0\Events_IV.deps.json
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_IV\bin\Debug\net6.0\Events_IV.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_IV\bin\Debug\net6.0\Events_IV.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_IV\bin\Debug\net6.0\Events_IV.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_IV\obj\Debug\net6.0\Events_IV.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_IV\obj\Debug\net6.0\Events_IV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_IV\obj\Debug\net6.0\Events_IV.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_IV\obj\Debug\net6.0\Events_IV.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_IV\obj\Debug\net6.0\Events_IV.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_IV\obj\Debug\net6.0\Events_IV.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_IV\obj\Debug\net6.0\refint\Events_IV.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_IV\obj\Debug\net6.0\Events_IV.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_IV\obj\Debug\net6.0\Events_IV.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\26-10-2023\Events\Events_IV\obj\Debug\net6.0\ref\Events_IV.dll

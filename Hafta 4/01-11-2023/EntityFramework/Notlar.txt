@@ -1,0 +1,23 @@
+﻿=> Her gördüğümüz extension metot, LINQ ile gelmemiştir.
+
+** Urunleri Fiyatına Göre Sırala.. (A-Z):
+	Sort metodunda hata aldığımız için bu şekilde yaptık. Sort neye göre sıralama yapacağını bilmediği için hata veriyordu.
+	Bunu çözmek için ya arayüzünden gidilir ya da LINQ kullanılır.
+
+** Soru 3 => Like SQL: Tüm extension metotlar için LIKE SQL kullanımı için keywordler oluşturulmamıştır. Eğer başka ifadeleri
+kullanacak isek önceki ifade paranteze alınır sonra extension metot yazılır.
+
+## EntityFramework_III ##
+ADO.NET bağlantılı yöntem
+
+## EntityFramework_IV ##
+
+Nuget paketleri yükleme sırası
+	1- Microsoft.EntityFrameworkCore -> 6.0.21
+	2- Oracle.EntityFrameworkCore -> 6.21.120
+	3- Microsoft.EntityFrameworkCore.Tools -> 6.0.21
+
+
+Scaffold-DbContext "" Oracle.EntityFrameworkCore -o Models
+
+Scaffold-DbContext "User Id = hr; Password = HR; Data Source = (DESCRIPTION = (ADDRESS_LIST = (ADDRESS = (PROTOCOL = TCP)(HOST = 127.0.0.1)(PORT = 1521)))(CONNECT_DATA = (SERVER = DEDICATED)(SID = orcl)))" Oracle.EntityFrameworkCore -o Models

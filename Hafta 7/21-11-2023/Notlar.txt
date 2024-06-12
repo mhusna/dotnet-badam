@@ -1,0 +1,15 @@
+
+## Validations
+1- HTML5 ile gelen required kullanımı ile yapabiliriz.  -- Client Side
+2- JavaScript kullanılabilir.				-- Client Side
+3- Mvc ile birlikte gelen validations kullanılabilir.	-- Server Side
+4- Custom validations (3'ün alt başlığı).
+
+=> Custom validator oluşturmak için; 
+	1- Bir sınıf oluşturup ValdiationAttribute sınıfından türetin. 
+	2- IsValid metodunu override edip istenilen duruma göre validation yap..
+
+## State Management
+	1- QueryString	-- Client'ta saklanır
+	2- Cookie	-- Client'ta saklanır
+	3- Session	-- Server'da saklanır

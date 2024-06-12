@@ -1,0 +1,21 @@
+﻿@model List<Film>
+
+<table class="table table-striped">
+    <thead>
+        <th>Film ID</th>
+        <th>Film Adı</th>
+        <th>Puan</th>
+        <th>Süre</th>
+    </thead>
+    <tbody>
+        @foreach (Film film in Model)
+        {
+            <tr>
+                <td>@film.FilmID</td>
+                <td>@film.FilmAdi</td>
+                <td>@film.Puan</td>
+                <td>@film.Sure</td>
+            </tr>
+        }
+    </tbody>
+</table>

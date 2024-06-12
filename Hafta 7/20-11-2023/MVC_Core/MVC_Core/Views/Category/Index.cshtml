@@ -1,0 +1,21 @@
+﻿@model List<Category>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Category ID</th>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Category category in Model)
+        {
+            <tr>
+                <td>@category.CategoryID</td>
+                <td>@category.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="InsertCategory" asp-controller="Category" class="btn btn-outline-success">Kategori Ekle</a>

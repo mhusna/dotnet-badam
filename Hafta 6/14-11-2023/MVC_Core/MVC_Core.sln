@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7D0CDF7C-8858-4C6B-AE2D-AD7A3C296287}"
+	ProjectSection(SolutionItems) = preProject
+		Notlar.txt = Notlar.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_I", "MVC_I\MVC_I.csproj", "{035430DA-EA04-40B2-84D2-88DF6B2E9B64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{035430DA-EA04-40B2-84D2-88DF6B2E9B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{035430DA-EA04-40B2-84D2-88DF6B2E9B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{035430DA-EA04-40B2-84D2-88DF6B2E9B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{035430DA-EA04-40B2-84D2-88DF6B2E9B64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E53091F5-428C-406B-A996-6F8E59C202B3}
+	EndGlobalSection
+EndGlobal

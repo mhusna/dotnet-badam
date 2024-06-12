@@ -1,0 +1,40 @@
+﻿@using Haber.UI.Models.VMs;
+@model HaberEkleVM
+
+<form method="post" asp-action="HaberEkle" enctype="multipart/form-data">
+    <table>
+        <tr>
+            <td><label asp-for="Baslik" class="form-label"></label></td>
+            <td><input asp-for="Baslik" class="form-control" /></td>
+        </tr>
+
+        <tr>
+            <td><label asp-for="Detay" class="form-label"></label></td>
+            <td><textarea asp-for="Detay" class="form-text" cols="60" rows="5"></textarea></td>
+        </tr>
+
+        <tr>
+            <td><label asp-for="Kategoriler" class="form-label"></label></td>
+            <td>
+                <select asp-for="KategoriID" asp-items="Model.Kategoriler" class="form-control"></select>
+            </td>
+        </tr>
+
+        <tr>
+            <td><label asp-for="ResimDosyasi" class="form-label"></label></td>
+            <td><input asp-for="ResimDosyasi" type="file" class="form-control" /></td>
+        </tr>
+
+        <tr>
+            <td colspan="2">
+                <input type="submit" value="Haber Ekle" />
+            </td>
+        </tr>
+    </table>
+
+    <tr>
+        <td colspan="2">
+            <div asp-validation-summary="All"></div>
+        </td>
+    </tr>
+</form>

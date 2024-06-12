@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 6\\13-11-2023\\Dokumanlar\\MehmetHusnaKisla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9AE132-2AA6-462C-8EEE-C4375D15C042}|MehmetHusnaKisla.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 6\\13-11-2023\\dokumanlar\\mehmethusnakisla\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9AE132-2AA6-462C-8EEE-C4375D15C042}|MehmetHusnaKisla.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9AE132-2AA6-462C-8EEE-C4375D15C042}|MehmetHusnaKisla.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 6\\13-11-2023\\dokumanlar\\mehmethusnakisla\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9AE132-2AA6-462C-8EEE-C4375D15C042}|MehmetHusnaKisla.csproj|solutionrelative:models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9AE132-2AA6-462C-8EEE-C4375D15C042}|MehmetHusnaKisla.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 6\\13-11-2023\\dokumanlar\\mehmethusnakisla\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9AE132-2AA6-462C-8EEE-C4375D15C042}|MehmetHusnaKisla.csproj|solutionrelative:models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9AE132-2AA6-462C-8EEE-C4375D15C042}|MehmetHusnaKisla.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 6\\13-11-2023\\dokumanlar\\mehmethusnakisla\\data\\manager\\adminmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9AE132-2AA6-462C-8EEE-C4375D15C042}|MehmetHusnaKisla.csproj|solutionrelative:data\\manager\\adminmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9AE132-2AA6-462C-8EEE-C4375D15C042}|MehmetHusnaKisla.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 6\\13-11-2023\\dokumanlar\\mehmethusnakisla\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5B9AE132-2AA6-462C-8EEE-C4375D15C042}|MehmetHusnaKisla.csproj|solutionrelative:notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9AE132-2AA6-462C-8EEE-C4375D15C042}|MehmetHusnaKisla.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 6\\13-11-2023\\dokumanlar\\mehmethusnakisla\\configurations\\admin_cfg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9AE132-2AA6-462C-8EEE-C4375D15C042}|MehmetHusnaKisla.csproj|solutionrelative:configurations\\admin_cfg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 6\\13-11-2023\\Dokumanlar\\MehmetHusnaKisla\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 6\\13-11-2023\\Dokumanlar\\MehmetHusnaKisla\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:19:44.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 6\\13-11-2023\\Dokumanlar\\MehmetHusnaKisla\\Models\\Entity.cs",
+              "RelativeDocumentMoniker": "Models\\Entity.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 6\\13-11-2023\\Dokumanlar\\MehmetHusnaKisla\\Models\\Entity.cs",
+              "RelativeToolTip": "Models\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:19:43.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 6\\13-11-2023\\Dokumanlar\\MehmetHusnaKisla\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 6\\13-11-2023\\Dokumanlar\\MehmetHusnaKisla\\Models\\Admin.cs",
+              "RelativeToolTip": "Models\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:19:41.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminManager.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 6\\13-11-2023\\Dokumanlar\\MehmetHusnaKisla\\Data\\Manager\\AdminManager.cs",
+              "RelativeDocumentMoniker": "Data\\Manager\\AdminManager.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 6\\13-11-2023\\Dokumanlar\\MehmetHusnaKisla\\Data\\Manager\\AdminManager.cs",
+              "RelativeToolTip": "Data\\Manager\\AdminManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:19:34.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Admin_CFG.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 6\\13-11-2023\\Dokumanlar\\MehmetHusnaKisla\\Configurations\\Admin_CFG.cs",
+              "RelativeDocumentMoniker": "Configurations\\Admin_CFG.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 6\\13-11-2023\\Dokumanlar\\MehmetHusnaKisla\\Configurations\\Admin_CFG.cs",
+              "RelativeToolTip": "Configurations\\Admin_CFG.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:19:34.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Notes.txt",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 6\\13-11-2023\\Dokumanlar\\MehmetHusnaKisla\\Notes.txt",
+              "RelativeDocumentMoniker": "Notes.txt",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 6\\13-11-2023\\Dokumanlar\\MehmetHusnaKisla\\Notes.txt",
+              "RelativeToolTip": "Notes.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-04T18:19:34.329Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

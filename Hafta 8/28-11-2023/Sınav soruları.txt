@@ -1,0 +1,17 @@
+-> Mvc nedir ?
+-> Controller ne iş yapar ?
+-> View ne iş yapar ?
+-> Model nedir ?
+-> View'e veri aktarmak için kullanılan yöntemler nelerdir ? 5 tane var
+-> View'den Controller'a veri göndermek için kullanılan yöntemler nelerdir ? 5 tane var
+-> ViewModel nedir ?
+-> Action geriye neler döndürür ? (JsonResult, ViewResult, ...)
+-> Razor pages nedir ?
+-> Razor kullanmak için ne gerekir ? @ işareti.
+-> Model tanımlamak için ne gerekir ? @model, aşağıda @Model
+-> PartialView nedir ?
+-> Layout nedir ? Asp'de master page diye geçer.
+-> Session nedir ? Session'a httpcontext üzerinden ulaşılır. Program.cs içerisinde service eklenir ve
+app.usesession() denir.
+
+

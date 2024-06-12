@@ -1,0 +1,27 @@
+Kitap Dükkanı Projesi
+
+Bir kitapçı için Kitaplarla ilgili olarak; Admin kişilere ait yönetim panelini oluşturunuz.
+
+	## ADMIN KISMI ##
+	=> Bir kişi sisteme üye değilse (admin); sisteme giriş izni olmayacak.  ++
+	=> Admin ise kullanıcı adı ve şifre ile sisteme giriş yapmalı.          ++
+	=> Şifre veritabanında açık olarak tutulmamalı.(MD5 kullanımı vb..)	++
+	=> En az iki tane şifre ile ilgili kısıt olmalı 
+		- Min Length,
+		- En az 1 tane büyük harf olmalı ya da,
+		- En az 1 tane harfler harici karakter olmalı.
+
+	=> Sisteme giriş yapan yönetici
+		- Uygun ekranları görmeli,
+		- CRUD işlemleri yapabilmeli,
+		- Aşağıdaki raporları almalı.
+
+	=> Raporlar
+		- En son eklenen 10 kitap,
+		- Yayınevlerine göre kitaplar,
+		- Satışı durdurulan kitaplar (Kitap silinmeyecek durumu değişecek)
+		- Fiyatına göre kitaplar.
+
+=> Ekleme ve güncellemede hocanın yaptığı ortak metodu kullanabilirsin.
+EntityFrameworktutorial.net => EF Basics => EF Features oku. Sınavla alakalı.
+https://www.entityframeworktutorial.net/efcore/entity-framework-core.aspx

@@ -1,0 +1,15 @@
+C:\Users\halkbank2\Desktop\.net\11-10-2023\TemelProgramlama\Sorular\bin\Debug\net6.0\Sorular.exe
+C:\Users\halkbank2\Desktop\.net\11-10-2023\TemelProgramlama\Sorular\bin\Debug\net6.0\Sorular.deps.json
+C:\Users\halkbank2\Desktop\.net\11-10-2023\TemelProgramlama\Sorular\bin\Debug\net6.0\Sorular.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\11-10-2023\TemelProgramlama\Sorular\bin\Debug\net6.0\Sorular.dll
+C:\Users\halkbank2\Desktop\.net\11-10-2023\TemelProgramlama\Sorular\bin\Debug\net6.0\Sorular.pdb
+C:\Users\halkbank2\Desktop\.net\11-10-2023\TemelProgramlama\Sorular\obj\Debug\net6.0\Sorular.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\11-10-2023\TemelProgramlama\Sorular\obj\Debug\net6.0\Sorular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\11-10-2023\TemelProgramlama\Sorular\obj\Debug\net6.0\Sorular.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\11-10-2023\TemelProgramlama\Sorular\obj\Debug\net6.0\Sorular.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\11-10-2023\TemelProgramlama\Sorular\obj\Debug\net6.0\Sorular.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\11-10-2023\TemelProgramlama\Sorular\obj\Debug\net6.0\Sorular.dll
+C:\Users\halkbank2\Desktop\.net\11-10-2023\TemelProgramlama\Sorular\obj\Debug\net6.0\refint\Sorular.dll
+C:\Users\halkbank2\Desktop\.net\11-10-2023\TemelProgramlama\Sorular\obj\Debug\net6.0\Sorular.pdb
+C:\Users\halkbank2\Desktop\.net\11-10-2023\TemelProgramlama\Sorular\obj\Debug\net6.0\Sorular.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\11-10-2023\TemelProgramlama\Sorular\obj\Debug\net6.0\ref\Sorular.dll

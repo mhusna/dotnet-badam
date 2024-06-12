@@ -1,0 +1,5 @@
+﻿C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Visual Studio 2022\Visual Studio Tools
+altında Developer command prompt aç ve alttaki kodu yaz.
+ildasm daha sonra maine çift tıkla ve jıt aç.
+
+Daha sonra yazılan projenin altında \bin\Debug\net6.0 altındaki dll dosyasını sürükle.

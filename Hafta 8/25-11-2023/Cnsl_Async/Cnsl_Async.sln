@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cnsl_Async", "Cnsl_Async\Cnsl_Async.csproj", "{0EB4870A-DD8F-41AE-8B42-A6B7ADEDD793}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EB4870A-DD8F-41AE-8B42-A6B7ADEDD793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB4870A-DD8F-41AE-8B42-A6B7ADEDD793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB4870A-DD8F-41AE-8B42-A6B7ADEDD793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB4870A-DD8F-41AE-8B42-A6B7ADEDD793}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E50CA04A-E11F-4172-BB2F-01E64F623329}
+	EndGlobalSection
+EndGlobal

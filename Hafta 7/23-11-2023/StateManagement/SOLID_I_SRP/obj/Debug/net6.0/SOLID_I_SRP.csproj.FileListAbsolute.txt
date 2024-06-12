@@ -1,0 +1,15 @@
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_I_SRP\bin\Debug\net6.0\SOLID_I_SRP.exe
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_I_SRP\bin\Debug\net6.0\SOLID_I_SRP.deps.json
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_I_SRP\bin\Debug\net6.0\SOLID_I_SRP.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_I_SRP\bin\Debug\net6.0\SOLID_I_SRP.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_I_SRP\bin\Debug\net6.0\SOLID_I_SRP.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_I_SRP\obj\Debug\net6.0\SOLID_I_SRP.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_I_SRP\obj\Debug\net6.0\SOLID_I_SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_I_SRP\obj\Debug\net6.0\SOLID_I_SRP.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_I_SRP\obj\Debug\net6.0\SOLID_I_SRP.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_I_SRP\obj\Debug\net6.0\SOLID_I_SRP.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_I_SRP\obj\Debug\net6.0\SOLID_I_SRP.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_I_SRP\obj\Debug\net6.0\refint\SOLID_I_SRP.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_I_SRP\obj\Debug\net6.0\SOLID_I_SRP.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_I_SRP\obj\Debug\net6.0\SOLID_I_SRP.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_I_SRP\obj\Debug\net6.0\ref\SOLID_I_SRP.dll

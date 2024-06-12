@@ -1,0 +1,17 @@
+C:\Users\halkbank2\Desktop\MehmetHusnaKisla\MehmetHusnaKisla.Infrastructure\bin\Debug\net6.0\MehmetHusnaKisla.Infrastructure.deps.json
+C:\Users\halkbank2\Desktop\MehmetHusnaKisla\MehmetHusnaKisla.Infrastructure\bin\Debug\net6.0\MehmetHusnaKisla.Infrastructure.runtimeconfig.json
+C:\Users\halkbank2\Desktop\MehmetHusnaKisla\MehmetHusnaKisla.Infrastructure\bin\Debug\net6.0\MehmetHusnaKisla.Infrastructure.dll
+C:\Users\halkbank2\Desktop\MehmetHusnaKisla\MehmetHusnaKisla.Infrastructure\bin\Debug\net6.0\MehmetHusnaKisla.Infrastructure.pdb
+C:\Users\halkbank2\Desktop\MehmetHusnaKisla\MehmetHusnaKisla.Infrastructure\bin\Debug\net6.0\MehmetHusnaKisla.Domain.dll
+C:\Users\halkbank2\Desktop\MehmetHusnaKisla\MehmetHusnaKisla.Infrastructure\bin\Debug\net6.0\MehmetHusnaKisla.Domain.pdb
+C:\Users\halkbank2\Desktop\MehmetHusnaKisla\MehmetHusnaKisla.Infrastructure\obj\Debug\net6.0\MehmetHusnaKisla.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\MehmetHusnaKisla\MehmetHusnaKisla.Infrastructure\obj\Debug\net6.0\MehmetHusnaKisla.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\MehmetHusnaKisla\MehmetHusnaKisla.Infrastructure\obj\Debug\net6.0\MehmetHusnaKisla.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\MehmetHusnaKisla\MehmetHusnaKisla.Infrastructure\obj\Debug\net6.0\MehmetHusnaKisla.Infrastructure.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\MehmetHusnaKisla\MehmetHusnaKisla.Infrastructure\obj\Debug\net6.0\MehmetHusnaKisla.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\MehmetHusnaKisla\MehmetHusnaKisla.Infrastructure\obj\Debug\net6.0\MehmetHusnaKisla.Infrastructure.csproj.CopyComplete
+C:\Users\halkbank2\Desktop\MehmetHusnaKisla\MehmetHusnaKisla.Infrastructure\obj\Debug\net6.0\MehmetHusnaKisla.Infrastructure.dll
+C:\Users\halkbank2\Desktop\MehmetHusnaKisla\MehmetHusnaKisla.Infrastructure\obj\Debug\net6.0\refint\MehmetHusnaKisla.Infrastructure.dll
+C:\Users\halkbank2\Desktop\MehmetHusnaKisla\MehmetHusnaKisla.Infrastructure\obj\Debug\net6.0\MehmetHusnaKisla.Infrastructure.pdb
+C:\Users\halkbank2\Desktop\MehmetHusnaKisla\MehmetHusnaKisla.Infrastructure\obj\Debug\net6.0\MehmetHusnaKisla.Infrastructure.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\MehmetHusnaKisla\MehmetHusnaKisla.Infrastructure\obj\Debug\net6.0\ref\MehmetHusnaKisla.Infrastructure.dll

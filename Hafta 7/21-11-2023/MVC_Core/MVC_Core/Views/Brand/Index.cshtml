@@ -1,0 +1,26 @@
+﻿@model List<Brand>
+
+<h2>All Brands</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Brand ID</th>
+            <th>Brand Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Brand brand in Model)
+        {
+            <tr>
+                <td>@brand.BrandID</td>
+                <td>@brand.Name</td>
+            </tr>
+        }
+        <tr>
+            <td colspan="2">
+                <a asp-action="InsertBrand" asp-controller="Brand" class="btn btn-outline-success">Marka Ekle</a>
+            </td>
+        </tr>
+    </tbody>
+</table>

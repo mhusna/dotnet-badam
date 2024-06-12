@@ -1,0 +1,14 @@
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 2\19-10-2023\OOP\Deneme\bin\Debug\net6.0\Deneme.exe
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 2\19-10-2023\OOP\Deneme\bin\Debug\net6.0\Deneme.deps.json
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 2\19-10-2023\OOP\Deneme\bin\Debug\net6.0\Deneme.runtimeconfig.json
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 2\19-10-2023\OOP\Deneme\bin\Debug\net6.0\Deneme.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 2\19-10-2023\OOP\Deneme\bin\Debug\net6.0\Deneme.pdb
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 2\19-10-2023\OOP\Deneme\obj\Debug\net6.0\Deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 2\19-10-2023\OOP\Deneme\obj\Debug\net6.0\Deneme.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 2\19-10-2023\OOP\Deneme\obj\Debug\net6.0\Deneme.AssemblyInfo.cs
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 2\19-10-2023\OOP\Deneme\obj\Debug\net6.0\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 2\19-10-2023\OOP\Deneme\obj\Debug\net6.0\Deneme.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 2\19-10-2023\OOP\Deneme\obj\Debug\net6.0\refint\Deneme.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 2\19-10-2023\OOP\Deneme\obj\Debug\net6.0\Deneme.pdb
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 2\19-10-2023\OOP\Deneme\obj\Debug\net6.0\Deneme.genruntimeconfig.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 2\19-10-2023\OOP\Deneme\obj\Debug\net6.0\ref\Deneme.dll

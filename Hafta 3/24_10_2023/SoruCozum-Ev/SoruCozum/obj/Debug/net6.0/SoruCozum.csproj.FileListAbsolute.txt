@@ -1,0 +1,14 @@
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\24_10_2023\SoruCozum\obj\Debug\net6.0\SoruCozum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\24_10_2023\SoruCozum\obj\Debug\net6.0\SoruCozum.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\24_10_2023\SoruCozum\obj\Debug\net6.0\SoruCozum.AssemblyInfo.cs
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\24_10_2023\SoruCozum\obj\Debug\net6.0\SoruCozum.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\24_10_2023\SoruCozum\bin\Debug\net6.0\SoruCozum.exe
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\24_10_2023\SoruCozum\bin\Debug\net6.0\SoruCozum.deps.json
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\24_10_2023\SoruCozum\bin\Debug\net6.0\SoruCozum.runtimeconfig.json
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\24_10_2023\SoruCozum\bin\Debug\net6.0\SoruCozum.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\24_10_2023\SoruCozum\bin\Debug\net6.0\SoruCozum.pdb
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\24_10_2023\SoruCozum\obj\Debug\net6.0\SoruCozum.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\24_10_2023\SoruCozum\obj\Debug\net6.0\refint\SoruCozum.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\24_10_2023\SoruCozum\obj\Debug\net6.0\SoruCozum.pdb
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\24_10_2023\SoruCozum\obj\Debug\net6.0\SoruCozum.genruntimeconfig.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\24_10_2023\SoruCozum\obj\Debug\net6.0\ref\SoruCozum.dll

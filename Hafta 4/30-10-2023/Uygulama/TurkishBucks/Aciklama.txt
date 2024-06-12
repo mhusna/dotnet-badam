@@ -1,0 +1,31 @@
+﻿## Models Katmanı ##
+
+Urun -> Ana Urun
+			Bir ana üründe birden fazla ek malzeme olabilir. Ana ürünün hazırlanma süresi ek ürünlere de bağlı.
+			Ana Urun'den Türeyenler: Kahve, SicakSut, SogukSut
+
+	 ->	Malzeme -> Surup
+
+Kisi -> Calisan
+	    Musteri
+
+Siparis : Bir siparişte birden fazla ürün olabilir.
+
+
+CalisanKonum: Çalışanın üretimde mi kasada mı olduğunu tutuyor.
+CalisanDurum: Çalışanın meşgul, müsait durumlarını tutar.
+KasaDurum: Kasanın kapalı, müsait, meşgul olma durumlarını tutar.
+
+Kasa
+
+## Managers Katmanı ##
+
+IBaseManager -> CalisanManager: 
+					5 elemanlı bir çalışan listesi tutar. Constructor içerisinde kaç çalışanın kasada
+					olacağının parametresini alır.
+
+					İçerisinde ekleme, listeleme, çalışan konumunu değiştirme, müsait üretimcileri
+					listeleme gibi metotlar tutar.
+				
+				KasaManager
+				MusteriManager

@@ -1,0 +1,15 @@
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\DefaultParameters\bin\Debug\net6.0\DefaultParameters.exe
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\DefaultParameters\bin\Debug\net6.0\DefaultParameters.deps.json
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\DefaultParameters\bin\Debug\net6.0\DefaultParameters.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\DefaultParameters\bin\Debug\net6.0\DefaultParameters.dll
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\DefaultParameters\bin\Debug\net6.0\DefaultParameters.pdb
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\DefaultParameters\obj\Debug\net6.0\DefaultParameters.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\DefaultParameters\obj\Debug\net6.0\DefaultParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\DefaultParameters\obj\Debug\net6.0\DefaultParameters.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\DefaultParameters\obj\Debug\net6.0\DefaultParameters.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\DefaultParameters\obj\Debug\net6.0\DefaultParameters.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\DefaultParameters\obj\Debug\net6.0\DefaultParameters.dll
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\DefaultParameters\obj\Debug\net6.0\refint\DefaultParameters.dll
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\DefaultParameters\obj\Debug\net6.0\DefaultParameters.pdb
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\DefaultParameters\obj\Debug\net6.0\DefaultParameters.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\DefaultParameters\obj\Debug\net6.0\ref\DefaultParameters.dll

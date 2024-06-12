@@ -1,0 +1,15 @@
+C:\Users\halkbank2\Desktop\.net\Hafta 8\25-11-2023\Cnsl_Async\Cnsl_Async\bin\Debug\net6.0\Cnsl_Async.exe
+C:\Users\halkbank2\Desktop\.net\Hafta 8\25-11-2023\Cnsl_Async\Cnsl_Async\bin\Debug\net6.0\Cnsl_Async.deps.json
+C:\Users\halkbank2\Desktop\.net\Hafta 8\25-11-2023\Cnsl_Async\Cnsl_Async\bin\Debug\net6.0\Cnsl_Async.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\Hafta 8\25-11-2023\Cnsl_Async\Cnsl_Async\bin\Debug\net6.0\Cnsl_Async.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 8\25-11-2023\Cnsl_Async\Cnsl_Async\bin\Debug\net6.0\Cnsl_Async.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 8\25-11-2023\Cnsl_Async\Cnsl_Async\obj\Debug\net6.0\Cnsl_Async.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 8\25-11-2023\Cnsl_Async\Cnsl_Async\obj\Debug\net6.0\Cnsl_Async.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\Hafta 8\25-11-2023\Cnsl_Async\Cnsl_Async\obj\Debug\net6.0\Cnsl_Async.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 8\25-11-2023\Cnsl_Async\Cnsl_Async\obj\Debug\net6.0\Cnsl_Async.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\Hafta 8\25-11-2023\Cnsl_Async\Cnsl_Async\obj\Debug\net6.0\Cnsl_Async.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 8\25-11-2023\Cnsl_Async\Cnsl_Async\obj\Debug\net6.0\Cnsl_Async.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 8\25-11-2023\Cnsl_Async\Cnsl_Async\obj\Debug\net6.0\refint\Cnsl_Async.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 8\25-11-2023\Cnsl_Async\Cnsl_Async\obj\Debug\net6.0\Cnsl_Async.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 8\25-11-2023\Cnsl_Async\Cnsl_Async\obj\Debug\net6.0\Cnsl_Async.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 8\25-11-2023\Cnsl_Async\Cnsl_Async\obj\Debug\net6.0\ref\Cnsl_Async.dll

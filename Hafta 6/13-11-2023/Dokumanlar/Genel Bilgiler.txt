@@ -1,0 +1,62 @@
+Scaffold-DbContext "" Oracle.EntityFrameworkCore -o Models
+Scaffold-DbContext "" Oracle.EntityFrameworkCore -o Models -tables EMPLOYEES, DEPARTMENTS
+
+
+
+
+## İlişki Belirtme
+    
+    => One-to-One
+
+    Personel
+    --------
+	public PersonelDetay? PersonelDetay { get; set; }
+
+    PersonelDetay
+    -------------
+	[ForeignKey("Personel")]
+        public int PersonelDetayID { get; set; }
+
+	public Personel? Personel { get; set; }
+        
+
+    => One-to-Many
+
+    Product
+    ------
+        public int? CategoryID {get; set;}
+        public Category? Category {get; set;}
+
+    Category
+    --------
+        public ICollection<Product>? Products {get; set;}
+
+
+    => Many-to-Many
+
+    Personel
+    --------
+
+	public ICollection<PersonelProje>? Projeler { get; set; }
+
+    Proje
+    -----
+        public ICollection<PersonelProje> Personeller { get; set; }
+
+    PersonelProje
+    -------------
+	public int? PersonelID { get; set; }
+	public Personel? Personel { get; set; }
+
+	public int? ProjeID { get; set; }
+	public Proje? Proje { get; set; }
+
+## Silmede Ne Yapılacağını Belirtme
+
+                entity.HasOne(d => d.Kategori)
+                    .WithMany(p => p.Urunlers)
+                    //.OnDelete(DeleteBehavior.NoAction) // Silme durumunu buradan kontrol ediyoruz.
+                    //.OnDelete(DeleteBehavior.SetNull) // Siler ve null atar.
+                    .OnDelete(DeleteBehavior.Cascade)
+                    .HasForeignKey(d => d.KategoriId);
+

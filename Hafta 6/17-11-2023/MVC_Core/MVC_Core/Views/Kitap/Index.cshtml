@@ -1,0 +1,28 @@
+﻿@model List<KitapListeleVM>
+
+<h2>TUM KITAPLAR</h2>
+
+<a asp-action="KitapEkle" asp-controller="Kitap" class="btn btn-primary">Yeni Kitap Ekle</a>
+<br />
+<a asp-action="ResimIleKitapEkle" asp-controller="Kitap" class="btn btn-danger">Resim İle Yeni Kitap Ekle</a>
+
+<table class="table table-striped">
+    <tr>
+        <th>Kitap ID</th>
+        <th>Kitap Adı</th>
+        <th>Fiyat</th>
+        <th>Kategori</th>
+        <th>Yazar</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.KitapID</td>
+            <td>@item.KitapAdi</td>
+            <td>@item.Fiyat</td>
+            <td>@item.KategoriAdi</td>
+            <td>@item.YazarAdi</td>
+        </tr>
+    }
+</table>

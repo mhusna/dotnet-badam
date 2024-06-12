@@ -1,0 +1,67 @@
+﻿--- OOP_I ---
+
+=> Çalışma 2'nin çözümü.
+
+--- OOP_II ---
+
+## Generic koleksiyonları neden tercih etmeliyiz ? ##
+
+1- Performans: ArrayList'te her seferinde boxing ve unboxing işlemi yapıldığından Generic List'e göre
+daha yavaştır.
+
+	## Boxing: Değer tipli bir değişkenin, referans tipli bir değişkene dönüşmesine boxing denir.
+	## Unboxing: Referans tipli bir değişkeni, değer tipine dönüştürmeye unboxing denir.
+			
+			Unboxing örnek: int sayi = (int)liste2[i];
+
+2- Tip Güvenliği (OOP_III)
+
+	Normal koleksiyonlarda bazen veri tiplerinden kaynaklanan hatalar design time'da değil, 
+uygulama çalıştığında yani run time'da verilir ve bu çok da iyi birşey değildir. Generic yapılarda
+ise; daha kodu yazarken tip ile ilgili olan hataları run-time'a kalmadan design-time'da yakalarız.
+İşte bu nedenden dolayı, generic yapıları kullanmayı tercih etmeliyiz.
+
+--- OOP_IV ---
+
+## Nullable Types ##
+=> NŞA: Değer tipli değişkenler null değer alamaz.
+=> Veritabanındaki int gibi alanlar null değer alabiliyor dolayısı ile nullable alanlar gelmiştir.
+
+=> Arkada Nullable isimli struct yapısının içerisinde Value ve HasValue tutar.
+=> GetValueOrDefault değerini döndürüyor.
+
+--- OOP_V ---
+
+## Generic Constraints ##
+
+1- Struct: T ifadesi sadece değer tip olabilir.  Örnek: Ornek1
+2- Class: T ifadesi sadece referans tip olabilir. Örnek: Ornek2
+3- ClassName: T sadece o sınıftan türeyenlerden gelebilir.  Örnek: Ornek3
+4- IArayuz: T sadece o arayüzü implemente edenlerden gelebilir. Örnek: Ornek3
+5- new(): T sadece default ctor ihtiva eden sınıflar olabilir. Parametresi olan varsa olmaz. Örnek: Ornek3
+
+=> Bir yapıya birden fazla kısıt uygulanabilir. Sadece new() kısıtı en son kısıt olarak yazılmalıdır.
+
+--- OOP_VI ---
+
+## Delegates ##
+
+=> C, C++ => Fonksiyon Pointer diye geçer.
+=> Temsilciler metot taşır.
+=> Delegeler c#'da yavaş çalışır.
+=> İsim bağımsız çalışması en önemli özelliği.
+=> C#'daki delege yapısı aynı zamanda bir koleksiyondur.
+=> Delege referans tiplidir.
+=> Çıkarma işlemi yapıldığında en son eklenen metodu çıkarır.
+
+## Hangi metotları taşır ?
+
+	Bir temsilcinin metotları taşıyabilmesi için taşıyacağı metotların imzalarının ve return type'larının
+aynı olması gerekir.
+
+	## Function: Değer döndüren metotları taşır.
+	## Action: Değer döndürmeyen metotları taşır.
+
+## Multi-Cast Delegates ##
+
+	Birden fazla metodu taşıyan temsilcilere multi-cast delegate denir.

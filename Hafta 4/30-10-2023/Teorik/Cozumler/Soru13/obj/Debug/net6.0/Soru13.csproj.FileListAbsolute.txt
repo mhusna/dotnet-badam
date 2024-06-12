@@ -1,0 +1,15 @@
+C:\Users\halkbank2\Desktop\.net\Teorik\Cozumler\Soru13\obj\Debug\net6.0\Soru13.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\Teorik\Cozumler\Soru13\obj\Debug\net6.0\Soru13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\Teorik\Cozumler\Soru13\obj\Debug\net6.0\Soru13.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\Teorik\Cozumler\Soru13\obj\Debug\net6.0\Soru13.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\Teorik\Cozumler\Soru13\obj\Debug\net6.0\Soru13.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\Teorik\Cozumler\Soru13\bin\Debug\net6.0\Soru13.exe
+C:\Users\halkbank2\Desktop\.net\Teorik\Cozumler\Soru13\bin\Debug\net6.0\Soru13.deps.json
+C:\Users\halkbank2\Desktop\.net\Teorik\Cozumler\Soru13\bin\Debug\net6.0\Soru13.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\Teorik\Cozumler\Soru13\bin\Debug\net6.0\Soru13.dll
+C:\Users\halkbank2\Desktop\.net\Teorik\Cozumler\Soru13\bin\Debug\net6.0\Soru13.pdb
+C:\Users\halkbank2\Desktop\.net\Teorik\Cozumler\Soru13\obj\Debug\net6.0\Soru13.dll
+C:\Users\halkbank2\Desktop\.net\Teorik\Cozumler\Soru13\obj\Debug\net6.0\refint\Soru13.dll
+C:\Users\halkbank2\Desktop\.net\Teorik\Cozumler\Soru13\obj\Debug\net6.0\Soru13.pdb
+C:\Users\halkbank2\Desktop\.net\Teorik\Cozumler\Soru13\obj\Debug\net6.0\Soru13.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\Teorik\Cozumler\Soru13\obj\Debug\net6.0\ref\Soru13.dll

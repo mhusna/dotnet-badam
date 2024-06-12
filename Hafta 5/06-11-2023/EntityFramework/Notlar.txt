@@ -1,0 +1,9 @@
+﻿ Tablo ve sütunlar ile ilgili Oracle üzerindeki tip ad vb ayarlar 3 şekilde yapılabilir.
+
+    1- Data Annotations: Çok büyük projelerde model sınıfı karışır.
+    
+    2- Fluent API kullanımı: Tüm ayarlar OnModelCreating metodunda yapılır. Bunun sonucunda bu
+       metodu okumak zorlaşır.
+
+    3- Fluent API kullanımı (IEntityTypeConfiguration) arayüzünü uygulayarak: Her model için ayrı
+       bir configuration sınıfı oluşturulur.

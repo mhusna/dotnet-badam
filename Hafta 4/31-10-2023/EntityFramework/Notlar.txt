@@ -1,0 +1,131 @@
+﻿## ADO ##
+=> Active Database Object
+=> 2001'de Ado.Net'e döndü ve .Net Framework'te çalışıyordu.
+=> Ef aslında Ado.Net alt kümesindedir.
+
+=> Düz ADO ile ADO.NET arasındaki çalışma farkı çok büyük.
+=> ADO.NET iki yeni kavramla geldi;
+
+	1- Bağlantılı Yöntem (Connectionly): Bağlantı ile ilgili tüm sorumluluk programcıda.
+	2- Bağlantısız Yöntem (Connectionless): Bağlantıyı açma ve kapama yetkisi programcıda değil, sistem
+	bunu kendisi yapar. Veri local'e çok kısa bir zamanda kopyalanır.
+
+---------------------------------------------------------------
+
+## LINQ ##
+
+=> Language Integrated Query
+=> C# 3.0 => .NET Framework 3.5
+=> 2008'de Microsoft LINQ teknolojisini çıkardı.
+=> 3 alt başlıkla gelmiştir;
+	1- LINQ to Object
+	2- LINQ to SQL
+	3- LINQ to XML
+=> LINQ'nun asıl çıkış amacı: Data != Object
+=> LINQ to SQL zordu dolayısı ile ilk ORM Tool olan LINQ to SQL Classes çıktı. ORM toolu Data = Object yapar.
+=> LINQ to SQL Classes (Sadece SQL Server'da çalışıyordu.)
+	1- Database First
+	2- Model First
+
+## Code First Öncesi Model First - DB First Eksiklikleri ##
+
+=> Neden yazılım firmaları Microsoft'u zorlamış. 
+=> Connection string yapısı çok karmaşık
+=> Arka planda yüzlerce satırlık kodlar oluşturuyor. Bu nedenle uzun vadede çok yönetilebilir değil.
+=> Designer kullanımı var.
+=> Oluşan kodları EDMX dosyasında tutar.
+=> Uzun vadede OOP kullanımına pek uygun değil.
+
+---------------------------------------------------------------
+
+C# 4.0 (2010)
+=> LINQ to SQL Classes yerine düz Entity Framework çıktı. Diğer veritabanları için destek geldi.
+=> Ef ile lazy loading, eager loading vardı.
+
+Code First: EF 4.0 ile geldi
+	1- Database First
+	2- Model First
+
+---------------------------------------------------------------
+
+## Entity Framework Core (2016) ##
+=> Lazy loading ilk başta yoktu, sonradan geldi..
+=> Kullanımı zorlaştırıldı(ekstra kütüphane yüklenmeli ve ayarları yapılmalı)
+
+---------------------------------------------------------------
+
+## LINQ Devam ##
+
+=> C# 3.0'da LINQ için gelen yenilikler
+	1- var kullanımı.
+	2- Auto Property
+	3- Object Initializer
+	4- Collection Initializer
+	5- Anonymous Object
+	6- Extension Methods
+	7- Expression Tree
+	8- Lambda Expression
+
+1- var kullanımı:
+	Gerçekte bir veri tipi değildir. Sadece design-time'da vardır, hafızada bir karşılığı yoktur.
+	Tip belli oluncaya kadar var geçerlidir. Veri bir kez atanınca verinin tipi neyse var ona karşılık gelir.
+	Var bir tip tutucudur. Tip bir kere belli olunca bir daha değişmez.
+
+## C# 4.0 dynamic ##
+=> Dynamic ve obje arasındaki fark dynamic cast işlemini kendi yapar
+
+	=> HATALI KULLANIM
+		object obj = 12;
+		int sayi = obj;
+
+	=> ÇALIŞAN KULLANIM
+		dynamic obj2 = 13;
+		int sayi2 = obj2;
+
+2- Auto Property
+	C# 3.0 ile birlikte gelmiştir.
+
+3- Object Initializer
+	Normalde ctor üzerinden oluşturulan nesneler artık object initializer ile oluşturulabiliyor.
+
+4- Collection Initializer
+	Normalde liste.Add() metodu kullanarak yaptığımız işleri direk collection initializer ile yapılabilir.
+	
+5- Anonymous Object
+	Herhangi bir class oluşturmadan nesne oluşturmamızı sağlar.
+
+6- Extension Methods
+	Class, Interface, Struct gibi yapılara da extension metod eklenebilir.
+
+	## Kurallar
+	1- Extension metodların yazılacağı sınıf static olmalı. 
+	2- Yazılacak metodlar da static olmalı. 
+	3- Metodun ilk parametresinde nereye ekleneceği belirtilir, eğer başka parametrelere ihtiyaç varsa 2. parametreden
+	itibaren yazılır.
+
+	public static class Genislet
+    {
+        public static int KareAl(this int sayi)
+        {
+            return sayi * sayi;
+        }
+	}
+
+7- Expression Tree
+	Ardı ardına metot çağırma.
+
+## LINQ sorguları iki şekilde yazılır.
+	1- Expression Tree: Asıl olan budur..
+	2- Like SQL
+
+## Lambda Kullanımları 
+ x => x
+ x => {....}  Action'a benzedi.
+ x => {return ....} Function kullanımı.
+ (x, y) => {......}
+
+---------------------------------------------------------------
+
+=> LINQ Sorguları deffered mode çalışır.
+=> LINQ sorguları tanımlandığı yerde değil çağırıldığı yerde çalıştırılır.
+=> ToList(), ToArray(), ToDictionary() => immediate mode'da çalışır. Yazıldığı yerde çalıştırılır.

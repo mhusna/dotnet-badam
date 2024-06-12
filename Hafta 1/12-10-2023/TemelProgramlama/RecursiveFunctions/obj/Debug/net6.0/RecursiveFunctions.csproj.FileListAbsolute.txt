@@ -1,0 +1,15 @@
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\RecursiveFunctions\bin\Debug\net6.0\RecursiveFunctions.exe
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\RecursiveFunctions\bin\Debug\net6.0\RecursiveFunctions.deps.json
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\RecursiveFunctions\bin\Debug\net6.0\RecursiveFunctions.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\RecursiveFunctions\bin\Debug\net6.0\RecursiveFunctions.dll
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\RecursiveFunctions\bin\Debug\net6.0\RecursiveFunctions.pdb
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\RecursiveFunctions\obj\Debug\net6.0\RecursiveFunctions.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\RecursiveFunctions\obj\Debug\net6.0\RecursiveFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\RecursiveFunctions\obj\Debug\net6.0\RecursiveFunctions.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\RecursiveFunctions\obj\Debug\net6.0\RecursiveFunctions.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\RecursiveFunctions\obj\Debug\net6.0\RecursiveFunctions.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\RecursiveFunctions\obj\Debug\net6.0\RecursiveFunctions.dll
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\RecursiveFunctions\obj\Debug\net6.0\refint\RecursiveFunctions.dll
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\RecursiveFunctions\obj\Debug\net6.0\RecursiveFunctions.pdb
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\RecursiveFunctions\obj\Debug\net6.0\RecursiveFunctions.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\12-10-2023\TemelProgramlama\RecursiveFunctions\obj\Debug\net6.0\ref\RecursiveFunctions.dll

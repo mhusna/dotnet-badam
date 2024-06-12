@@ -1,0 +1,31 @@
+﻿<h1>Merhaba MVC</h1>
+<a href="~/Home/Index">Home</a>
+
+<style>
+    h2{
+        color:orange;
+    }
+</style>
+
+<button onclick="msgBox('naber')">Tiklar </button>
+
+<script>
+    function msgBox(msg){
+        document.getElementById("baslik").innerHTML = msg;
+    }
+</script>
+
+<h2 id="baslik"></h2>
+
+@*Linkte gözükecek isim, action name, controller name*@
+@Html.ActionLink("Home","Index","Home")
+
+@*Tag Helper*@
+<a asp-action="Privacy" asp-controller="Home">Home ASP</a>
+
+@{
+    for(int i = 1; i <= 5; i++)
+    {
+        <h1>@i</h1>
+    }
+}

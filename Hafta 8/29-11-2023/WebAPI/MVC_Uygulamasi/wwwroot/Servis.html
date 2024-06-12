@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+    <script>
+
+        function createTable(data, divID)
+        {
+            let div = document.getElementById("urunler");
+
+            let strTable = "<table border=1>";
+            for (let i = 0; i < data.length; i++)
+            {
+                strTable += `<tr><td>${data[i].productId}</td><td>${data[i].productName}</td><td>${data[i].price}</td></tr>`;
+            }
+
+            strTable += "</table>";
+
+            div.innerHTML = strTable;
+        }
+
+        function getAJAX() {
+            let xhr = new XMLHttpRequest();
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState == 4 && xhr.status == 200)
+                {
+                    alert(xhr.responseText);
+                    createTable(JSON.parse(xhr.responseText), "urunler");
+                }
+            };
+
+            xhr.open("GET", "https://localhost:7105/api/Products", true);
+            xhr.send();
+        }
+
+        async function getFetch() {
+
+            /* text() => veriyi string olarak getirir. */
+            //fetch("https://localhost:7105/api/Products").then(x => x.text()).then(x => { alert(x) });
+
+
+            /* fetch() => string gelen veriyi object'e çevirir. */
+            let data = null;
+            fetch("https://localhost:7105/api/Products").then(x => x.json()).then(x => { createTable(x, "urunler"); });
+        }
+    </script>
+
+</head>
+<body>
+    <button onclick="getAJAX()">Get Data With AJAX</button>
+    <button onclick="getFetch()">Get Data With Fetch</button>
+    <br /> <br />
+    <div id="urunler">
+
+    </div>
+</body>
+</html>

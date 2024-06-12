@@ -1,0 +1,15 @@
+C:\Users\halkbank2\Desktop\.net\Hafta 4\31-10-2023\EntityFramework\EntityFramework_III\bin\Debug\net6.0\EntityFramework_III.exe
+C:\Users\halkbank2\Desktop\.net\Hafta 4\31-10-2023\EntityFramework\EntityFramework_III\bin\Debug\net6.0\EntityFramework_III.deps.json
+C:\Users\halkbank2\Desktop\.net\Hafta 4\31-10-2023\EntityFramework\EntityFramework_III\bin\Debug\net6.0\EntityFramework_III.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\Hafta 4\31-10-2023\EntityFramework\EntityFramework_III\bin\Debug\net6.0\EntityFramework_III.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 4\31-10-2023\EntityFramework\EntityFramework_III\bin\Debug\net6.0\EntityFramework_III.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 4\31-10-2023\EntityFramework\EntityFramework_III\obj\Debug\net6.0\EntityFramework_III.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 4\31-10-2023\EntityFramework\EntityFramework_III\obj\Debug\net6.0\EntityFramework_III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\Hafta 4\31-10-2023\EntityFramework\EntityFramework_III\obj\Debug\net6.0\EntityFramework_III.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 4\31-10-2023\EntityFramework\EntityFramework_III\obj\Debug\net6.0\EntityFramework_III.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\Hafta 4\31-10-2023\EntityFramework\EntityFramework_III\obj\Debug\net6.0\EntityFramework_III.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 4\31-10-2023\EntityFramework\EntityFramework_III\obj\Debug\net6.0\EntityFramework_III.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 4\31-10-2023\EntityFramework\EntityFramework_III\obj\Debug\net6.0\refint\EntityFramework_III.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 4\31-10-2023\EntityFramework\EntityFramework_III\obj\Debug\net6.0\EntityFramework_III.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 4\31-10-2023\EntityFramework\EntityFramework_III\obj\Debug\net6.0\EntityFramework_III.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 4\31-10-2023\EntityFramework\EntityFramework_III\obj\Debug\net6.0\ref\EntityFramework_III.dll

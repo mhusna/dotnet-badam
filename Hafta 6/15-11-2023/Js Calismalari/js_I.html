@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let sayi = 10;
+        if(sayi == 10)
+            document.writeln("sayi 10'a eşit.");
+
+            /*
+                == içeriğe bakar.
+                === tipe bakar.
+            */
+        let x = 5, y = "5";
+        document.writeln(x==y);
+        document.writeln(x===y);
+
+        for(let i = 0; i < 5; i++)
+            document.writeln(i);
+
+        // Hata
+        // document.writeln(i);
+
+        document.writeln("<br>");
+
+        let dizi = [1, 2, 3, 4, 5];
+        for(let x in dizi)
+            document.writeln(x);
+
+        document.writeln("<br>");
+
+        dizi.forEach(element => {
+            document.writeln(element);
+        });
+    </script>
+</body>
+</html>

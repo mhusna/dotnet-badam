@@ -1,0 +1,8 @@
+﻿@model Category
+
+<form asp-action="InsertCategory">
+    <label asp-for="@Model.Name"></label>
+    <input asp-for="Name"/>
+
+    <input type="submit" value="Ekle" class="btn btn-outline-success"/>
+</form>

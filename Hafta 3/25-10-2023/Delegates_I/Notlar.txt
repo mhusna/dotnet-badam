@@ -1,0 +1,38 @@
+﻿## Delegates ##
+---------------
+=> Action değer döndürmez, function değer döndürür.
+=> Birden fazla fonksiyon tutan delegeye Multi-Cast delege denir.
+=> Multi-Cast delegelerdeki sorun; sadece en son çalışan fonksiyonun değeri geri döner.
+
+## Anonymous Metodlar ##
+------------------------
+=> Anonim metotlar; bir metodun adını yazmadan metod tanımlama işlemidir.
+=> Tanımlı olan temsilcinin return type ve parametre durumuna göre yazmak gerekir.
+
+Kodlar => Delegates_I
+
+## Multi-Cast Delegates ##
+--------------------------
+=> Multi-Cast delegelerde taşınan metotlar geriye değer döndürüyorsa; sadece en son
+çalışan metodun değeri döner. Arada çağırılan metodların geriye dönen değerleri yakalanamaz.
+Bu nedenle genellikle; parametre üzerinden dönen değer yakalanmaya çalışılır.
+=> Örnek: void EventHandler(object sender, EventArgs e)
+
+** Bir metoda parametre olarak metot yollamak için delege kullanılır.
+** Dolayısı ile bir fonksiyonun parametresi delege olabilir. Delege de fonksiyon taşıdığı için
+fonksiyona fonksiyon yolluyoruz.
+
+=> Delegeyi gördüğün her yerde lambda yazabilirsin.
+
+## Events ##
+------------
+=> Olay bazlı programlama demektir.
+
+## Event Oluşturma ve Kullanma ##
+---------------------------------
+1- Olayın tanımlanabilmesi için yeni bir temsilci tanımlanmalı ya da var olan bir temsilci kullanılmalı.
+2- Temsilci tipinden olay tanımlanır.
+3- Olayın çalışacağı mekanizma tanımlanmalıdır. **Asıl olay burda kopuyor. Tetiklemenin nasıl olacağı belirlenir.
+4- Olayın tanımlandığı sınıfı oluştur. (Instance oluştur.)
+5- Olay ile olay oluştuğunda çalışacak metodu yaz ve ilişkilendir. (+= kısmı)
+6- Çalıştır.

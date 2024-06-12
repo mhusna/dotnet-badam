@@ -1,0 +1,29 @@
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\OOP\OOP_IV\bin\Debug\net6.0\OOP_IV.exe
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\OOP\OOP_IV\bin\Debug\net6.0\OOP_IV.deps.json
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\OOP\OOP_IV\bin\Debug\net6.0\OOP_IV.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\OOP\OOP_IV\bin\Debug\net6.0\OOP_IV.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\OOP\OOP_IV\bin\Debug\net6.0\OOP_IV.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\OOP\OOP_IV\obj\Debug\net6.0\OOP_IV.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\OOP\OOP_IV\obj\Debug\net6.0\OOP_IV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\OOP\OOP_IV\obj\Debug\net6.0\OOP_IV.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\OOP\OOP_IV\obj\Debug\net6.0\OOP_IV.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\OOP\OOP_IV\obj\Debug\net6.0\OOP_IV.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\OOP\OOP_IV\obj\Debug\net6.0\OOP_IV.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\OOP\OOP_IV\obj\Debug\net6.0\refint\OOP_IV.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\OOP\OOP_IV\obj\Debug\net6.0\OOP_IV.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\OOP\OOP_IV\obj\Debug\net6.0\OOP_IV.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 3\25-10-2023\OOP\OOP_IV\obj\Debug\net6.0\ref\OOP_IV.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\OOP\OOP_IV\bin\Debug\net6.0\OOP_IV.exe
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\OOP\OOP_IV\bin\Debug\net6.0\OOP_IV.deps.json
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\OOP\OOP_IV\bin\Debug\net6.0\OOP_IV.runtimeconfig.json
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\OOP\OOP_IV\bin\Debug\net6.0\OOP_IV.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\OOP\OOP_IV\bin\Debug\net6.0\OOP_IV.pdb
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\OOP\OOP_IV\obj\Debug\net6.0\OOP_IV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\OOP\OOP_IV\obj\Debug\net6.0\OOP_IV.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\OOP\OOP_IV\obj\Debug\net6.0\OOP_IV.AssemblyInfo.cs
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\OOP\OOP_IV\obj\Debug\net6.0\OOP_IV.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\OOP\OOP_IV\obj\Debug\net6.0\OOP_IV.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\OOP\OOP_IV\obj\Debug\net6.0\refint\OOP_IV.dll
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\OOP\OOP_IV\obj\Debug\net6.0\OOP_IV.pdb
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\OOP\OOP_IV\obj\Debug\net6.0\OOP_IV.genruntimeconfig.cache
+C:\Users\mehme\Desktop\Bilge Adam\.net\Hafta 3\25-10-2023\OOP\OOP_IV\obj\Debug\net6.0\ref\OOP_IV.dll

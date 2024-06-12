@@ -1,0 +1,18 @@
+﻿@*ViewModel Kullanmadan*@
+
+
+@*@model Kitap*@
+@*<form>
+    <select asp-for="KategoriID" asp-items="ViewBag.Kategoriler"></select>
+    <select asp-for="YazarID" asp-items="ViewBag.Yazarlar"></select>
+</form>*@
+
+
+
+@*ViewModel Kullanarak*@
+
+@model KitapEkleVM
+<form>
+    <select asp-for="@Model.Kitap.KategoriID" asp-items="@Model.Kategoriler"></select>
+    <select asp-for="@Model.Kitap.YazarID" asp-items="@Model.Yazarlar"></select>
+</form>

@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\21-11-2023\\MVC_Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF27EF9C-2C45-4869-A1F1-CFED5FDB6195}|MVC_Core\\MVC_Core.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 7\\21-11-2023\\mvc_core\\mvc_core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF27EF9C-2C45-4869-A1F1-CFED5FDB6195}|MVC_Core\\MVC_Core.csproj|solutionrelative:mvc_core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF27EF9C-2C45-4869-A1F1-CFED5FDB6195}|MVC_Core\\MVC_Core.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 7\\21-11-2023\\mvc_core\\mvc_core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF27EF9C-2C45-4869-A1F1-CFED5FDB6195}|MVC_Core\\MVC_Core.csproj|solutionrelative:mvc_core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF27EF9C-2C45-4869-A1F1-CFED5FDB6195}|MVC_Core\\MVC_Core.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 7\\21-11-2023\\mvc_core\\mvc_core\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF27EF9C-2C45-4869-A1F1-CFED5FDB6195}|MVC_Core\\MVC_Core.csproj|solutionrelative:mvc_core\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF27EF9C-2C45-4869-A1F1-CFED5FDB6195}|MVC_Core\\MVC_Core.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 7\\21-11-2023\\mvc_core\\mvc_core\\controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF27EF9C-2C45-4869-A1F1-CFED5FDB6195}|MVC_Core\\MVC_Core.csproj|solutionrelative:mvc_core\\controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF27EF9C-2C45-4869-A1F1-CFED5FDB6195}|MVC_Core\\MVC_Core.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 7\\21-11-2023\\mvc_core\\mvc_core\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF27EF9C-2C45-4869-A1F1-CFED5FDB6195}|MVC_Core\\MVC_Core.csproj|solutionrelative:mvc_core\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF27EF9C-2C45-4869-A1F1-CFED5FDB6195}|MVC_Core\\MVC_Core.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 7\\21-11-2023\\mvc_core\\mvc_core\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF27EF9C-2C45-4869-A1F1-CFED5FDB6195}|MVC_Core\\MVC_Core.csproj|solutionrelative:mvc_core\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF27EF9C-2C45-4869-A1F1-CFED5FDB6195}|MVC_Core\\MVC_Core.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 7\\21-11-2023\\mvc_core\\mvc_core\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF27EF9C-2C45-4869-A1F1-CFED5FDB6195}|MVC_Core\\MVC_Core.csproj|solutionrelative:mvc_core\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\21-11-2023\\MVC_Core\\MVC_Core\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MVC_Core\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\21-11-2023\\MVC_Core\\MVC_Core\\Models\\Product.cs",
+              "RelativeToolTip": "MVC_Core\\Models\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:22:00.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\21-11-2023\\MVC_Core\\MVC_Core\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MVC_Core\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\21-11-2023\\MVC_Core\\MVC_Core\\Models\\Category.cs",
+              "RelativeToolTip": "MVC_Core\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:21:58.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\21-11-2023\\MVC_Core\\MVC_Core\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "MVC_Core\\Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\21-11-2023\\MVC_Core\\MVC_Core\\Models\\Brand.cs",
+              "RelativeToolTip": "MVC_Core\\Models\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:21:56.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UrunController.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\21-11-2023\\MVC_Core\\MVC_Core\\Controllers\\UrunController.cs",
+              "RelativeDocumentMoniker": "MVC_Core\\Controllers\\UrunController.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\21-11-2023\\MVC_Core\\MVC_Core\\Controllers\\UrunController.cs",
+              "RelativeToolTip": "MVC_Core\\Controllers\\UrunController.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:21:52.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\21-11-2023\\MVC_Core\\MVC_Core\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MVC_Core\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\21-11-2023\\MVC_Core\\MVC_Core\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MVC_Core\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:21:52.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\21-11-2023\\MVC_Core\\MVC_Core\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MVC_Core\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\21-11-2023\\MVC_Core\\MVC_Core\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MVC_Core\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:21:52.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\21-11-2023\\MVC_Core\\MVC_Core\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "MVC_Core\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 7\\21-11-2023\\MVC_Core\\MVC_Core\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "MVC_Core\\Controllers\\BrandController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:21:52.144Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

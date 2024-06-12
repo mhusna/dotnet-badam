@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 5\\09-11-2023\\KatmanliMimari\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F9F9E7-60A1-4B43-A855-39D694A9E979}|Models\\Models.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 5\\09-11-2023\\katmanlimimari\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F9F9E7-60A1-4B43-A855-39D694A9E979}|Models\\Models.csproj|solutionrelative:models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F9F9E7-60A1-4B43-A855-39D694A9E979}|Models\\Models.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 5\\09-11-2023\\katmanlimimari\\models\\marka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F9F9E7-60A1-4B43-A855-39D694A9E979}|Models\\Models.csproj|solutionrelative:models\\marka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F9F9E7-60A1-4B43-A855-39D694A9E979}|Models\\Models.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 5\\09-11-2023\\katmanlimimari\\models\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F9F9E7-60A1-4B43-A855-39D694A9E979}|Models\\Models.csproj|solutionrelative:models\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813709FE-2FBE-4F88-8049-DA44A5A584BF}|KatmanliMimari\\KatmanliMimari.csproj|C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 5\\09-11-2023\\KatmanliMimari\\katmanlimimari\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{813709FE-2FBE-4F88-8049-DA44A5A584BF}|KatmanliMimari\\KatmanliMimari.csproj|solutionrelative:katmanlimimari\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813709FE-2FBE-4F88-8049-DA44A5A584BF}|KatmanliMimari\\KatmanliMimari.csproj|c:\\users\\mehme\\desktop\\bilge adam\\02- .net\\hafta 5\\09-11-2023\\katmanlimimari\\katmanlimimari\\frmarabalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813709FE-2FBE-4F88-8049-DA44A5A584BF}|KatmanliMimari\\KatmanliMimari.csproj|solutionrelative:katmanlimimari\\frmarabalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813709FE-2FBE-4F88-8049-DA44A5A584BF}|KatmanliMimari\\KatmanliMimari.csproj|C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 5\\09-11-2023\\KatmanliMimari\\katmanlimimari\\frmarabalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{813709FE-2FBE-4F88-8049-DA44A5A584BF}|KatmanliMimari\\KatmanliMimari.csproj|solutionrelative:katmanlimimari\\frmarabalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 5\\09-11-2023\\KatmanliMimari\\Models\\Model.cs",
+              "RelativeDocumentMoniker": "Models\\Model.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 5\\09-11-2023\\KatmanliMimari\\Models\\Model.cs",
+              "RelativeToolTip": "Models\\Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:17:51.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Marka.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 5\\09-11-2023\\KatmanliMimari\\Models\\Marka.cs",
+              "RelativeDocumentMoniker": "Models\\Marka.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 5\\09-11-2023\\KatmanliMimari\\Models\\Marka.cs",
+              "RelativeToolTip": "Models\\Marka.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:17:51.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Araba.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 5\\09-11-2023\\KatmanliMimari\\Models\\Araba.cs",
+              "RelativeDocumentMoniker": "Models\\Araba.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 5\\09-11-2023\\KatmanliMimari\\Models\\Araba.cs",
+              "RelativeToolTip": "Models\\Araba.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:17:51.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 5\\09-11-2023\\KatmanliMimari\\KatmanliMimari\\Form1.cs",
+              "RelativeDocumentMoniker": "KatmanliMimari\\Form1.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\.net\\Hafta 5\\09-11-2023\\KatmanliMimari\\KatmanliMimari\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\.net\\Hafta 5\\09-11-2023\\KatmanliMimari\\KatmanliMimari\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-04T18:17:51.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmArabalar.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 5\\09-11-2023\\KatmanliMimari\\KatmanliMimari\\FrmArabalar.cs",
+              "RelativeDocumentMoniker": "KatmanliMimari\\FrmArabalar.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 5\\09-11-2023\\KatmanliMimari\\KatmanliMimari\\FrmArabalar.cs",
+              "RelativeToolTip": "KatmanliMimari\\FrmArabalar.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:17:51.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmArabalar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\02- .net\\Hafta 5\\09-11-2023\\KatmanliMimari\\KatmanliMimari\\FrmArabalar.cs",
+              "RelativeDocumentMoniker": "KatmanliMimari\\FrmArabalar.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Bilge Adam\\.net\\Hafta 5\\09-11-2023\\KatmanliMimari\\KatmanliMimari\\FrmArabalar.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\.net\\Hafta 5\\09-11-2023\\KatmanliMimari\\KatmanliMimari\\FrmArabalar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-04T18:17:51.356Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

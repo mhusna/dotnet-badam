@@ -1,0 +1,36 @@
+1- Domain Katmanında Repositories -> Abstract klasörü altına interface'leri tanımladık.
+2- Infrastructure katmanında Concrete klasöründe Abstract'ı implemente ettik.
+
+
+Multithread aynı anda iki thread'i işleme işi, async'da ise ikisi birbirinden bağımsız çalışıyor. 
+
+## Asenkron Programlama
+	>> Metotların return type'ı Task olmalı.
+	>> Task<bool>, boolean tipinde geriye değer döndürücek.
+	>> Task<Personel>, Personel tipinde geriye değer döndürücek.
+	>> Task<List<Customer>>, Customer Liste'si tipinde geriye değer döndürücek.
+	>> Asenkron çalışan bir metodu beklemek için await kullanılır.
+	>> Yada asenkron bir metodun doğrudan sonucuna ulaşmak için .Result şeklinde ulaşılır.
+	>> Bir metodun içerisinde await yazılacaksa metodun mutlaka async olarak işaretlenmiş
+	olması gerekir.
+
+	** C# 5.0 öncesi asenkron programlamada begin, end ile kullanımlar vardır.
+
+## Expression Kullanımı
+	>> Expression'da veriyi filtrelenmiş olarak select işlemine sokar. Yani filtreli sorguyu
+	sql'de çalıştırır.
+
+	>> Function'da ise tüm veriyi local'e çekiyor ve filtreleme işlemi yapıyor. Yani select
+	sorgusunu sql'de çalıştırır, local'de de filtrelemeyi yapar.
+
+
+3- Application katmanına Infrastructure katmanını referans olarak ekledik.
+
+-> Update-delete, dto sadece transfer yapmak için
+-> Join'li yapılar için falan veya select list kullanımlarında viewmodel kullanılır.
+-> ViewModel sadece web'e ait bir kavram değildir, desktop'ta da olabilir. Desktop'da controller'a
+ihtiyaç yoktur. Bağımlılığa göre bazen pl'e bazen application layer'a koyulur. IFormFile desktop'ta
+yok dolayısıyla pl'e konur, select list her yerde var dolayısıyla application layer'a konur.
+
+4- User işlemlerini yaptık.
+5- UI katmanına Application'u referans verdik.

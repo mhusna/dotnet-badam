@@ -1,0 +1,15 @@
+C:\Users\halkbank2\Desktop\.net\Hafta 2\20-10-2023\OOP\OOP_I_Hoca\bin\Debug\net6.0\OOP_I_Hoca.exe
+C:\Users\halkbank2\Desktop\.net\Hafta 2\20-10-2023\OOP\OOP_I_Hoca\bin\Debug\net6.0\OOP_I_Hoca.deps.json
+C:\Users\halkbank2\Desktop\.net\Hafta 2\20-10-2023\OOP\OOP_I_Hoca\bin\Debug\net6.0\OOP_I_Hoca.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\Hafta 2\20-10-2023\OOP\OOP_I_Hoca\bin\Debug\net6.0\OOP_I_Hoca.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 2\20-10-2023\OOP\OOP_I_Hoca\bin\Debug\net6.0\OOP_I_Hoca.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 2\20-10-2023\OOP\OOP_I_Hoca\obj\Debug\net6.0\OOP_I_Hoca.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 2\20-10-2023\OOP\OOP_I_Hoca\obj\Debug\net6.0\OOP_I_Hoca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\Hafta 2\20-10-2023\OOP\OOP_I_Hoca\obj\Debug\net6.0\OOP_I_Hoca.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 2\20-10-2023\OOP\OOP_I_Hoca\obj\Debug\net6.0\OOP_I_Hoca.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\Hafta 2\20-10-2023\OOP\OOP_I_Hoca\obj\Debug\net6.0\OOP_I_Hoca.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 2\20-10-2023\OOP\OOP_I_Hoca\obj\Debug\net6.0\OOP_I_Hoca.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 2\20-10-2023\OOP\OOP_I_Hoca\obj\Debug\net6.0\refint\OOP_I_Hoca.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 2\20-10-2023\OOP\OOP_I_Hoca\obj\Debug\net6.0\OOP_I_Hoca.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 2\20-10-2023\OOP\OOP_I_Hoca\obj\Debug\net6.0\OOP_I_Hoca.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 2\20-10-2023\OOP\OOP_I_Hoca\obj\Debug\net6.0\ref\OOP_I_Hoca.dll

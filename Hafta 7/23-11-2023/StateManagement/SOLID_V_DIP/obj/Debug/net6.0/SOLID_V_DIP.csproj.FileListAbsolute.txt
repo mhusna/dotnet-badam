@@ -1,0 +1,15 @@
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_V_DIP\bin\Debug\net6.0\SOLID_V_DIP.exe
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_V_DIP\bin\Debug\net6.0\SOLID_V_DIP.deps.json
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_V_DIP\bin\Debug\net6.0\SOLID_V_DIP.runtimeconfig.json
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_V_DIP\bin\Debug\net6.0\SOLID_V_DIP.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_V_DIP\bin\Debug\net6.0\SOLID_V_DIP.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_V_DIP\obj\Debug\net6.0\SOLID_V_DIP.csproj.AssemblyReference.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_V_DIP\obj\Debug\net6.0\SOLID_V_DIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_V_DIP\obj\Debug\net6.0\SOLID_V_DIP.AssemblyInfoInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_V_DIP\obj\Debug\net6.0\SOLID_V_DIP.AssemblyInfo.cs
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_V_DIP\obj\Debug\net6.0\SOLID_V_DIP.csproj.CoreCompileInputs.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_V_DIP\obj\Debug\net6.0\SOLID_V_DIP.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_V_DIP\obj\Debug\net6.0\refint\SOLID_V_DIP.dll
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_V_DIP\obj\Debug\net6.0\SOLID_V_DIP.pdb
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_V_DIP\obj\Debug\net6.0\SOLID_V_DIP.genruntimeconfig.cache
+C:\Users\halkbank2\Desktop\.net\Hafta 7\23-11-2023\StateManagement\SOLID_V_DIP\obj\Debug\net6.0\ref\SOLID_V_DIP.dll
